@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q48",
+    "edital": "unicamp",
+    "numero": 48,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "O movimento de ataque em um jogo de voleibol é mais eficien­\nte se o atleta atingir a bola no ponto mais alto da trajetória do \ncentro de massa da bola. A Figura 1 mostra a trajetória da bola \nque foi lançada pela Atleta A em direção à Atleta B.\n\nO centro de massa da bola, ao ser lançada pela Atleta A, está \na 2 metros de altura em relação ao solo. Quando a Atleta B \nataca, o centro de massa da bola está a 3 metros de altura em \nrelação ao solo.\n\nAs jogadoras estão no mesmo plano da trajetória da bola e a \ndistância entre as jogadoras é de 9 metros. Sabe-se que a tra­\njetória do centro de massa da bola é uma parábola e que o \nataque aconteceu justamente no ponto de maior altura da pa­\nrábola, conforme representado na Figura 2.\n\nFigura 1\n\ny\n\nx\nAtleta B\n\nAtleta A\n\nFigura 2\n\ny\n\n3\n2\n\nx\n\n9\n\nA equação da parábola que descreve a trajetória do centro de \nmassa da bola é",
+    "url_img": [],
+    "resolucao": "Vamos estabelecer um sistema de coordenadas onde a Atleta A está na origem (x=0) e o solo é o eixo x (y=0).\n\n1.  **Identificar os pontos dados:**\n    *   A bola é lançada pela Atleta A a 2 metros de altura. Isso significa que a parábola passa pelo ponto (0, 2).\n    *   A Atleta B ataca a bola no ponto mais alto da trajetória (vértice da parábola), a 3 metros de altura. A distância entre as jogadoras é de 9 metros. Isso significa que o vértice da parábola (xv, yv) está em (9, 3).\n\n2.  **Usar a forma canônica da equação da parábola.**\n    *   A forma canônica da equação da parábola é y = a(x - xv)² + yv, onde (xv, yv) é o vértice.\n    *   Substituindo o vértice (9, 3): y = a(x - 9)² + 3.\n\n3.  **Encontrar o valor de 'a' usando o ponto (0, 2).**\n    *   Substitua x = 0 e y = 2 na equação:\n        *   2 = a(0 - 9)² + 3\n        *   2 = a(-9)² + 3\n        *   2 = 81a + 3\n        *   2 - 3 = 81a\n        *   -1 = 81a\n        *   a = -1/81.\n\n4.  **Escrever a equação final da parábola e expandi-la.**\n    *   Substituindo 'a' na forma canônica: y = (-1/81)(x - 9)² + 3.\n    *   Expandir a equação:\n        *   y = (-1/81)(x² - 18x + 81) + 3\n        *   y = (-1/81)x² + (18/81)x - (81/81) + 3\n        *   y = (-1/81)x² + (2/9)x - 1 + 3\n        *   y = (-1/81)x² + (2/9)x + 2.\n\nComparando esta equação com as alternativas, vemos que ela corresponde à alternativa C.\n\nA alternativa correta é a C.",
+    "dica": "Familiarize-se com as diferentes formas da equação da parábola (geral e canônica). Lembre-se que o vértice (xv, yv) é crucial para a forma canônica y = a(x - xv)² + yv. Identifique os pontos dados no problema e o significado deles (ponto de passagem, vértice) para construir a equação."
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "Função Quadrática",
+      "Equação da Parábola",
+      "Vértice da Parábola",
+      "Pontos Notáveis"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "y = (−1 ⁄ 9)x2 + (10 ⁄ 9)x + 2.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "y = (−1 ⁄ 99)x2 + (20 ⁄ 99)x + 2.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "y = (−1 ⁄ 81)x2 + (2 ⁄ 9)x + 2.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "y = (−1 ⁄ 4)x2 + (9 / 2)x + 2.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

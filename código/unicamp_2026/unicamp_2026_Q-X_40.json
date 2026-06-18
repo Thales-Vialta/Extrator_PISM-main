@@ -1,0 +1,51 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q40",
+    "edital": "unicamp",
+    "numero": 40,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Considere a placa de aviso encontrada em uma reserva ecoló­\ngica.\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p15_drawing2.png)\n\nCUIDADO, INSETOS PERIGOSOS!\n\nMOSQUITOS\nCARRAPATOS\n\nESCORPIÕES\nABELHAS\n\n(Adaptado de https://pt.dreamstime.com. Acesso em 31/03/2025.)\n\nA informação da placa está",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p15_drawing2.png"
+    ],
+    "resolucao": "1. Analise o aviso na placa: O título geral é 'CUIDADO, INSETOS PERIGOSOS!', e a lista inclui: MOSQUITOS, CARRAPATOS, ESCORPIÕES, ABELHAS.\n2. Classifique os animais listados:\n   - Mosquitos e Abelhas: Pertencem à Classe Insecta (Insetos). São artrópodes.\n   - Carrapatos e Escorpiões: Pertencem à Classe Arachnida (Aracnídeos). Também são artrópodes, mas *não* são insetos.\n   - Todos os animais listados (mosquitos, abelhas, carrapatos, escorpiões) pertencem ao Filo Arthropoda (Artrópodes).\n3. Avalie se a placa está correta ou errada, e o porquê:\n   - A placa está errada ao categorizar todos os animais como 'INSETOS PERIGOSOS!', pois carrapatos e escorpiões são aracnídeos, não insetos, embora sejam todos artrópodes.\n4. Avalie as alternativas:\n   - Alternativa A: Afirma que a placa está 'correta' e classifica carrapatos e escorpiões como quilópodes e mosquitos e abelhas como diplópodes. Ambas as classificações estão erradas. Carrapatos e escorpiões são aracnídeos; quilópodes e diplópodes são outras classes de artrópodes.\n   - Alternativa B: Afirma que a placa está 'errada, pois apenas dois animais são artrópodes'. Incorreto, todos os quatro animais listados são artrópodes.\n   - Alternativa C: Afirma que a placa está 'correta' e depois classifica mosquitos/abelhas como artrópodes e carrapatos/escorpiões como aracnídeos. Embora as classificações taxonômicas apresentadas na segunda parte estejam corretas, a afirmação de que a placa está 'correta' é falsa, devido ao título generalista 'INSETOS PERIGOSOS!'.\n   - Alternativa D: Afirma que a placa está 'errada, pois mesmo que todos os animais sejam classificados como artrópodes, os carrapatos e os escorpiões são aracnídeos'. Esta alternativa está completamente correta. A placa erra ao chamar todos de insetos, pois carrapatos e escorpiões, apesar de serem artrópodes, pertencem à classe dos aracnídeos.",
+    "dica": "Revisar a classificação dos artrópodes, diferenciando suas principais classes (Insecta, Arachnida, Chilopoda, Diplopoda, Crustacea) com base em suas características morfológicas (número de patas, divisão do corpo, presença de antenas). Compreender a hierarquia taxonômica de filo, classe, ordem, etc."
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "Classificação biológica",
+      "Artrópodes",
+      "Insetos",
+      "Aracnídeos",
+      "Quilópodes",
+      "Diplópodes"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "correta, já que os carrapatos e escorpiões são classificados \n\ncomo quilópodes e os mosquitos e as abelhas como dipló­\npodes.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "errada, pois apenas dois animais são artrópodes, sendo eles \n\nos mosquitos e as abelhas, que são classificados como in­\nsetos.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "correta, já que os mosquitos e as abelhas são classificados \n\ncomo artrópodes e os carrapatos e escorpiões como arac­\nnídeos.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "errada, pois mesmo que todos os animais sejam classifica­\n\ndos como artrópodes, os carrapatos e os escorpiões são \naracnídeos.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

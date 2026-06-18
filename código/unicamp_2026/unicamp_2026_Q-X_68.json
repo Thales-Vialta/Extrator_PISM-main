@@ -1,0 +1,49 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q68",
+    "edital": "unicamp",
+    "numero": 68,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Aviões são os únicos meios de transporte que cruzam continen­\ntes em um dia. Apesar dos avanços em eficiência energética, \nas aeronaves contribuem com 3,5% do aquecimento global. \nPor isso, existe o interesse em substituir o querosene usado por \nessas aeronaves por hidrogênio, com destaque para o uso do \nhidrogênio líquido combustível. A tabela a seguir apresenta da­\ndos desses dois tipos de combustíveis na aviação. \n\n23\n\nEnergia \ncombustão \n\nDensidade \n\nMassa molar \n\nCombustível\n\ndo líquido \n\n(g·mol−1)\n\n(kJ·mol−1)\n\n(g·cm−3)\n\nQuerosene*\n6745\n0,804\n153\n\nHidrogênio\n240\n0,071\n2\n\n* valores médios e aproximados.\n\nCaracterísticas como massa e volume da aeronave são fatores \nimportantes para seu desempenho. Levando em conta essa in­\nformação, para uma mesma quantidade de energia gerada pelo \ncombustível, é correto afirmar que o hidrogênio é melhor que \no querosene, pois",
+    "url_img": [],
+    "resolucao": "1. Entendimento da Pergunta: A questão pede para comparar o hidrogênio e o querosene como combustíveis para aviação, focando nas características de massa e volume para a mesma quantidade de energia gerada. A pergunta busca identificar por que o hidrogênio seria 'melhor' sob essa condição.2. Cálculo da Energia Específica (energia por massa): Querosene: Energia/massa = (Energia de combustão) / (Massa molar) = 6745 kJ/mol / 153 g/mol ≈ 44,08 kJ/g Hidrogênio: Energia/massa = (Energia de combustão) / (Massa molar) = 240 kJ/mol / 2 g/mol = 120,00 kJ/g Comparação: O hidrogênio tem uma energia específica (energia por massa) significativamente maior que o querosene (120 kJ/g vs. 44,08 kJ/g). Isso significa que, para gerar a mesma quantidade de energia, é necessária uma massa menor de hidrogênio.3. Cálculo da Densidade de Energia (energia por volume): Querosene: Densidade de energia = (Energia/massa) * Densidade do líquido = 44,08 kJ/g * 0,804 g/cm³ ≈ 35,44 kJ/cm³ Hidrogênio: Densidade de energia = (Energia/massa) * Densidade do líquido = 120,00 kJ/g * 0,071 g/cm³ ≈ 8,52 kJ/cm³ Comparação: O hidrogênio tem uma densidade de energia (energia por volume) menor que o querosene (8,52 kJ/cm³ vs. 35,44 kJ/cm³). Isso significa que, para gerar a mesma quantidade de energia, é necessário um volume maior de hidrogênio.4. Avaliação das Alternativas: A) 'sua razão energia por volume é maior.' Incorreta. A razão energia por volume do hidrogênio é menor. B) 'o volume utilizado será menor.' Incorreta. Devido à menor densidade de energia, o volume utilizado de hidrogênio será maior para a mesma energia. C) 'sua razão energia por massa é maior.' Correta. A razão energia por massa do hidrogênio é muito maior, o que é uma vantagem crucial para aviação (menor peso do combustível). D) 'a massa utilizada será maior.' Incorreta. Devido à maior razão energia por massa, a massa utilizada de hidrogênio será menor para a mesma energia.",
+    "dica": "Para problemas de cálculo e comparação de combustíveis, sempre preste atenção às unidades e às grandezas que estão sendo comparadas (energia por massa, energia por volume). Pratique a conversão de unidades e a interpretação dos resultados no contexto do problema, como a importância de massa vs. volume em diferentes aplicações (e.g., aviação vs. armazenamento)."
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "Termoquímica",
+      "Energia de combustão",
+      "Densidade energética",
+      "Combustíveis",
+      "Hidrogênio como combustível",
+      "Eficiência energética"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "sua razão energia por volume é maior.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "o volume utilizado será menor.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "sua razão energia por massa é maior.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "a massa utilizada será maior.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

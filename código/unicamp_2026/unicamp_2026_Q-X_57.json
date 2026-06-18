@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q57",
+    "edital": "unicamp",
+    "numero": 57,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "O texto a seguir é um trabalho da artista Santarosa Barreto \napresentado na exposição Histórias das mulheres: artistas de­\npois de 2000, realizada no MASP em 2019.\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p20_img0.jpeg)\n\n(BARRETO, S. A luta. Ikrek Edições, 2019 (reimpressão 2024).)\n\nNesse texto, observamos ocorrências de “que” com diferentes \nvalores, entre eles o",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p20_img0.jpeg"
+    ],
+    "resolucao": "O texto de Santarosa Barreto apresenta uma estrutura repetitiva: \"A luta que me atravessa / A luta que me enxerta / A luta que me expande\" e assim por diante.\n\nNessas ocorrências, a palavra \"que\" atua como um pronome relativo, introduzindo uma oração subordinada adjetiva. O objetivo dessas orações é descrever, caracterizar ou detalhar as qualidades e efeitos da \"luta\" sobre a pessoa que fala. Quando uma oração adjetiva não restringe o sentido do antecedente, mas sim acrescenta uma informação ou explicação sobre ele, ela é classificada como adjetiva explicativa.\n\nVamos analisar as alternativas:\n\n*   **A) explicativo, com o objetivo de listar justificativas que tentam suprimir, em favor de outros, uma dimensão pessoal da luta.** O \"que\" neste contexto tem, de fato, um valor explicativo, pois as orações detalham a natureza da luta para a autora. Elas listam como a luta a afeta, servindo como 'justificativas' ou descrições. Embora a parte 'que tentam suprimir, em favor de outros, uma dimensão pessoal da luta' possa parecer contraditória com o tom do poema (que enfatiza a dimensão pessoal), o 'explicativo' como valor do 'que' é o mais adequado. A função das orações é a de *explicar* a luta, e não a de compará-la, condicioná-la ou expressar causa.\n*   **B) comparativo, com o objetivo de equiparar a luta motivada por convicções próprias e a luta instigada por quem está no poder.** Não há comparação explícita entre diferentes tipos de luta ou suas motivações no poema.\n*   **C) condicional, com o objetivo de caracterizar a luta como uma condição para combater aqueles que a querem controlar.** O uso do \"que\" não estabelece uma relação de condição (se... então...). As frases não indicam uma condição para a luta.\n*   **D) causal, com o objetivo de reiterar as situações que levam alguém a desistir de promover a luta como forma de resistência individual.** O \"que\" não estabelece uma relação de causa e efeito (porque...). As frases descrevem as características da luta, não suas causas ou consequências para a desistência.\n\nDado que as orações introduzidas pelo 'que' especificam e detalham a 'luta', seu valor semântico mais apropriado é o explicativo. Apesar da ressalva em relação à segunda parte da alternativa A, as outras opções são claramente inconsistentes com o uso do 'que' no poema.\n\nA alternativa correta é a A.",
+    "dica": "Entenda a diferença entre os diversos usos do 'que' (pronome relativo, conjunção integrante, conjunção explicativa, conjunção consecutiva, etc.) e suas funções sintáticas e semânticas. Em poemas e textos mais densos, as orações adjetivas explicativas são comuns para aprofundar a descrição de um conceito central."
+  },
+  "especificacao": {
+    "materia": "Português",
+    "tags": [
+      "Análise Sintática",
+      "Conjunções",
+      "Pronomes Relativos",
+      "Valores Semânticos",
+      "Interpretação de Texto"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "explicativo, com o objetivo de listar justificativas que tentam \n\nsuprimir, em favor de outros, uma dimensão pessoal da luta.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "comparativo, com o objetivo de equiparar a luta motivada \n\npor convicções próprias e a luta instigada por quem está no \npoder.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "condicional, com o objetivo de caracterizar a luta como uma \n\ncondição para combater aqueles que a querem controlar.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "causal, com o objetivo de reiterar as situações que levam \n\nalguém a desistir de promover a luta como forma de resis­\ntência individual.\n\n19",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

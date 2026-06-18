@@ -1,0 +1,48 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q11",
+    "edital": "unicamp",
+    "numero": 11,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Outra bateria totalmente carregada armazena uma energia \nEb = 15 Wh. Devemos elevar uma massa m = 45 kg até a altura \ny,   em relação ao solo, para que a variação da energia poten­\ncial gravitacional Ep desse sistema mecânico seja igual à energia \narmazenada nessa bateria. A altura y deve ser \nDado:  g = 10 m/s2.",
+    "url_img": [],
+    "resolucao": "Passo 1: Identificar os valores dados e a grandeza a ser calculada.\n- Energia armazenada na bateria (Eb) = 15 Wh\n- Massa (m) = 45 kg\n- Aceleração da gravidade (g) = 10 m/s²\n- Altura (y) = ?\nPasso 2: Converter a energia da bateria para Joules (J), a unidade de energia do SI.\n- Sabemos que 1 Wh (Watt-hora) = 1 Watt × 1 hora.\n- E 1 Watt (W) = 1 Joule/segundo (J/s).\n- E 1 hora (h) = 3 600 segundos (s).\n- Portanto, 1 Wh = 1 J/s × 3 600 s = 3 600 J.\n- Convertendo Eb para Joules:\n  Eb = 15 Wh × 3 600 J/Wh\n  Eb = 54 000 J\nPasso 3: Relacionar a energia da bateria com a energia potencial gravitacional.\n- O problema afirma que a variação da energia potencial gravitacional (Ep) deve ser igual à energia armazenada na bateria (Eb).\n- A fórmula da energia potencial gravitacional é Ep = m × g × y.\n- Então, m × g × y = Eb\nPasso 4: Substituir os valores e calcular a altura (y).\n- 45 kg × 10 m/s² × y = 54 000 J\n- 450 × y = 54 000\n- y = 54 000 / 450\n- y = 5400 / 45\n- y = 120 m\nPasso 5: Comparar o resultado com as alternativas.\n- O valor calculado é 120 m, que corresponde à alternativa C.\n\nResposta: A alternativa C é a correta.",
+    "dica": "A conversão de unidades é um ponto crítico em muitos problemas de física. Tenha sempre em mente as relações entre as unidades do Sistema Internacional (SI) e outras unidades comuns, como horas para segundos e Watts-hora para Joules. Pratique a manipulação de fórmulas e a organização dos dados para evitar erros."
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "Energia",
+      "Energia potencial gravitacional",
+      "Conversão de unidades",
+      "Unidades de energia",
+      "Mecânica"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "0,03 m.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "3 m.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "120 m.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "1 200 m.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

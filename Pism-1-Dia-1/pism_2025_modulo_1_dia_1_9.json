@@ -1,0 +1,48 @@
+{
+  "metadados": {
+    "codigo": "pism_2025_q9",
+    "edital": "pism",
+    "numero": 9,
+    "tipo_ou_cor": "modulo_1_dia_1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "![figura](./imgs/Pism-1-Dia-1_modulo_1_dia_1_p7_img3.png)\n\nFonte: https://institutopristino.org.br/inicio-do-projeto-\n\ngeotecnologias-para-gestao-hidrica-do-sinclinal-moeda-mg-2/.\n\nAcesso em: 16 de jun. de 2024.\n\nA imagem acima apresenta a ´area usualmente co-\nnhecida como Quadril´atero Ferr´ıfero.\nEntretanto,\npesquisas tˆem apontado que o termo mais indicado\nseria Quadril´atero Aqu´ıfero-Ferr´ıfero, j´a que a ´area\nabriga o Aqu´ıfero Cauˆe, com alta capacidade de ar-\nmazenamento de ´agua.\nEsta capacidade se explica em decorrˆencia das",
+    "url_img": [
+      "./imgs/Pism-1-Dia-1_modulo_1_dia_1_p7_img3.png"
+    ],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "caracter´ısticas mineral´ogicas dos minerais ferru-\nginosos.\n\nP´agina 6 de 13",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "caracter´ısticas do relevo, com baixa varia¸c˜ao nas\naltitudes.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "obras de engenharia humana, particularmente as\nbarragens.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "fraturas nas rochas metam´orficas, nas quais a\n´agua ´e armazenada.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": {
+      "texto": "das propriedades qu´ımicas do Ferro (Fe), abun-\ndantes nos Itabiritos.",
+      "url_img": [],
+      "correta": false
+    }
+  }
+}

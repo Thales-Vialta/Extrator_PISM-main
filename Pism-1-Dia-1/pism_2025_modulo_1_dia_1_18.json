@@ -1,0 +1,46 @@
+{
+  "metadados": {
+    "codigo": "pism_2025_q18",
+    "edital": "pism",
+    "numero": 18,
+    "tipo_ou_cor": "modulo_1_dia_1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Os fenˆomenos observados no meio ambiente e as a¸c˜oes\nhumanas que podem afetar estes eventos podem ser\nclassificados como transforma¸c˜oes qu´ımicas ou pro-\ncessos f´ısicos. Considere os seguintes fenˆomenos:\n1. precipita¸c˜ao de chuvas;\n2. evapora¸c˜ao da ´agua;\n3. destrui¸c˜ao da camada de ozˆonio;\n4. aquecimento global devido ao efeito estufa e\n5. queima de combust´ıveis f´osseis.\nDentre esses fenˆomenos, s˜ao consideradas trans-\nforma¸c˜oes qu´ımicas:",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "1 e 4",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "1 e 3",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "2 e 4",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "3 e 5",
+      "url_img": [],
+      "correta": false
+    },
+    "e": {
+      "texto": "2 e 5\n\nPr´o Reitoria de Gradua¸c˜ao\nCoordena¸c˜ao Geral de Processos Seletivos\nPism 2025 - M´odulo 1 - 1º Dia",
+      "url_img": [],
+      "correta": false
+    }
+  }
+}

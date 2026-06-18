@@ -1,0 +1,56 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q13",
+    "edital": "unicamp",
+    "numero": 13,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Qual é o gráfico que representa a posição s (t) do motociclista \nem função do tempo t?",
+    "url_img": [],
+    "resolucao": "Passo 1: Converter a velocidade inicial.\nv0 = 36 km/h = 36 / 3,6 m/s = 10 m/s.\nPasso 2: Analisar cada trecho do movimento e suas características no gráfico s(t) x t.\n*   **Trecho I (t = 0 a t = 30 s):** Velocidade constante de 10 m/s.\n    *   Tipo de movimento: MRU (Movimento Retilíneo Uniforme).\n    *   Gráfico s(t): Reta crescente (inclinação constante positiva).\n    *   Posição final: s(30) = 10 m/s * 30 s = 300 m.\n*   **Trecho II (t = 30 s a t = 50 s):** Desaceleração constante até parar (velocidade final = 0).\n    *   Tipo de movimento: MRUV (Movimento Retilíneo Uniformemente Variado) com aceleração negativa.\n    *   Gráfico s(t): Parábola com concavidade para baixo, cuja inclinação diminui até zero em t = 50 s.\n    *   Deslocamento (área sob o gráfico v(t) ou pela função horária): Δs = v0*t + (1/2)at². A aceleração é a = (0 - 10)/20 = -0,5 m/s². Δs = 10*20 + (1/2)*(-0,5)*(20)² = 200 - 100 = 100 m. Posição final: s(50) = 300 + 100 = 400 m.\n*   **Intervalo de repouso (t = 50 s a t = 80 s):** Parado.\n    *   Tipo de movimento: Repouso.\n    *   Gráfico s(t): Reta horizontal em s = 400 m.\n*   **Trecho III (t = 80 s a t = 95 s):** Aceleração constante a = 0,8 m/s², partindo do repouso (velocidade inicial = 0).\n    *   Tipo de movimento: MRUV com aceleração positiva.\n    *   Gráfico s(t): Parábola com concavidade para cima, começando com inclinação zero em t = 80 s e aumentando.\n    *   Deslocamento: Δs = (1/2)at² = (1/2)*0,8*(15)² = 0,4*225 = 90 m. Posição final: s(95) = 400 + 90 = 490 m. Velocidade final: v(95) = 0,8*15 = 12 m/s.\n*   **Trecho IV (t = 95 s a t = 120 s):** Velocidade constante igual à final do Trecho III (12 m/s).\n    *   Tipo de movimento: MRU.\n    *   Gráfico s(t): Reta crescente (inclinação constante positiva igual a 12 m/s).\n    *   Deslocamento: Δs = 12 m/s * (120 - 95)s = 12 * 25 = 300 m. Posição final: s(120) = 490 + 300 = 790 m.\nPasso 3: Comparar as características calculadas com os gráficos.\nAnalisando os gráficos, o Gráfico A é o único que consistentemente mostra:\n- Trecho I: Reta ascendente até (30s, 300m).\n- Trecho II: Curva com concavidade para baixo, alcançando inclinação horizontal (velocidade zero) em (50s, 400m).\n- Período de repouso: Linha horizontal em 400m de 50s a 80s.\n- Trecho III: Curva com concavidade para cima, começando com inclinação horizontal (velocidade zero) em (80s, 400m) e aumentando a inclinação até (95s, 490m).\n- Trecho IV: Reta ascendente de (95s, 490m) até (120s, ~790m), com a mesma inclinação da tangente final do Trecho III.\nOs outros gráficos (B, C, D) falham em mostrar a inclinação zero em t=80s para o início do Trecho III, ou as concavidades corretas de forma clara.\n\nResposta: A alternativa A é a correta.",
+    "dica": "Ao lidar com gráficos de cinemática, especialmente de posição versus tempo (s(t) x t), lembre-se que:\n- Movimento Uniforme (velocidade constante) é representado por uma linha reta (inclinação constante = velocidade).\n- Movimento Uniformemente Variado (aceleração constante) é representado por uma parábola.\n    - Concavidade para cima indica aceleração positiva.\n    - Concavidade para baixo indica aceleração negativa (desaceleração).\n- A inclinação da tangente à curva s(t) x t em qualquer ponto representa a velocidade instantânea. Uma inclinação zero significa que o objeto está em repouso.\n- Sempre converta todas as unidades para o SI antes de iniciar os cálculos."
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "Cinemática",
+      "Gráficos de movimento",
+      "Posição-tempo",
+      "Movimento uniforme",
+      "Movimento uniformemente variado"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "800\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p5_drawing0.png)\n\n600\n\nΙV\n\ns(t) (m)\n\n400\n\nΙ\n\nΙΙΙ\n\nΙΙ\n\n200\n\n0\n\n0\n20\n40\n60\n80\n100 120\nt (s)",
+      "url_img": [
+        "./imgs/unicamp_2026_Q-X_p5_drawing0.png"
+      ],
+      "correta": true
+    },
+    "b": {
+      "texto": "800\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p5_drawing1.png)\n\n600\n\nΙV\n\ns(t) (m)\n\n400\n\nΙ\n\nΙΙΙ\n\nΙΙ\n\n200\n\n0\n\n0\n20\n40\n60\n80\n100 120\nt (s)\n\n4",
+      "url_img": [
+        "./imgs/unicamp_2026_Q-X_p5_drawing1.png"
+      ],
+      "correta": false
+    },
+    "c": {
+      "texto": "800\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p5_drawing2.png)\n\n600\n\nΙV\n\ns(t) (m)\n\n400\n\nΙ\n\nΙΙΙ\n\nΙΙ\n\n200\n\n0\n\n0\n20\n40\n60\n80\n100 120\nt (s)",
+      "url_img": [
+        "./imgs/unicamp_2026_Q-X_p5_drawing2.png"
+      ],
+      "correta": false
+    },
+    "d": {
+      "texto": "800\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p5_drawing3.png)\n\n600\n\nΙV\n\ns(t) (m)\n\nΙΙ\n\n400\n\nΙ\n\nΙΙΙ\n\n200\n\n0\n\n0\n20\n40\n60\n80\n100 120\nt (s)",
+      "url_img": [
+        "./imgs/unicamp_2026_Q-X_p5_drawing3.png"
+      ],
+      "correta": false
+    },
+    "e": null
+  }
+}

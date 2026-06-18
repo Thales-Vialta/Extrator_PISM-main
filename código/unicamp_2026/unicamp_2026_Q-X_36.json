@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q36",
+    "edital": "unicamp",
+    "numero": 36,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Um agricultor realizou a remoção de um anel da casca de ra­\nmos caulinares, prática conhecida como anelamento, para au­\nmentar o tamanho dos frutos em seu pomar. Ele observou dois \ngrupos de plantas após algumas semanas. As plantas do gru­\npo 1 tinham uma região claramente anelada nos ramos e seus \nfrutos eram maiores, se comparadas às plantas do grupo 2. Já \nas plantas do grupo 2 perderam as folhas e foram claramente \nprejudicadas pelo anelamento. Ao retornar no ano seguinte, o \nanelamento era quase imperceptível nas plantas do grupo 1.\n\nConsiderando as informações apresentadas e os seus conheci­\nmentos em biologia vegetal, é correto afirmar que o anelamen­\nto eliminou os vasos do\n\n13",
+    "url_img": [],
+    "resolucao": "1. Compreenda o anelamento: O anelamento é a remoção de um anel da casca de um ramo caulinar. A casca contém o floema, responsável pelo transporte da seiva elaborada (açúcares produzidos na fotossíntese) das folhas para as outras partes da planta, incluindo raízes e frutos. O xilema, que transporta a seiva bruta (água e minerais) das raízes para as folhas, está localizado mais internamente e não é afetado por um anelamento superficial da casca.\n2. Analise os efeitos do anelamento:\n   - Interrupção do floema acima do anel: Os produtos da fotossíntese se acumulam na parte da planta acima do anel. Isso pode direcionar mais nutrientes para os frutos que estão acima do anel, resultando em frutos maiores (como no Grupo 1).\n   - Interrupção do floema abaixo do anel: As raízes, localizadas abaixo do anelamento, ficam privadas dos nutrientes (açúcares) essenciais para seu crescimento e metabolismo. Se essa privação for severa, as raízes podem morrer, comprometendo a absorção de água e minerais, o que pode levar à morte da planta ou à perda das folhas (como no Grupo 2).\n   - Atividade do câmbio vascular: O câmbio vascular é responsável pelo crescimento secundário, produzindo xilema e floema. Se o anelamento não for muito profundo ou se a planta tiver boa capacidade de cicatrização, o câmbio pode regenerar os tecidos, tornando o anelamento 'quase imperceptível' (como no Grupo 1).\n3. Avalie as alternativas:\n   - Alternativa A: Afirma que eliminou o 'xilema'. Incorreto, o anelamento da casca elimina o floema.\n   - Alternativa B: Afirma que eliminou o 'floema e restringiu o transporte dos produtos da fotossínse para as folhas'. Incorreto, o transporte de seiva elaborada é *das* folhas para outras partes, não para as folhas.\n   - Alternativa C: Afirma que eliminou o 'xilema'. Incorreto.\n   - Alternativa D: Afirma que eliminou o 'floema e restringiu o transporte dos produtos da fotossíntese para as raízes, sem comprometer a atividade do câmbio vascular nas plantas do grupo 1'. Esta afirmação está correta. O anelamento remove o floema, impedindo os nutrientes de chegar às raízes. O acúmulo de nutrientes acima do anel beneficia os frutos. A observação de que o anelamento era 'quase imperceptível' no ano seguinte para o Grupo 1 indica que o câmbio vascular não foi permanentemente comprometido e conseguiu regenerar os vasos.",
+    "dica": "Revisar a estrutura e função dos tecidos vegetais (xilema, floema, câmbio vascular), os mecanismos de transporte de seiva (bruta e elaborada) e o processo de fotossíntese. Entender como a interrupção desses vasos afeta o desenvolvimento da planta e a distribuição de nutrientes."
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "Anatomia vegetal",
+      "Fisiologia vegetal",
+      "Transporte de seiva",
+      "Floema",
+      "Xilema",
+      "Anelamento",
+      "Fotossíntese"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "xilema e limitou o transporte de água para as folhas, com­\n\nprometendo a atividade do câmbio vascular nas plantas do \ngrupo 1.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "floema e restringiu o transporte dos produtos da fotossínte­\n\nse para as folhas, sem comprometer a atividade do câmbio \nvascular nas plantas do grupo 2.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "xilema e limitou o transporte de água para as raízes, com­\n\nprometendo a atividade do câmbio vascular nas plantas do \ngrupo 2.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "floema e restringiu o transporte dos produtos da fotossínte­\n\nse para as raízes, sem comprometer a atividade do câmbio \nvascular nas plantas do grupo 1.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

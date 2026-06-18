@@ -1,0 +1,46 @@
+{
+  "metadados": {
+    "codigo": "pism_2025_q4",
+    "edital": "pism",
+    "numero": 4,
+    "tipo_ou_cor": "modulo_1_dia_1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Marcuschi, autor do texto VI, defende uma hip´otese\nsobre a linguagem. Sabendo disso, pode-se afirmar\nque os textos III, IV, V - escritos por empregadas\ndom´esticas na p´agina de rede social “Eu, empre-\ngada”:",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "justificam a tese do autor de que oralidade e es-\ncrita situam-se em sistemas lingu´ısticos diversos,\nj´a que n˜ao se percebem aspectos da fala nos tex-\ntos escritos pelas empregadas em rede social.\n\nP´agina 3 de 13",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "exemplificam o posicionamento central do autor\nde que aspectos da linguagem oral e escrita se\nmesclam a depender do gˆenero textual e da si-\ntua¸c˜ao comunicativa, pois h´a caracter´ısticas de\noralidade nos textos citados.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "destoam da explica¸c˜ao do autor sobre um mesmo\nsistema da l´ıngua oral e escrita, visto que os tex-\ntos das empregadas apresentam varia¸c˜oes de lin-\nguagem n˜ao permitidas em relatos escritos em\nrede social.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "contrariam a justificativa do autor de que a\nl´ıngua ´e um fenˆomeno hist´orico e social, visto\nque n˜ao h´a indica¸c˜oes de varia¸c˜oes sociais nos\ntextos citados, os quais est˜ao conforme a norma\npadr˜ao.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": {
+      "texto": "confirmam a teoria do autor de que fala e es-\ncrita constituem dois polos distintos da l´ıngua,\npois os relatos das empregadas demonstram ca-\nracter´ısticas da linguagem pr´oprias a textos es-\ncritos formais.",
+      "url_img": [],
+      "correta": false
+    }
+  }
+}

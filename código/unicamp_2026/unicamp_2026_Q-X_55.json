@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q55",
+    "edital": "unicamp",
+    "numero": 55,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Sobre a diferença que o texto estabelece entre Nós e nóix, po­\ndemos afirmar que está relacionada a uma distinção",
+    "url_img": [],
+    "resolucao": "O texto de Marcelo José Derzi Moraes explora as nuances do termo 'nóix' em contraste com 'Nós'. A análise das alternativas à luz do texto:\n\n*   **O texto afirma:**\n    *   'nóix' é 'sempre com letra minúscula, porque não é o Nós da totalidade, uma vez que não sabemos exatamente quem ou quantos somos, quem faz parte ou não, quem está dentro ou fora.' – isso já aponta para uma distinção de delimitação do grupo.\n    *   'O nóix é sempre mais que um. Mesmo sozinho, na missão, existe algo para além da presença física do eu e do outro. Assumindo nossas ancestralidades, convivemos com os espíritos daqueles que já se foram.' – reforça a ideia de coletividade difusa e conectada por laços profundos.\n    *   'O nóix opera pela lógica dos bondes de galera, do lado A ou lado B. Quem é amigo fecha com a gente, quem é alemão rala. Porque o fechamento é o fundamento ético das ruas.' – destaca vivências e códigos sociais específicos.\n    *   'Com i e x, o nóix demarca um sotaque, um registro local, um lugar, o Pretuguês de Lélia Gonzalez. Desobedecendo à instituída norma culta, o nóix – escrito ou falado – revela sua potência operando à margem da obediência à linguagem fonética dominante.' – associa o termo a um registro linguístico marginalizado e identitário.\n\n*   **Análise das alternativas:**\n    *   **A) sociocultural, pois esses termos se referem a grupos demarcados distintamente: enquanto Nós é bem delimitado, nóix diz respeito a uma coletividade difusa, mas marcada por compartilhar vivências específicas.** Esta alternativa está alinhada com as informações do texto, que descreve 'Nós' como uma 'totalidade' (implica delimitação) e 'nóix' como uma coletividade de 'galera' das 'ruas', com 'ancestralidades' e 'fechamento' (vivências específicas), e uma demarcação de 'sotaque, um registro local, um lugar'. A distinção é claramente sociocultural.\n    *   **B) gramatical, pois esses termos não pertencem à mesma classe de palavras: enquanto Nós é um pronome típico da norma culta, nóix é um substantivo popular que serve à expressão da diversidade.** O texto não classifica 'nóix' como substantivo, e a distinção principal não é gramatical, mas sim de uso e sentido social. Ambos se referem a pronomes.\n    *   **C) histórica, pois esses termos caracterizam os indivíduos em função do seu passado: enquanto Nós abrange aqueles sem ancestralidade, nóix reúne os que assumem os ancestrais como parte de sua história.** Embora a ancestralidade seja importante para 'nóix', o texto não define 'Nós' por ausência de ancestralidade. A dimensão histórica é uma parte, mas não a principal distinção conforme o texto.\n    *   **D) política, pois esses termos revelam uma polarização na forma de se relacionar com o poder: enquanto Nós simboliza o apoio à opressão social, nóix caracteriza uma rejeição aos poderes instituídos.** O texto menciona operar 'à margem da obediência à linguagem fonética dominante', o que pode ter uma implicação política, mas não chega a estabelecer uma polarização direta entre apoio à opressão social e rejeição explícita aos poderes como a principal diferença entre os termos.\n\nA alternativa correta é a A.",
+    "dica": "Ao analisar textos sobre variação linguística e identidade, procure as palavras-chave que descrevem os grupos sociais, suas interações, origens e formas de expressão. Questões sobre \"Nós\" e \"nóix\" frequentemente exploram a ideia de pertencimento e as nuances socioculturais da linguagem."
+  },
+  "especificacao": {
+    "materia": "Português",
+    "tags": [
+      "Variação Linguística",
+      "Sociolinguística",
+      "Identidade Social",
+      "Semântica"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "sociocultural, pois esses termos se referem a grupos demar­\n\ncados distintamente: enquanto Nós é bem delimitado, nóix \ndiz respeito a uma coletividade difusa, mas marcada por \ncompartilhar vivências específicas.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "gramatical, pois esses termos não pertencem à mesma clas­\n\nse de palavras: enquanto Nós é um pronome típico da nor­\nma culta, nóix é um substantivo popular que serve à expres­\nsão da diversidade.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "histórica, pois esses termos caracterizam os indivíduos em \n\nfunção do seu passado: enquanto Nós abrange aqueles sem \nancestralidade, nóix reúne os que assumem os ancestrais \ncomo parte de sua história.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "política, pois esses termos revelam uma polarização na for­\n\nma de se relacionar com o poder: enquanto Nós simboliza \no apoio à opressão social, nóix caracteriza uma rejeição aos \npoderes instituídos.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

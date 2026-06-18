@@ -1,0 +1,46 @@
+{
+  "metadados": {
+    "codigo": "pism_2025_q19",
+    "edital": "pism",
+    "numero": 19,
+    "tipo_ou_cor": "modulo_1_dia_1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Atualmente, o Brasil tem sofrido com longos per´ıodos\nde seca no norte do pa´ıs e grandes enchentes na regi˜ao\nsul. Assim, a ´agua pot´avel no nosso dia a dia tem se\ntornado cada vez mais importante para a popula¸c˜ao.\nDurante o processo de tratamento de ´agua para a\nprodu¸c˜ao de ´agua pot´avel,",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "a etapa de desinfec¸c˜ao gera um precipitado que\nmata os microorganismos.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "galhos, folhas, terra e outras impurezas s˜ao se-\nparados da ´agua na etapa de desinfec¸c˜ao.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "o fl´uor ´e adicionado com a finalidade de eliminar\nmicroorganismos, como as bact´erias.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "ocorrem v´arias etapas, entre elas a flocula¸c˜ao, a\ndecanta¸c˜ao e a destila¸c˜ao.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": {
+      "texto": "o sulfato de alum´ınio ´e utilizado para formar flo-\ncos com part´ıculas de impurezas.",
+      "url_img": [],
+      "correta": false
+    }
+  }
+}

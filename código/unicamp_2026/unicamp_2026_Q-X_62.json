@@ -1,0 +1,48 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q62",
+    "edital": "unicamp",
+    "numero": 62,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "No conto “Réplica”, que integra a coletânea No seu pescoço, \nde Chimamanda Adichie, a protagonista vive",
+    "url_img": [],
+    "resolucao": "1. Contexto da Obra: Chimamanda Ngozi Adichie é uma escritora nigeriana conhecida por abordar em suas obras temas como identidade, gênero, raça, migração e o impacto do colonialismo e pós-colonialismo na sociedade africana e na diáspora. A coletânea 'No seu pescoço' reúne contos que frequentemente exploram a experiência de nigerianos vivendo em outros países, especialmente nos Estados Unidos.2. Análise do Conto 'Réplica': O conto 'Réplica' narra a história de Nkem, uma jovem nigeriana que se muda para a América para se casar com um homem mais velho, Obiora, que ela mal conhece. A narrativa foca nas dificuldades de adaptação de Nkem à nova cultura, seu isolamento, as expectativas de gênero e o choque cultural vivenciado por ela ao tentar se integrar em um ambiente estrangeiro, mantendo suas raízes nigerianas. Suas observações sobre o modo de vida americano e a comparação com suas experiências na Nigéria são centrais.3. Avaliação das Alternativas: A) Correta. A protagonista, Nkem, vivencia de forma intensa o choque cultural resultante das migrações africanas contemporâneas (diásporas), e suas observações detalhadas sobre as diferenças culturais e sociais são o cerne da narrativa. B) Incorreta. Embora Adichie aborde questões nigerianas, o foco de 'Réplica' não é primariamente a 'recolonização da Nigéria' nem os negócios ilícitos de Obiora como elemento central do conflito cultural da protagonista. C) Incorreta. A opressão feminina é um tema presente, mas a alternativa a associa à 'falência do modelo africano de sororidade', o que pode ser uma interpretação generalizada ou não diretamente central na forma como a opressão é explorada no conto específico. D) Incorreta. O sentimento de nacionalismo e saudade é parte da experiência da diáspora, mas a alternativa limita a descrição ao 'estranhamento dos vizinhos brancos' e não captura a totalidade do 'choque cultural' e da complexidade da experiência de Nkem. A opção A é mais abrangente e precisa.",
+    "dica": "Para questões de literatura contemporânea, é fundamental conhecer os autores e suas principais obras e temáticas. Leia resenhas e análises de livros que são frequentemente cobrados em vestibulares, e preste atenção aos temas sociais e culturais que esses autores abordam, como diásporas, identidades e questões de gênero."
+  },
+  "especificacao": {
+    "materia": "Literatura",
+    "tags": [
+      "Literatura africana contemporânea",
+      "Diáspora africana",
+      "Identidade cultural",
+      "Choque cultural",
+      "Pós-colonialismo"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "o choque cultural, consequente das diásporas africanas con­\n\ntemporâneas, reelaborado pelas observações de Nkem.\n\n21",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "as contradições culturais, consequentes do processo de re­\n\ncolonização da Nigéria, expressas pelos negócios ilícitos de \nObiora.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "a opressão feminina, consequente da falência do modelo \n\nafricano de sororidade, como no relato de Ijemamaka.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "o sentimento de nacionalismo, consequente das saudades \n\nde práticas culturais, como no estranhamento dos vizinhos \nbrancos (povo oyibo).\n(ADICHIE, C. N. No seu pescoço. Tradução: Júlia Romeu. São Paulo: Companhia das Le­\ntras, 2017.)",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

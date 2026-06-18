@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q3",
+    "edital": "unicamp",
+    "numero": 3,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Leia a tirinha a seguir.\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p2_img4.jpeg)\n\n(Adaptado de https://toonut.com. Acesso em 15/05/2025.)\n\nA tirinha, em seu sentido geral, faz uma crítica à",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p2_img4.jpeg"
+    ],
+    "resolucao": "Passo 1: Analisar os elementos visuais e textuais da tirinha. A cena se passa em Wall Street, um símbolo do mercado financeiro e da busca por riqueza. Dois homens bem vestidos estão pedindo esmolas. Isso já é uma ironia, pois a vestimenta e o local contrastam com a mendicância.\nPasso 2: Observar a interação. Um transeunte dá uma moeda ao primeiro homem, e várias moedas ao segundo. A reação do primeiro homem é central: ele pensa “This is outrageous!” (Isso é ultrajante!).\nPasso 3: Interpretar a indignação do personagem. A indignação do primeiro homem não é pela sua condição de mendigo, mas sim pelo fato de o outro mendigo ter recebido mais moedas do que ele. Isso revela uma mentalidade de competição e comparação de riqueza (ou de “ganhos”) que é característica do ambiente de Wall Street, onde o dinheiro é frequentemente visto como um jogo e a desigualdade na distribuição é uma constante.\nPasso 4: Avaliar as alternativas à luz da interpretação geral.\nA) Foca na injustiça individual, mas não na crítica social mais ampla.\nB) A diferença de status financeiro é um elemento, mas a crítica vai além da mera constatação.\nC) A atitude do personagem, de se indignar com a distribuição desigual mesmo na mendicância, satiriza a mentalidade de Wall Street, onde o dinheiro é visto como um jogo de “quem ganha mais”. A crítica é sobre como essa mentalidade competitiva e a preocupação com a riqueza relativa persistem mesmo em situações de pobreza, refletindo o caráter de “jogo” das transações financeiras e da busca por vantagem.\nD) A tirinha mostra pessoas dando esmolas, então a crítica não é sobre ignorar problemas sociais, mas sobre a mentalidade em relação ao dinheiro.\n\nResposta: A alternativa C é a correta, pois a tirinha critica a atitude enraizada, mesmo em condições adversas, de ver o dinheiro e sua distribuição como um jogo de ganhos e perdas, característica do ambiente financeiro de Wall Street.",
+    "dica": "Em questões de interpretação de tirinhas ou cartuns, vá além da leitura literal. Identifique a ironia, o humor e as críticas sociais implícitas. Preste atenção ao contexto (localização, vestimenta dos personagens, frases de efeito) para desvendar a mensagem principal. Muitas vezes, a crítica está na inversão de expectativas ou na persistência de certas atitudes em situações inesperadas."
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa",
+    "tags": [
+      "Crítica social",
+      "Desigualdade econômica",
+      "Ironia",
+      "Wall Street",
+      "Concentração de riqueza"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "injustiça de um personagem receber menos moedas do que \n\no outro, na Wall St.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "diferença de status financeiro entre as pessoas que transi­\n\ntam pela Wall St.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "atitude das pessoas que circulam na Wall St. para as quais \n\nlidar com dinheiro é um jogo.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "postura das pessoas que circulam na Wall St. que ignoram \n\nproblemas e necessidades sociais.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

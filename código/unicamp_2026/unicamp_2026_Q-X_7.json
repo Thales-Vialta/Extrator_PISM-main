@@ -1,0 +1,48 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q7",
+    "edital": "unicamp",
+    "numero": 7,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Leia a carta a seguir.\n\nDear Members of the Harvard Community,\nFor years, the federal government’s grants to Harvard have \nhelped lead to groundbreaking innovations. Recently, the fed-\neral government has threatened its partnerships over accusations \n\nof antisemitism on our campuses. A list of demands was issued, \nwarning that Harvard must comply if we intend to “maintain \nour financial relationship with the government.” Most of these \ndemands are unprecedented and represent direct governmental \nregulation of the “intellectual conditions” at Harvard.\nThey include requirements to audit the viewpoints of our stu­\ndents and faculty, and to “reduce their power” for their ideo­\nlogical views. We will not accept that. The University will not \nsurrender its independence or relinquish its constitutional \nrights. No government should dictate what universities can \nteach and which areas of inquiry they can pursue.\nWe do not take our moral duties lightly and we have taken \nmany steps to address and fight antisemitism on campus. \nHowever, this will not be achieved by assertions of power, \nunmoored from the law, to dictate how we operate.\nSincerely,\n\nAlan M. Garber \n(President of Harvard University)\n(Adaptado de https://www.harvard.edu/president/news/2025/the-promise-of-american­\n-higher-education/. Acesso em 07/05/2025.)\n\nAssinale a alternativa correta em relação ao posicionamento do \npresidente de Harvard em sua carta.",
+    "url_img": [],
+    "resolucao": "Passo 1: Ler a carta para identificar o contexto e o posicionamento do presidente de Harvard. O governo federal ameaçou financiamento devido a acusações de antissemitismo e impôs \"demandas sem precedentes\". O presidente Alan M. Garber afirma que essas demandas representam \"direct governmental regulation of the 'intellectual conditions' at Harvard\" (regulamentação governamental direta das 'condições intelectuais').\nPasso 2: Identificar a essência das demandas e a reação do presidente. As demandas incluem \"audit the viewpoints of our students and faculty, and to 'reduce their power' for their ideological views.\" (auditar os pontos de vista de estudantes e professores e 'reduzir seu poder' por suas visões ideológicas). Garber responde: \"We will not accept that. The University will not surrender its independence or relinquish its constitutional rights. No government should dictate what universities can teach and which areas of inquiry they can pursue.\" (Não aceitaremos isso. A Universidade não abrirá mão de sua independência ou de seus direitos constitucionais. Nenhum governo deve ditar o que as universidades podem ensinar e quais áreas de investigação podem seguir).\nPasso 3: Concluir o posicionamento principal. O presidente defende a autonomia universitária e a liberdade acadêmica contra o que ele considera uma intromissão excessiva e inconstitucional do governo, mesmo reconhecendo a luta contra o antissemitismo.\nPasso 4: Avaliar as alternativas.\nA) Garber não diz que as *acusações* de antissemitismo são inconstitucionais, mas sim que as *demandas do governo* de controlar pontos de vista são inconstitucionais e violam a independência da universidade.\nB) A carta não foca em \"comparações entre as ideologias\", mas na tentativa de \"auditar os pontos de vista\" e \"reduzir seu poder\", o que é uma forma de controle. A recusa está ligada à defesa da independência e direitos constitucionais, incluindo a liberdade acadêmica e de expressão.\nC) Garber afirma que Harvard \"has taken many steps to address and fight antisemitism on campus\" (tomou muitas medidas para combater o antissemitismo), então ele não se nega a tomar medidas para resolver os problemas, mas sim a aceitar as *demandas específicas* do governo que ele considera invasivas.\nD) Esta alternativa resume precisamente o posicionamento. As \"demandas do governo são uma tentativa de controle da autonomia das universidades\" (regulamentação direta das condições intelectuais) e, por isso, Garber se recusa a acatá-las, defendendo a \"independence\" e os \"constitutional rights\" da universidade.\n\nResposta: A alternativa D é a correta, pois sintetiza o argumento central da carta do presidente de Harvard.",
+    "dica": "Em textos de opinião ou cartas abertas, identifique a tese do autor e os argumentos que a sustentam. Separe os fatos (o que aconteceu, as acusações) da posição do autor (o que ele pensa, suas objeções). Preste atenção ao vocabulário que expressa recusa, defesa de princípios (como “independence”, “constitutional rights”) para compreender o posicionamento geral."
+  },
+  "especificacao": {
+    "materia": "Língua Inglesa",
+    "tags": [
+      "Autonomia universitária",
+      "Liberdade acadêmica",
+      "Financiamento governamental",
+      "Censura",
+      "Liberdade de expressão"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "As acusações de antissemitismo feitas à universidade são \n\ninconstitucionais, por isso Garber se recusa a aceitar as de­\nmandas propostas pelo governo.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "As comparações entre as ideologias de professores e de alu­\n\nnos são sem precedentes, por isso Garber se nega a abrir \nmão da liberdade de expressão da comunidade.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "As justificativas do governo para interromper o financia­\n\nmento são falhas, por isso Garber se nega a tomar medidas \npara resolver os problemas apontados.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "As demandas do governo são uma tentativa de controle da \n\nautonomia das universidades, por isso Garber se recusa a \nacatar as exigências impostas.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

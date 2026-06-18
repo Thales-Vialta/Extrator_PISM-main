@@ -1,0 +1,46 @@
+{
+  "metadados": {
+    "codigo": "pism_2025_q7",
+    "edital": "pism",
+    "numero": 7,
+    "tipo_ou_cor": "modulo_1_dia_1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "No dia 09 de mar¸co de 2024, o IBGE (Instituto Bra-\nsileiro de Geografia e Estat´ısticas) divulgou a nova\nvers˜ao do mapa-m´undi, o que gerou muita polˆemica\nnas redes sociais. O motivo da controv´ersia: o desta-\nque dado ao Brasil, que ocupou uma posi¸c˜ao central\nno mapa, diferente das divulga¸c˜oes cartogr´aficas con-\nvencionais.\nSobre o novo mapa-m´undi do IBGE e o processo\nde elabora¸c˜ao de mapas, marque a alternativa COR-\nRETA.",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A proje¸c˜ao cˆonica seria a mais indicada para re-\npresentar as ´areas pr´oximas `a linha do Equador.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "O mapa do IBGE desconsidera o Meridiano de\nGreenwich alterando os valores das longitudes\ndo Brasil.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "O Meridiano de Greenwich ´e o ´unico meridiano\ncentral, devendo sempre ser grafado no centro\ndos mapas.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "As proje¸c˜oes perpassam escolhas e o IBGE optou\npor uma representa¸c˜ao que evita distor¸c˜oes das\nsuperf´ıcies.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": {
+      "texto": "Proje¸c˜oes cartogr´aficas n˜ao s˜ao simplesmente\nsolu¸c˜oes matem´aticas, mas, tamb´em, produtos\npol´ıticos e culturais.\n\nP´agina 5 de 13",
+      "url_img": [],
+      "correta": false
+    }
+  }
+}

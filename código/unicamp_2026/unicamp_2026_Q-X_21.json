@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q21",
+    "edital": "unicamp",
+    "numero": 21,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A segunda edição do estudo Gestão do Território, elaborado \npelo Instituto Brasileiro de Geografia e Estatística (IBGE) em \n2024, mostra, no universo dos 5.570 municípios do país, quais \nsão os Centros de Gestão, isto é, os núcleos responsáveis pelo \n\n7\n\npapel de comando na rede urbana brasileira. Em 2024, apenas \n39,1% dos municípios do Brasil se qualificavam como Centros \nde Gestão do Território (2.176 municípios). \n(Adaptado de IBGE, Gestão do território: 2024. In: IBGE, Rio de Janeiro, 2025.)\n\nUm indicador de centralidade na gestão do território é o núme­\nro de assalariados externos ao Município da sede da empresa.\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p8_img1.png)\n\n(IBGE, Cadastro Central de Empresas: 2012/2021. In: IBGE, Rio de Janeiro, p. 7, 2025.)\n\nCom base no gráfico anterior, e em seus conhecimentos sobre \na rede urbana brasileira, é correto afirmar que",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p8_img1.png"
+    ],
+    "resolucao": "1. Analise o título e a fonte do gráfico, que mostra o 'Número de assalariados externos ao Município da sede da empresa' em algumas cidades brasileiras entre 2012 e 2021. Este é um indicador de centralidade.\n2. Avalie cada alternativa com base nos dados do gráfico:\n   - Alternativa A: Rio de Janeiro, capital. O gráfico mostra uma queda no número de assalariados externos do Rio de Janeiro entre 2012 e 2021 (de aproximadamente 300 mil para pouco mais de 200 mil). Isso contradiz a afirmação de que 'amplia sua centralidade'.\n   - Alternativa B: Barueri. O gráfico indica um crescimento notável no número de assalariados externos de Barueri (de aproximadamente 100 mil para cerca de 250 mil). Esse crescimento contribui para a manutenção da centralidade da Região Metropolitana de São Paulo na hierarquia urbana. Esta afirmação está consistente com os dados.\n   - Alternativa C: Brasília. O gráfico mostra um aumento no número de assalariados externos de Brasília (de cerca de 50 mil para aproximadamente 150 mil), e não uma 'tendência de queda'.\n   - Alternativa D: Itajaí. O gráfico revela um aumento significativo no número de assalariados externos de Itajaí (de quase zero para cerca de 100 mil), o que indica um ganho, e não uma 'perda de força na centralidade da gestão empresarial'.\n3. Conclua que a alternativa B é a única que apresenta uma afirmação correta e coerente com as informações do gráfico.",
+    "dica": "Estudar os conceitos de rede urbana, hierarquia urbana e centralidade, e praticar a leitura e interpretação de gráficos e tabelas com dados geográficos e econômicos. Atentar para as tendências de crescimento ou decréscimo ao longo do tempo."
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "Rede urbana",
+      "Hierarquia urbana",
+      "Centralidade",
+      "Economia urbana",
+      "Assalariados externos"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Rio de Janeiro, capital, amplia sua centralidade como centro \n\nde gestão empresarial do território nacional, conservando \nsua histórica função industrial e de administração pública.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "Barueri apresenta tendência de crescimento do assalariado \n\nexterno, contribuindo para manter a Região Metropolitana \nde São Paulo no topo da hierarquia urbana.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "Brasília apresenta tendência de queda de seus assalariados \n\nexternos, demonstrando a dificuldade da capital do país \npara permanecer como centro de gestão pública do territó­\nrio na atualidade.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "Itajaí apresenta destaque por sua função industrial, perden­\n\ndo força na centralidade da gestão empresarial do território \npor ser uma cidade de médio porte na Região Metropolitana \nda Foz do Rio Itajaí.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q15",
+    "edital": "unicamp",
+    "numero": 15,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "“O ato de comer é construído culturalmente, e mediado por \npráticas, crenças, comportamentos, tabus, que formam os há­\nbitos alimentares, que, por sua vez, relacionam-se a aspectos \nculturais, socioeconômicos e psicológicos que envolvem o am­\nbiente alimentar de cada indivíduo. Os hábitos alimentares são \ndinâmicos e sensíveis às mudanças que ocorrem nas socieda­\ndes, fundamentalmente, nos sistemas alimentares. Com o sis­\ntema alimentar que predomina hoje, a humanidade vem subs­\ntituindo a comida que carrega significados culturais e tradições \nancestrais por produtos alimentares ultraprocessados globaliza­\ndos, que viajam quilômetros até chegar ao prato, causando a \nhomogeneização dos hábitos alimentares de forma global. O \nproblema é que os ultraprocessados têm acarretado sérios pro­\nblemas à saúde da população [...]”. \n(Disponível em https://obha.fiocruz.br/?p=1413. Acesso em 06/08/25.)\n\nA partir do texto, é correto afirmar que a produção e o consu­\nmo de alimentos no mundo contemporâneo possuem",
+    "url_img": [],
+    "resolucao": "Passo 1: Analisar o texto. O texto discute como o ato de comer é culturalmente construído e como os hábitos alimentares são dinâmicos. Ele critica o sistema alimentar atual, que substitui \"comida que carrega significados culturais e tradições ancestrais por produtos alimentares ultraprocessados globalizados\". Esses produtos \"viajam quilômetros até chegar ao prato, causando a homogeneização dos hábitos alimentares de forma global\". O texto também menciona os \"sérios problemas à saúde\" causados pelos ultraprocessados.\nPasso 2: Identificar a ideia central. A principal crítica é que a globalização dos alimentos ultraprocessados resulta no distanciamento da comida de suas origens culturais e regionais, levando à homogeneização e a problemas de saúde.\nPasso 3: Avaliar as alternativas com base na ideia central do texto.\nA) \"menor vínculo com o lugar, visto que a indústria de processamento de alimentos e a produção agropecuária estão cada vez mais especializadas. Assim, produtos circulam com maior velocidade e eficiência entre a área de produção e o mercado consumidor, reduzindo o acesso da população a alimentos in natura e à diversidade produtiva regional.\" Esta alternativa está em total concordância com o texto. A ideia de \"ultraprocessados globalizados\" que \"viajam quilômetros\" implica um \"menor vínculo com o lugar\". A \"homogeneização dos hábitos alimentares\" é compatível com a \"redução do acesso a alimentos in natura e à diversidade produtiva regional\". A especialização e a circulação eficiente são características do sistema de agronegócio globalizado.\nB) \"maior interdependência com o lugar...\". Contradiz a ideia de produtos que \"viajam quilômetros\" e de homogeneização, que reduz a diversidade regional.\nC) \"maior conexão com o lugar...\". Também contradiz a ideia de globalização e homogeneização dos hábitos alimentares.\nD) \"menor correlação com o lugar...\". A primeira parte é correta. No entanto, a conclusão \"Isso favorece o acesso da população aos alimentos da culinária local e à diversidade alimentar regional\" contradiz a \"homogeneização dos hábitos alimentares de forma global\" mencionada no texto.\n\nResposta: A alternativa A é a correta, pois descreve as consequências da globalização dos alimentos ultraprocessados, conforme apresentado no texto.",
+    "dica": "Ao analisar textos sobre temas sociais e econômicos, identifique as principais críticas ou argumentos apresentados. Preste atenção aos termos que indicam tendências (ex: “substituindo”, “homogeneização”, “globalizados”) e seus impactos. Relacione as ideias do texto com seus conhecimentos sobre globalização, sistemas alimentares e seus efeitos na cultura e saúde."
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "Sistemas alimentares",
+      "Globalização",
+      "Hábitos alimentares",
+      "Ultraprocessados",
+      "Cultura alimentar"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "menor vínculo com o lugar, visto que a indústria de pro­\n\ncessamento de alimentos e a produção agropecuária estão \ncada vez mais especializadas. Assim, produtos circulam com \nmaior velocidade e eficiência entre a área de produção e o \nmercado consumidor, reduzindo o acesso da população a \nalimentos in natura e à diversidade produtiva regional.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "maior interdependência com o lugar, visto que a indústria de \n\nprocessamento precisa manter a proximidade com as áreas \nda produção agropecuária, aproveitando a modernização \ndo sistema de circulação para atingir o mercado consumidor \nmais distante. Isso fortalece o acesso da população a produ­\ntos da agricultura familiar e à diversidade produtiva regional.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "maior conexão com o lugar, visto que a indústria de proces­\n\nsamento de alimentos pode estar distante da área de produ­\nção agropecuária. O sistema de circulação permite interligar, \ncom menor custo, a área de produção ao mercado consu­\nmidor, restringindo o acesso da população à produção da \npequena indústria local e à diversidade alimentar regional.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "menor correlação com o lugar, visto que a indústria de pro­\n\ncessamento e a produção agropecuária possuem pouca \nvinculação entre si, tornando-se independentes, mas com \nestreitamento promovido pelo sistema de circulação entre \na área de produção e o mercado consumidor. Isso favorece \no acesso da população aos alimentos da culinária local e à \ndiversidade alimentar regional.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

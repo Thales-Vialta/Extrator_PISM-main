@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q70",
+    "edital": "unicamp",
+    "numero": 70,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A produção industrial de barrilha (carbonato de sódio) é ma­\njoritariamente feita pelo processo Solvay. A barrilha é um dos \ncompostos químicos inorgânicos mais importantes globalmen­\nte, sendo vital para a fabricação de vidro, sabão, detergente, \npapel, entre muitos outros produtos. As reações envolvidas no \nprocesso Solvay, que ocorrem em fluxo contínuo, estão repre­\nsentadas esquematicamente no fluxograma a seguir.\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p25_drawing0.png)\n\nNaCl (saturado)\n\nCaCO3 (s)\n\nNH3 (g)\n\nCO2 (g)\n\nNa2CO3 (s)\n\nCaO (s)\n\nNH4Cl (aq)\n\nNaHCO3 (s)\n\nCaCl2 (s)\n\nH2O (vap)\n\n(Adaptado de ARAÚJO A. L. et al. Química Nova, v. 21, n. 1, p. 114, 1998.)\n\nNesse processo de fabricação, após o fluxo contínuo de produ­\nção ser iniciado, é necessário adicionar para sua manutenção",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p25_drawing0.png"
+    ],
+    "resolucao": "1. Análise do Fluxograma do Processo Solvay: O fluxograma ilustra as entradas e saídas e as reações principais. Entradas primárias: NaCl (salmoura), CaCO3 (calcário), NH3 (amônia), CO2 (gás carbônico). Produto final: Na2CO3 (barrilha). Subproduto: CaCl2.2. Identificação das Regenerações no Processo: CO2: É produzido na calcinação do bicarbonato de sódio (2 NaHCO3 → Na2CO3 + H2O + CO2) e na calcinação do calcário (CaCO3 → CaO + CO2). O fluxograma mostra o CO2(g) sendo realimentado no processo. Portanto, o CO2 é largamente regenerado e reciclado. NH3: O cloreto de amônio (NH4Cl), subproduto da reação principal (NaCl + NH4HCO3 → NaHCO3 + NH4Cl), é tratado com o hidróxido de cálcio (Ca(OH)2), obtido do CaO do calcário, para regenerar a amônia (Ca(OH)2 + 2 NH4Cl → CaCl2 + 2 H2O + 2 NH3). O fluxograma mostra o NH3(g) sendo realimentado no processo. Portanto, a amônia é largamente regenerada e reciclada.3. Identificação dos Reagentes Consumidos Continuamente: NaCl (salmoura): O sódio (Na) do NaCl entra no NaHCO3 e, eventualmente, no Na2CO3. O cloro (Cl) do NaCl forma NH4Cl e, depois, CaCl2 (subproduto). O NaCl é, portanto, consumido e seus componentes não são totalmente regenerados para o ciclo principal. É uma entrada contínua essencial. CaCO3 (calcário): O calcário é usado para gerar CaO (que regenera NH3) e CO2. O cálcio (Ca) do CaCO3 forma CaCl2 (subproduto). O CaCO3 é, portanto, consumido e seus componentes não são totalmente regenerados para o ciclo principal. É uma entrada contínua essencial.4. Conclusão sobre Adição para Manutenção: O processo Solvay é conhecido pela regeneração de NH3 e CO2, minimizando a necessidade de adição contínua dessas substâncias (apenas para repor perdas). Os reagentes que precisam ser continuamente adicionados, pois são consumidos e não totalmente regenerados, são o cloreto de sódio (salmoura) e o carbonato de cálcio (calcário).5. Análise das Alternativas: A) 'salmoura e calcário, pois a amônia é totalmente regenerada durante o processo.' Esta alternativa está correta, pois a salmoura e o calcário são as matérias-primas que precisam ser constantemente supridas, enquanto a amônia é efetivamente regenerada. B) 'gás carbônico e salmoura, pois a amônia é totalmente regenerada durante o processo.' Incorreta, o gás carbônico é regenerado. C) 'calcário e amônia, pois o gás carbônico é totalmente regenerado durante o processo.' Incorreta, a amônia é regenerada. D) 'amônia e salmoura, pois o gás carbônico é totalmente regenerado durante o processo.' Incorreta, a amônia é regenerada.",
+    "dica": "Ao estudar processos industriais como o Solvay, concentre-se nas reações-chave, nos subprodutos e, crucialmente, nos ciclos de regeneração de reagentes. Entender quais substâncias são realimentadas no processo e quais são consumidas é fundamental para compreender a sustentabilidade e a eficiência do processo."
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "Processos industriais",
+      "Reações químicas",
+      "Ciclo de materiais",
+      "Processo Solvay",
+      "Estequiometria industrial"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "salmoura e calcário, pois  a amônia é totalmente regenerada \n\ndurante o processo.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "gás carbônico e salmoura, pois  a amônia é totalmente rege­\n\nnerada durante o processo.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "calcário e amônia, pois  o gás carbônico é totalmente rege­\n\nnerado durante o processo.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "amônia e salmoura, pois  o gás carbônico é totalmente rege­\n\nnerado durante o processo.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

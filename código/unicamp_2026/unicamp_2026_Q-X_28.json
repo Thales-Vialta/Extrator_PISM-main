@@ -1,0 +1,49 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q28",
+    "edital": "unicamp",
+    "numero": 28,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Os dados da alfândega de Buenos Aires fixam em 18.100 o nú­\nmero de africanos oficialmente importados no porto entre 1597 \ne 1645. Durante alguns anos, a zona platense esteve aberta \nao contrato de fornecimento de pessoas escravizadas (Asiento), \ncom os navios negreiros saindo diretamente de Luanda para \nBuenos Aires. Nos anos de proibição, o contrabando ocorria por \nmeio do Rio de Janeiro. Barcos ligavam os dois portos. No retor­\nno, traziam prata lavrada e por lavrar e ouro, não só para o Rio \nde Janeiro, mas também para a Bahia e o Recife. Em torno das \ntrocas de africanos pela prata do Peru (Potosí), esses interesses \nforam consolidados no Rio de Janeiro. Desse episódio resultou \numa tradição religiosa conhecida: o culto a Nossa Senhora de \nCopacabana no Rio de Janeiro, oriundo do Baixo Peru em 1637. \nNos anos seguintes, uma capela dedicada à santa foi erigida na \npraia que recebeu o seu nome. \n(Adaptado de ALENCASTRO, L. F. O Trato dos Viventes. São Paulo: Companhia das Letras, \n2000. p. 110.) \n\nCom base no excerto, assinale a alternativa correta.",
+    "url_img": [],
+    "resolucao": "1. Analise o texto: O excerto descreve o tráfico de africanos escravizados para Buenos Aires, com o contrabando ocorrendo via Rio de Janeiro durante períodos de proibição. Os barcos que retornavam para o Rio (e Bahia, Recife) traziam prata e ouro do Peru (Potosí). Os interesses comerciais do Rio foram consolidados em torno dessa troca de africanos por prata. O texto também menciona a tradição religiosa do culto a Nossa Senhora de Copacabana no Rio de Janeiro, que 'oriundo do Baixo Peru em 1637', deu nome à praia.\n2. Avalie as alternativas:\n   - Alternativa A: Afirma que a 'extração de prata em Buenos Aires conectou o Brasil'. O texto indica que a prata era do 'Peru (Potosí)', não extraída em Buenos Aires.\n   - Alternativa B: Menciona 'tráfico de pedras preciosas de Buenos Aires' e 'Porto de Copacabana'. O texto fala de prata e ouro, não pedras preciosas. Além disso, o Porto de Copacabana não é mencionado como destino de escravizados, mas sim o culto à santa que veio do Baixo Peru para o Rio, dando nome à praia.\n   - Alternativa C: Afirma que 'Copacabana remete ao passado em que as Américas portuguesa e espanhola se conectavam por redes comerciais e culturais'. O texto detalha a rede comercial (tráfico de escravizados para Buenos Aires e contrabando de prata e ouro para o Brasil) e a conexão cultural (o culto a Nossa Senhora de Copacabana, oriundo do Baixo Peru, que chega ao Rio e batiza a praia). Esta alternativa está correta e abrangente.\n   - Alternativa D: Menciona que 'Copacabana preserva a memória do desembarque de escravizados que, dali, eram levados para Buenos Aires e Peru'. O texto não indica que o desembarque de escravizados ocorria em Copacabana. O nome da praia vem do culto à santa, não de um local de desembarque de escravizados.",
+    "dica": "Estudar as complexas redes comerciais e culturais que se formaram durante o período colonial nas Américas, incluindo o tráfico transatlântico de escravizados, a mineração e as trocas entre as possessões ibéricas. Atentar para a interconexão das diferentes colônias e seus impactos culturais."
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "Tráfico de pessoas escravizadas",
+      "Comércio colonial",
+      "Conexões Atlânticas",
+      "Mineração",
+      "Cultura colonial",
+      "América Colonial"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A extração de prata em Buenos Aires conectou o Brasil ao \n\ncomércio internacional de metais que passava por Copaca­\nbana.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "O tráfico de pedras preciosas de Buenos Aires complemen­\n\ntava o fornecimento de mão de obra trazida de Luanda para \no Porto de Copacabana.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "Copacabana remete ao passado em que as Américas por­\n\ntuguesa e espanhola se conectavam por redes comerciais e \nculturais.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "Copacabana preserva a memória do desembarque de escra­\n\nvizados que, dali, eram levados para Buenos Aires e Peru. \n\n10",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

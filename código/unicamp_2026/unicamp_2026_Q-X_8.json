@@ -1,0 +1,48 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q8",
+    "edital": "unicamp",
+    "numero": 8,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A uniformidade da temperatura em um ambiente refrigerado \ndepende, além do bom funcionamento do aparelho de ar con­\ndicionado, de uma instalação adequada, visando a uma transfe­\nrência de calor eficiente. Isso pode ser verificado pelo instalador \nutilizando um termômetro de infravermelho para inspecionar \ndiferentes áreas do recinto. Analise as afirmativas 1, 2, 3 e 4 \nsobre os mecanismos de transferência de calor: condução, con­\nvecção e radiação.\n\n1)\t A transferência de calor por condução térmica pode ocorrer \n\ntanto no vácuo quanto em um meio material.\n2)\t A taxa de condução de calor em uma barra não depende da \n\ndiferença entre as temperaturas de suas extremidades.\n\n3)\t A convecção consiste no transporte de energia térmica de \n\numa região para outra por meio do deslocamento de uma \nmassa de fluido.\n4)\t A transferência de calor por radiação térmica pode ocorrer \n\ntanto no vácuo quanto em um meio material.\n\nAs afirmativas corretas são:",
+    "url_img": [],
+    "resolucao": "Passo 1: Analisar a afirmativa 1. \"A transferência de calor por condução térmica pode ocorrer tanto no vácuo quanto em um meio material.\"\n- A condução térmica envolve a transferência de energia através da vibração e colisão de partículas. Por isso, ela *requer* um meio material para ocorrer. No vácuo, onde não há partículas, a condução não acontece. Portanto, a afirmativa 1 está **incorreta**.\nPasso 2: Analisar a afirmativa 2. \"A taxa de condução de calor em uma barra não depende da diferença entre as temperaturas de suas extremidades.\"\n- A Lei de Fourier da condução de calor afirma que a taxa de transferência de calor é diretamente proporcional à diferença de temperatura entre as extremidades do material (P = k · A · (ΔT/L)). Uma maior diferença de temperatura leva a uma maior taxa de condução de calor. Portanto, a afirmativa 2 está **incorreta**.\nPasso 3: Analisar a afirmativa 3. \"A convecção consiste no transporte de energia térmica de uma região para outra por meio do deslocamento de uma massa de fluido.\"\n- A convecção é o processo de transferência de calor que ocorre em fluidos (líquidos e gases) devido ao movimento de massa do próprio fluido. Por exemplo, o ar quente sobe e o ar frio desce. Portanto, a afirmativa 3 está **correta**.\nPasso 4: Analisar a afirmativa 4. \"A transferência de calor por radiação térmica pode ocorrer tanto no vácuo quanto em um meio material.\"\n- A radiação térmica envolve a emissão de ondas eletromagnéticas, que não necessitam de um meio material para se propagar. É assim que o calor do Sol chega à Terra, atravessando o vácuo do espaço. Ela também pode ocorrer em meios materiais (ex: calor de uma fogueira). Portanto, a afirmativa 4 está **correta**.\nPasso 5: Concluir quais afirmativas estão corretas. As afirmativas 3 e 4 são as corretas.\n\nResposta: A alternativa D é a correta, pois as afirmativas 3 e 4 são as verdadeiras.",
+    "dica": "Para termologia, compreenda profundamente os três mecanismos de transferência de calor (condução, convecção e radiação). Crie um quadro comparativo com as características de cada um: necessidade de meio material, tipo de meio (sólido, fluido, vácuo), e como o calor é transmitido (contato, movimento de massa, ondas eletromagnéticas). Revise as fórmulas básicas, como a Lei de Fourier para condução."
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "Termologia",
+      "Transferência de calor",
+      "Condução",
+      "Convecção",
+      "Radiação"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "1 e 2.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "1 e 4.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "2 e 3.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "3 e 4. \n\n3\n\nTexto para as questões 9, 10 e 11.\n\nAs baterias são fundamentais no mundo moderno, sendo a \nfonte de energia portátil que alimenta dispositivos como celu­\nlares e laptops, veículos elétricos e sistemas de armazenamento \nde energia renovável. Duas grandezas que caracterizam uma \nbateria é a sua capacidade de carga elétrica, expressa em mi­\nliampère-hora (mAh) e a energia que ela armazena, usualmente \ndada em watts-hora (Wh).",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

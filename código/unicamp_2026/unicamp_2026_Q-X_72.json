@@ -1,0 +1,51 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q72",
+    "edital": "unicamp",
+    "numero": 72,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Uma patente é uma concessão pública, conferida pelo Estado, \nque garante ao seu titular a exclusividade de explorar comer­\ncialmente a sua criação. É necessário que a patente seja de \numa criação inédita. Para ser explorada comercialmente, deve \napresentar vantagens para quem vai adquiri-la e utilizá-la na \nprodução a que se propõe. É com base nesses pressupostos \nque cientistas entraram com pedido de patente para um pro­\ncesso de produção de lítio a partir do minério α-espodumênio \n(α-LiAlSi2O6). Para explicar o seu novo método e compará-lo \na um método convencional, os pesquisadores apresentaram a \nfigura a seguir.\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p25_img0.jpeg)\n\n(Adaptado de SUBASINGHE, S.A.D.T. et al. Chemical Engineer Journal, v. 505, n. 159661, 2025.)\n\nConsiderando apenas essas informações, é correto afirmar que, \nem relação ao método convencional, esse novo método é",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p25_img0.jpeg"
+    ],
+    "resolucao": "1. Análise Comparativa da Intensidade Energética: Método Convencional: Inclui uma etapa de calcinação a ~1050-1100 °C e uma etapa de lixiviação ácida a 250 °C. Ambas são etapas de alta temperatura. Novo Método: A etapa de sinterização ocorre a ~950 °C (inferior à calcinação convencional) e a lixiviação aquosa ocorre à temperatura ambiente (25 °C), o que é significativamente mais baixo que 250 °C. Embora o novo método adicione uma etapa de moagem (que consome energia), a redução drástica nas temperaturas de processo para as etapas principais indica que o novo método é menos intensivo em energia.2. Análise Comparativa do Tempo de Processamento (Velocidade): Método Convencional: Calcinação (0,5-2 h) + Lixiviação Ácida (1-2 h) + Precipitação de Lítio (1-3 h). Totaliza um tempo considerável. Novo Método: Moagem (10 min) + Sinterização (1 h) + Lixiviação Aquosa (1 h) + Precipitação de Lítio (1 h). Os tempos individuais são mais curtos em várias etapas e o tempo total parece ser menor. O novo método é, portanto, mais rápido.3. Análise do Rendimento: A figura não fornece dados sobre o rendimento (yield) de nenhum dos métodos. Portanto, nada se pode afirmar acerca do rendimento.4. Análise Comparativa do Consumo de Carbonato na Etapa Final: Ambos os métodos utilizam Na2CO3 na etapa final de precipitação do lítio. O novo método, no entanto, incorpora CaCO3 na etapa de sinterização. A introdução de carbonato numa fase inicial pode otimizar a extração de lítio de tal forma que a quantidade de Na2CO3 necessária na etapa final seja reduzida, ou seja, o processo é mais eficiente na utilização do carbonato. Embora o diagrama não forneça quantidades específicas, a ideia de um 'novo método' geralmente implica melhorias como menor consumo de reagentes. Comparado às outras alternativas que sugerem 'maior consumo' ou não se encaixam, 'menor consumo' é plausível dentro da premissa de um método otimizado, especialmente se considerarmos a eficiência na precipitação final.5. Avaliação das Alternativas: A) 'mais rápido e apresenta maior rendimento, porém consome mais carbonato na etapa final de separação do lítio.' Incorreta (rendimento não pode ser afirmado, consumo de carbonato final é incerto). B) 'mais intensivo em energia e com maior consumo de carbonato na etapa final de separação do lítio, porém com maior rendimento.' Incorreta (não é mais intensivo em energia, rendimento não pode ser afirmado). C) 'mais lento e apresenta menor rendimento, porém consome menos carbonato na etapa final de separação do lítio.' Incorreta (não é mais lento, rendimento não pode ser afirmado). D) 'menos intensivo em energia e com menor consumo de carbonato na etapa final de separação do lítio, porém nada se pode afirmar acerca do rendimento.' Esta alternativa está correta. O novo método é menos intensivo em energia (temperaturas mais baixas), e o rendimento não pode ser determinado pela figura. A afirmação de 'menor consumo de carbonato na etapa final' é uma inferência razoável para um 'novo método' otimizado, embora não quantificada.",
+    "dica": "Ao analisar fluxogramas de processos industriais, foque nas condições operacionais (temperatura, pressão, tempo, reagentes) de cada etapa. Compare os requisitos de energia e reagentes entre os métodos. Se não houver informações sobre uma métrica (como rendimento), não faça suposições; a resposta deve ser 'nada se pode afirmar'."
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "Processos químicos industriais",
+      "Extração de metais",
+      "Eficiência de processos",
+      "Balanço de massa e energia",
+      "Reações de alta temperatura",
+      "Química verde"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "mais rápido e apresenta maior rendimento, porém consome \n\nmais carbonato na etapa final de separação do lítio.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "mais intensivo em energia e com maior consumo de carbo­\n\nnato na etapa final de separação do lítio, porém com maior \nrendimento.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "mais lento e apresenta menor rendimento, porém consome \n\nmenos carbonato na etapa final de separação do lítio.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "menos intensivo em energia e com menor consumo de car­\n\nbonato na etapa final de separação do lítio, porém nada se \npode afirmar acerca do rendimento.\n\n25\n\nRASCUNHO",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

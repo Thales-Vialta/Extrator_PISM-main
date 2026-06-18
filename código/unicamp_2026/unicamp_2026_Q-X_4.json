@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q4",
+    "edital": "unicamp",
+    "numero": 4,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "![figura](./imgs/unicamp_2026_Q-X_p3_drawing0.png)\n\nU.S. Inﬂation Mild Ahead of Expected\nJump From Tariﬀs\n\nEconomists and policymakers are bracing for inﬂation to\nreaccelerate as companies adapt to the trade war.\n\n(Adaptado de https://www.nytimes.com/2025/05/13/business/inflation-prices-tariffs.\nhtml. Acesso em 15/05/2025.)\n\nSegundo o texto,",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p3_drawing0.png"
+    ],
+    "resolucao": "Passo 1: Analisar o título do texto. \"U.S. Inflation Mild Ahead of Expected Jump From Tariffs\".\n- \"U.S. Inflation Mild\": A inflação nos EUA está atualmente moderada.\n- \"Ahead of Expected Jump From Tariffs\": Mas isso é antes de um salto esperado, que será causado por tarifas.\nPasso 2: Analisar o corpo do texto. \"Economists and policymakers are bracing for inflation to reaccelerate as companies adapt to the trade war.\"\n- \"Economists and policymakers are bracing for\": Economistas e formuladores de políticas estão se preparando para.\n- \"inflation to reaccelerate\": a inflação reacelerar.\n- \"as companies adapt to the trade war\": à medida que as empresas se adaptam à guerra comercial (causada pelas tarifas).\nPasso 3: Sintetizar as informações. O texto indica um cenário atual de inflação moderada, mas com uma forte expectativa de que ela reacelere ou salte no futuro, impulsionada pelas tarifas e pela guerra comercial à qual as empresas estão se adaptando.\nPasso 4: Avaliar as alternativas.\nA) Fala que o governo está se preparando para um salto na inflação. Embora correto, é menos completo que outras opções.\nB) Afirma que \"a inflação nos EUA se mantém moderada\" (correto, \"mild\") e que \"economistas e legisladores estão se preparando diante da expectativa de alta das tarifas\" (correto, \"bracing for inflation to reaccelerate as companies adapt to the trade war\"). Esta alternativa captura todos os pontos principais do texto de forma precisa.\nC) Erra ao afirmar que a inflação deve *se manter* moderada. O texto prevê um *salto*.\nD) Erra ao dizer que as empresas estão se adaptando à *aceleração* da inflação; elas estão se adaptando à guerra de tarifas, o que *levará* à aceleração da inflação.\n\nResposta: A alternativa B é a correta, pois resume de forma precisa as duas informações principais do texto: a situação atual da inflação e a expectativa futura.",
+    "dica": "Em questões de interpretação de textos jornalísticos, especialmente em inglês, comece lendo o título e a primeira frase, pois geralmente contêm a ideia central. Identifique palavras-chave e conectores lógicos que expressam causa, consequência, contraste ou expectativa (ex: “ahead of”, “bracing for”, “as”). Diferencie fatos presentes de previsões futuras."
+  },
+  "especificacao": {
+    "materia": "Língua Inglesa",
+    "tags": [
+      "Leitura de manchetes",
+      "Vocabulário econômico",
+      "Inflação",
+      "Tarifas comerciais",
+      "Guerra comercial"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "o governo dos EUA está se preparando para um salto na \n\ninflação diante da guerra comercial de tarifas.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "a inflação nos EUA se mantém moderada, mas economistas \n\ne legisladores estão se preparando diante da expectativa de \nalta das tarifas.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "a inflação nos EUA deve se manter moderada, pois as em­\n\npresas estão se adaptando ao aumento das tarifas.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "as empresas dos EUA estão se adaptando à aceleração da \n\ninflação diante da guerra de tarifas estabelecida pelo go­\nverno.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

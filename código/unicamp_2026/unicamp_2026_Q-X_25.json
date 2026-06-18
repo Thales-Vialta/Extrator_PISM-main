@@ -1,0 +1,49 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q25",
+    "edital": "unicamp",
+    "numero": 25,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A OMS, e não uma associação trans-gay-lésbica-anarcofeminis­\nta, afirma hoje que “o gênero tipicamente descrito como mas­\nculino e feminino é uma construção social que varia segundo as \nculturas e épocas”. A partir desse princípio, a OMS reconhece a \ndimensão arbitrária e inatural da taxonomia binária com a qual \nas instituições sociais e políticas trabalham no Ocidente e abre \na porta para uma revisão mais profunda do paradigma da dife­\nrença sexual. Nos próximos anos, deveremos elaborar coletiva­\nmente uma epistemologia capaz de dar conta da multiplicidade \nradical dos seres vivos, que não reduza o corpo à sua força re­\nprodutiva heterossexual, que não legitime a violência heteropa­\ntriarcal e colonial. Quando falo de uma nova epistemologia me \nrefiro também a um processo de ampliação radical do horizonte \ndemocrático para reconhecer como sujeito político todo corpo \nvivo sem que a designação sexual ou de gênero seja a condição \ndesse reconhecimento social e político (84). \n(Adaptado de PRECIADO, P.  Eu sou o monstro que vos fala. Zahar Editora, p. 78-84, \n2022.)\n\nConsiderando o texto assinale a alternativa correta.",
+    "url_img": [],
+    "resolucao": "1. Analise o texto principal: O texto enfatiza que a OMS afirma que 'o gênero tipicamente descrito como masculino e feminino é uma construção social que varia segundo as culturas e épocas'. Ele critica a 'taxonomia binária' das instituições sociais e políticas ocidentais por ser 'arbitrária e inatural' e defende uma 'revisão mais profunda do paradigma da diferença sexual' e uma 'nova epistemologia' para reconhecer a 'multiplicidade radical dos seres vivos', ampliando o 'horizonte democrático' para todos os corpos vivos, sem que a designação sexual ou de gênero seja uma condição para o reconhecimento político.\n2. Avalie as alternativas:\n   - Alternativa A: Afirma que a diferença sexual é biológica e indiferente a variações culturais. Isso contradiz diretamente a primeira frase do texto, que cita a OMS afirmando que gênero é uma 'construção social que varia segundo as culturas e épocas'.\n   - Alternativa B: Sugere que é preciso 'ajudá-las a uma reconciliação com a própria natureza'. O texto argumenta que a 'natureza' binária é uma construção, e a proposta é revisar essa construção para acolher a multiplicidade, não forçar a reconciliação com um paradigma que é criticado.\n   - Alternativa C: Afirma que 'As instituições sociais e políticas operam normalmente com uma taxonomia binária violenta e excludente da multiplicidade de seres humanos, que precisa ser revista em nome da ampliação do nosso horizonte democrático'. Esta alternativa está em total consonância com o texto. Ele critica a 'taxonomia binária', que é 'arbitrária e inatural', e propõe uma 'revisão mais profunda' para 'ampliar o horizonte democrático' e reconhecer a 'multiplicidade radical dos seres vivos'.\n   - Alternativa D: Afirma que 'Gênero e sexualidade são categorias identitárias inadequadas'. O texto não diz que as categorias são inadequadas, mas sim que a *designação* sexual ou de gênero não deve ser a *condição* para o reconhecimento social e político, num contexto de reconhecimento da multiplicidade.",
+    "dica": "Estudar os conceitos de gênero como construção social, a crítica à binariedade de gênero, e as discussões sobre diversidade sexual e de gênero e suas implicações políticas e sociais, buscando entender como a linguagem e os conceitos influenciam a percepção da realidade e a formação de políticas públicas."
+  },
+  "especificacao": {
+    "materia": "Sociologia",
+    "tags": [
+      "Gênero",
+      "Construção social",
+      "Binariedade de gênero",
+      "Epistemologia queer",
+      "Diversidade",
+      "Democracia"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A diferença sexual entre homem e mulher é informada pela \n\nbiologia e indiferente a variações culturais, a despeito do \nque dizem a OMS e as associações feministas, gays, lésbicas \ne trans.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "Embora seja inevitável admitir que haja pessoas que não \n\nse enquadram na taxonomia binária, é necessário elaborar \ncoletivamente caminhos para ajudá-las a uma reconciliação \ncom a própria natureza. \n\n9",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "As instituições sociais e políticas operam normalmente com \n\numa taxonomia binária violenta e excludente da multiplici­\ndade de seres humanos, que precisa ser revista em nome da \nampliação do nosso horizonte democrático.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "Gênero e sexualidade são categorias identitárias inadequa­\n\ndas ao processo de ampliação do horizonte democrático \ncom vistas ao reconhecimento social e político de todos os \nindivíduos em função do seu próprio mérito.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q14",
+    "edital": "unicamp",
+    "numero": 14,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A massa do conjunto motociclista + motocicleta é dada por \nm = 180 kg. Para o trecho entre os tempos t = 30 s e t = 50 s, \nem que o movimento tem desaceleração constante, é correto \nafirmar que o módulo da força resultante que age nesse con­\njunto  é igual a",
+    "url_img": [],
+    "resolucao": "Passo 1: Identificar o trecho de movimento e os dados fornecidos.\n- Trecho: entre t = 30 s e t = 50 s.\n- Massa do conjunto (m) = 180 kg.\n- O movimento é de desaceleração constante.\nPasso 2: Determinar as velocidades inicial e final para o trecho.\n- No texto complementar, é dito que o motociclista mantém velocidade constante v0 = 36 km/h até t = 30 s. Portanto, a velocidade inicial do trecho em questão (v_inicial) é 36 km/h.\n- Conversão para m/s: v_inicial = 36 / 3,6 = 10 m/s.\n- O texto diz que o motociclista continua o percurso com desaceleração constante \"até parar completamente diante de um semáforo em t = 50 s\". Portanto, a velocidade final do trecho (v_final) é 0 m/s.\nPasso 3: Calcular a aceleração (a) no trecho.\n- A aceleração constante é calculada como a variação da velocidade dividida pelo intervalo de tempo:\n  a = (v_final - v_inicial) / Δt\n  a = (0 m/s - 10 m/s) / (50 s - 30 s)\n  a = -10 m/s / 20 s\n  a = -0,5 m/s²\n- O sinal negativo indica que é uma desaceleração. O módulo da aceleração é |a| = 0,5 m/s².\nPasso 4: Calcular o módulo da força resultante (F_resultante).\n- Pela Segunda Lei de Newton, a força resultante é o produto da massa pela aceleração:\n  F_resultante = m × |a|\n  F_resultante = 180 kg × 0,5 m/s²\n  F_resultante = 90 N\nPasso 5: Comparar o resultado com as alternativas.\n- O valor calculado é 90 N, que corresponde à alternativa B.\n\nResposta: A alternativa B é a correta.",
+    "dica": "Problemas de dinâmica frequentemente combinam conceitos de cinemática e as Leis de Newton. Primeiro, use as informações de movimento (velocidade, tempo, deslocamento) para calcular a aceleração. Em seguida, aplique a Segunda Lei de Newton (F=ma) para determinar a força resultante. Lembre-se de converter todas as unidades para o SI (km/h para m/s) e prestar atenção ao que a questão pede (módulo da força, direção, etc.)."
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "Dinâmica",
+      "Leis de Newton",
+      "Força resultante",
+      "Aceleração",
+      "Cinemática"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "36 N.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "90 N.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "324 N.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "1 800 N.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

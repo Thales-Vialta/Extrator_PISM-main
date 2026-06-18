@@ -1,0 +1,46 @@
+{
+  "metadados": {
+    "codigo": "pism_2025_q5",
+    "edital": "pism",
+    "numero": 5,
+    "tipo_ou_cor": "modulo_1_dia_1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Em rela¸c˜ao aos efeitos de sentido constru´ıdos pela\nutiliza¸c˜ao do sufixo “inha/inho” empregado em pa-\nlavras presentes nos textos III, IV, V, pode-se inferir\nque:",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "no texto III, no trecho “mas como eles n˜ao po-\ndiam perder a escravinha n˜ao me mandavam em-\nbora s´o amea¸cavam”, o uso do diminutivo atri-\nbui valor pejorativo `a pessoa referida.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "no texto IV, o uso do diminutivo no trecho “Sem\nfalar em outro doutorzinho” demonstra a rela¸c˜ao\nde cordialidade e respeito, por parte da empre-\ngada, em rela¸c˜ao ao seu empregador.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "no texto V, a empregada era jovem e tratada\nde forma cordial e afetiva pela fam´ılia para a\nqual trabalhava, uma vez que era chamada pela\npatroa com o uso do diminutivo em “emprega-\ndinha”.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "no texto V, a palavra “escondidinha” est´a no di-\nminutivo para se referir ao tamanho da pimenta,\na qual, por ser pequena, estava escondida e quase\nimpercept´ıvel para as pessoas.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": {
+      "texto": "no texto V, em “a D. da casa ´e uma dondoca\nmesquinha”, o uso do diminutivo sugere que a\ndom´estica n˜ao trata sua patroa com respeito por\nreferir-se a ela diminuindo sua aparˆencia f´ısica,\nisto ´e, sua estatura.\n\nPr´o Reitoria de Gradua¸c˜ao\nCoordena¸c˜ao Geral de Processos Seletivos\nPism 2025 - M´odulo 1 - 1º Dia\n\nGEOGRAFIA - OBJETIVAS",
+      "url_img": [],
+      "correta": false
+    }
+  }
+}

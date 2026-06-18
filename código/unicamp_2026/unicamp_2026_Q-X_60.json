@@ -1,0 +1,48 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q60",
+    "edital": "unicamp",
+    "numero": 60,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Em seu ensaio “A vida não é útil”, Ailton Krenak elege Carlos \nDrummond de Andrade como um de seus “escudos”. Ele cita \na última estrofe de “O Homem; as Viagens”, poema publicado \nem As impurezas do Branco (1973). Reproduzimos, a seguir, a \nprimeira e a segunda estrofe desse poema:\n\n“O Homem; as Viagens\n\nO homem, bicho da Terra tão pequeno\nchateia-se na Terra\nlugar de muita miséria e pouca diversão,\nfaz um foguete, uma cápsula, um módulo\ntoca para a Lua\ndesce cauteloso na Lua\npisa na Lua\nplanta bandeirola na Lua\nexperimenta a Lua\ncoloniza a Lua\nciviliza a Lua\nhumaniza a Lua.\n\nLua humanizada: tão igual à Terra.\nO homem chateia-se na Lua.\nVamos para Marte – ordena a suas máquinas.\nElas obedecem, o homem desce em Marte\npisa em Marte\nexperimenta\ncoloniza\nciviliza\nhumaniza Marte com engenho e arte.\n\nMarte humanizado, que lugar quadrado. \n(...)”. \n\n(ANDRADE, C. D. O Homem; As viagens, As impurezas do Branco. In: Poesia Completa. \nRio de Janeiro, Editora Nova Aguilar, p. 718, 2002.)\n(KRENAK, A. A vida não é útil. Pesquisa e organização de Rita Carelli. São Paulo: Com­\npanhia das Letras, 2020.)\n\nEm relação às reflexões de Ailton Krenak, é correto afirmar que \nesse trecho do poema",
+    "url_img": [],
+    "resolucao": "O poema \"O Homem; as Viagens\" de Carlos Drummond de Andrade descreve a inesgotável busca do homem por novos lugares (Terra, Lua, Marte), movida por uma insatisfação intrínseca (\"chateia-se\"). Em cada novo lugar, o homem repete o ciclo de \"colonizar, civilizar, humanizar\", apenas para se \"chatear\" novamente. Ailton Krenak, em \"A vida não é útil\", é um crítico do modelo civilizatório ocidental e da ideia de progresso ilimitado, defendendo uma relação mais integrada e consciente com a natureza.\n\nVamos analisar as alternativas:\n\n*   **A) responsabiliza a ciência e tecnologia, desgastadas em seus valores, pela corrosão das relações nas sociedades contemporâneas.** O poema não culpa diretamente a ciência e tecnologia, mas a mentalidade humana que as utiliza para replicar seus padrões de insatisfação e apropriação. A crítica é mais sobre a postura humana do que sobre a tecnologia em si. O foco não é a 'corrosão das relações'.\n*   **B) mostra que os Homens, guiados pela ideia de progresso, não adotam uma postura consciente em relação ao seu espaço.** Esta alternativa está correta. O homem no poema é guiado por um impulso de se 'chatear' e buscar novos horizontes (Lua, Marte), repetindo o padrão de 'colonizar, civilizar, humanizar'. Isso reflete uma postura de exploração e apropriação que não se resolve, indicando uma falta de consciência sobre o impacto de suas ações e a natureza de sua própria insatisfação. A 'humanização' de Marte que resulta em 'que lugar quadrado' ironiza a uniformização e a perda da essência do novo espaço, ecoando a crítica de Krenak ao progresso que não considera a vida de forma plena e consciente.\n*   **C) evidencia que a Terra, desgastada em seus valores, foi superada pelos elementos da conquista espacial.** O poema não sugere que a Terra foi 'superada', mas que o homem se 'chateia' com ela e busca outros lugares, levando seus problemas consigo. A Terra é o ponto de partida da insatisfação, não um lugar obsoleto ou 'superado'.\n*   **D) identifica a aniquilação das sociedades contemporâneas nos programas de governos persuadidos pelo progresso.** O poema não aborda a 'aniquilação das sociedades' nem discute 'programas de governos'. A crítica é mais existencial e antropológica sobre a natureza do homem e sua relação com o espaço e a ideia de progresso.\n\nA alternativa correta é a B.",
+    "dica": "Ao analisar poemas e textos filosóficos/literários em contextos de vestibular, procure a mensagem central, as metáforas, as críticas sociais ou existenciais implícitas. Relacione o texto principal com o contexto dado (aqui, as reflexões de Ailton Krenak) para uma interpretação mais completa."
+  },
+  "especificacao": {
+    "materia": "Literatura",
+    "tags": [
+      "Crítica Social",
+      "Antropocentrismo",
+      "Progresso Tecnológico",
+      "Desencanto",
+      "Reflexões Filosóficas"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "responsabiliza a ciência e tecnologia, desgastadas em seus \n\nvalores, pela corrosão das relações nas sociedades contem­\nporâneas.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "mostra que os Homens, guiados pela ideia de progresso, \n\nnão adotam uma postura consciente em relação ao seu es­\npaço.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "evidencia que a Terra, desgastada em seus valores, foi supe­\n\nrada pelos elementos da conquista espacial.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "identifica a aniquilação das sociedades contemporâneas nos \n\nprogramas de governos persuadidos pelo progresso.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

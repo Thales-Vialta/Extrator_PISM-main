@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q9",
+    "edital": "unicamp",
+    "numero": 9,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Uma bateria inicialmente carregada fornece uma corrente cons­\ntante de i = 4 000 mA durante o tempo ∆t = 1 hora, ficando \ndescarregada no final desse processo. A carga elétrica Q, que \ncircula por essa bateria nesse intervalo de tempo é",
+    "url_img": [],
+    "resolucao": "Passo 1: Identificar os valores dados e a grandeza a ser calculada.\n- Corrente (i) = 4 000 mA\n- Tempo (Δt) = 1 hora\n- Carga elétrica (Q) = ?\nPasso 2: Converter as unidades para o Sistema Internacional (SI).\n- Corrente: 4 000 mA = 4 000 × 10⁻³ A = 4 A.\n- Tempo: 1 hora = 60 minutos × 60 segundos/minuto = 3 600 s.\nPasso 3: Utilizar a fórmula da carga elétrica em função da corrente e do tempo.\n- A relação entre carga, corrente e tempo é dada por Q = i × Δt.\n- Substituindo os valores convertidos:\n  Q = 4 A × 3 600 s\n  Q = 14 400 C\nPasso 4: Comparar o resultado com as alternativas.\n- O valor calculado é 14 400 C, que corresponde à alternativa C.\n\nResposta: A alternativa C é a correta.",
+    "dica": "Em problemas de eletrodinâmica, sempre verifique e converta as unidades para o Sistema Internacional (SI) antes de realizar os cálculos. Corrente é dada em Ampères (A), tempo em segundos (s) e carga em Coulombs (C). Lembre-se que “mili” significa 10^-3 e “hora” precisa ser convertida para segundos."
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "Eletrodinâmica",
+      "Corrente elétrica",
+      "Carga elétrica",
+      "Unidades de medida"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "4 C.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "4 000 C.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "14 400 C.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "14 400 000 C.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

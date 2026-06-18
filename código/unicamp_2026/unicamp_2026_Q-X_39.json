@@ -1,0 +1,51 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q39",
+    "edital": "unicamp",
+    "numero": 39,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Nas invasões biológicas, os predadores exóticos são a maior \ncausa de extinção de espécies e perda de biodiversidade. Isso \nacontece porque o predador exótico pode tanto consumir a \npresa nativa quanto competir com o predador nativo. O suces­\nso da invasão biológica ocorre quando existe a extinção de uma \nou ambas as espécies nativas, ou quando existe a redução da \npopulação nativa na presença do predador exótico. Na figura a \nseguir, considere os cenários I e II da chegada de um predador \nexótico em um sistema nativo de presa-predador em equilíbrio.\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p15_drawing1.png)\n\n25\n\nI\n\nII\n\nDensidade de populações\n\n20\n\n15\n\n10\n\n5\n\n0\n\nTempo\n\nTempo\n\n(Adaptado de V. RIVERA-ESTAYE colaboradores. Scientific Reports, Londres, v.14, p. 4416, \nfev. 2024.)\n\nA partir dessas informações, assinale a alternativa correta.",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p15_drawing1.png"
+    ],
+    "resolucao": "1. Compreenda a definição de sucesso da invasão biológica: O enunciado define sucesso da invasão biológica como 'extinção de uma ou ambas as espécies nativas, ou quando existe a redução da população nativa na presença do predador exótico'.\n2. Analise o Cenário I no gráfico:\n   - O predador exótico (linha tracejada mais grossa) aparece e sua população cresce e se estabelece no ambiente.\n   - A população da presa nativa (linha contínua) diminui drasticamente e é extinta (atinge densidade zero).\n   - A população do predador nativo (linha tracejada mais fina) também diminui e é extinta (atinge densidade zero).\n   - Este cenário se encaixa perfeitamente na definição de sucesso da invasão biológica, com a extinção das duas espécies nativas e o estabelecimento do predador exótico.\n3. Analise o Cenário II no gráfico:\n   - O predador exótico (linha tracejada mais grossa) aparece, cresce por um tempo, mas depois sua população declina e ele é extinto (atinge densidade zero).\n   - As populações da presa nativa e do predador nativo sofrem flutuações, mas se recuperam ou permanecem presentes no sistema após a extinção do predador exótico.\n   - Este cenário representa um insucesso da invasão biológica, pois o predador exótico não se estabelece.\n4. Avalie as alternativas:\n   - Alternativa A: Afirma que o Cenário I representa 'insucesso'. Incorreto, pois o Cenário I mostra o sucesso da invasão.\n   - Alternativa B: Afirma que 'O cenário I representa sucesso da invasão biológica. O predador exótico se instala, causando a redução populacional da presa nativa e a extinção do predador nativo'. Esta afirmação está totalmente correta, conforme a análise do gráfico e a definição de sucesso da invasão.\n   - Alternativa C: Afirma que o Cenário II representa 'sucesso'. Incorreto, pois o predador exótico é extinto no Cenário II.\n   - Alternativa D: Afirma que o Cenário II representa 'insucesso da invasão biológica. O predador exótico é extinto, causando a redução populacional da presa nativa e o aumento populacional do predador nativo'. A parte do 'insucesso' e 'predador exótico é extinto' está correta. No entanto, o 'aumento populacional do predador nativo' não é tão evidente como uma recuperação para o nível inicial, e a alternativa B descreve com mais precisão e completude o sucesso da invasão.",
+    "dica": "Estudar os conceitos de ecologia de populações e comunidades, as interações entre espécies (predação, competição) e os impactos das espécies exóticas invasoras na biodiversidade e nos ecossistemas. A interpretação de gráficos de dinâmica populacional ao longo do tempo é essencial. Preste atenção à definição de 'sucesso da invasão biológica' fornecida no enunciado."
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "Ecologia",
+      "Invasões biológicas",
+      "Competição",
+      "Predação",
+      "Extinção de espécies",
+      "Dinâmica populacional"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "O cenário I representa insucesso da invasão biológica. O \n\npredador exótico é extinto, causando a redução populacio­\nnal da presa nativa e o aumento populacional do predador \nnativo.\n\n14",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "O cenário I representa sucesso da invasão biológica. O pre­\n\ndador exótico se instala, causando a redução populacional \nda presa nativa e a extinção do predador nativo.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "O cenário II representa sucesso da invasão biológica. O pre­\n\ndador exótico se instala, causando a redução populacional \ndo predador nativo e a extinção da presa nativa.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "O cenário II representa insucesso da invasão biológica. O \n\npredador exótico é extinto, causando a redução populacio­\nnal da presa nativa e o aumento populacional do predador \nnativo.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

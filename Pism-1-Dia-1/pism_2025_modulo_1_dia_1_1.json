@@ -1,0 +1,46 @@
+{
+  "metadados": {
+    "codigo": "pism_2025_q1",
+    "edital": "pism",
+    "numero": 1,
+    "tipo_ou_cor": "modulo_1_dia_1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "A partir da letra da m´usica de Emicida “A ordem\nnatural das coisas”, infere-se que:",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "a Dona Maria pode ser interpretada como uma\nreferˆencia a todas as mulheres simples que saem\npara trabalhar pela manh˜a bem cedo em servi¸cos\nconsiderados de menor prest´ıgio social, como di-\naristas, merendeiras, garis.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "a repeti¸c˜ao da express˜ao “s´o vem depois”, na\nsegunda estrofe, sugere que Dona Maria, e to-\ndas(os) que ela representa, s˜ao de importˆancia\nigual ou maior que o Sol, uma vez que o dia s´o\namanhece se elas(es) forem trabalhar.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "ao afirmar que S˜ao Paulo tem “Vietn˜a”, meta-\nforicamente o autor faz referˆencia ao servi¸co mi-\nlitar obrigat´orio de adolescentes do sexo mascu-\nlino no Brasil, o que justifica a orienta¸c˜ao da\nm˜ae para seu filho levar documento.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "o autor ameniza a desigualdade social na m´usica,\no que ´e refor¸cado pelo t´ıtulo “A ordem natural\ndas coisas”, cujo tema principal ´e o cotidiano da\ncidade de S˜ao Paulo, com trabalhadores indo de\nˆonibus para seus trabalhos bem cedo.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": {
+      "texto": "o autor ironiza os sonhos da popula¸c˜ao mais\nvulner´avel economicamente, como reformar um\ncˆomodo da casa, ao utilizar a palavra “farelos”\nem “Farelos de um sonho bobinho que a luz con-\ntorna”.",
+      "url_img": [],
+      "correta": false
+    }
+  }
+}

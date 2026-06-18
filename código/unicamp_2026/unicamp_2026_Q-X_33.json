@@ -1,0 +1,52 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q33",
+    "edital": "unicamp",
+    "numero": 33,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "As imagens a seguir fazem parte da coleção International Date­\nline Collection III, exposta em um desfile internacional, organi­\nzado pela estilista brasileira Zuzu Angel, em Nova Iorque, no dia \n13 de setembro de 1971.\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p12_img0.jpeg)\n\nLegenda:  Vestido de noiva idealizado por Zuzu Angel.\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p13_img1.jpeg)\n\nLegenda: Desenho de quepe militar nas cores verde oliva, amarela, azulão-\nverde; com aba na cor verde direcionada para a direita. Possui inscrição do \nnúmero \"32\" a lápis e à caneta, bem como o texto \"verde oliva, amarelo, \nazulão-verde\" e a palavra \"azulão\" registrados à caneta. Desenho utilizado \nem bordado de vestido.\n\nSobre as criações de Zuzu Angel para a produção das peças e organização do desfile, é correto afirmar que a",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p12_img0.jpeg",
+      "./imgs/unicamp_2026_Q-X_p13_img1.jpeg"
+    ],
+    "resolucao": "1. Analise as imagens: As imagens mostram criações da estilista Zuzu Angel de um desfile de 1971: um vestido de noiva decorado com quepe militar e desenhos infantis, um desenho de quepe militar e um desenho de canhão. Zuzu Angel é reconhecida por usar sua moda como forma de protesto contra a Ditadura Militar, especialmente após o desaparecimento e morte de seu filho Stuart Angel.\n2. Avalie as alternativas:\n   - Alternativa A: Afirma que a utilização desses símbolos 'amenizava a percepção internacional dos anos de chumbo'. Pelo contrário, as criações de Zuzu Angel eram uma forma de denúncia, usando a linguagem da moda para chamar a atenção para a repressão, o que visava intensificar, e não amenizar, a percepção internacional.\n   - Alternativa B: Afirma que a 'escolha por desenhos infantis, associados aos motivos militares, expressa uma denúncia do desaparecimento de presos políticos'. Zuzu Angel utilizou símbolos da infância, como anjinhos e pássaros engaiolados (não explicitamente na imagem, mas em seu trabalho), combinados com motivos militares (como os mostrados nas imagens), como uma metáfora visual e um grito silencioso para denunciar a violência da ditadura, a perda da inocência e, em particular, o desaparecimento de jovens militantes políticos (incluindo seu filho). Esta interpretação é historicamente correta e alinhada com a biografia da estilista.\n   - Alternativas C e D: Estão vazias e não fornecem opções de resposta.",
+    "dica": "Estudar o período da Ditadura Militar no Brasil (1964-1985), com foco nos 'Anos de Chumbo' (pós-AI-5), a repressão política, a censura e as diversas formas de resistência cultural, como a arte e a moda, com destaque para figuras como Zuzu Angel e o uso de simbolismos em suas obras."
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "Ditadura Militar no Brasil",
+      "Censura",
+      "Resistência cultural",
+      "Moda como protesto",
+      "Anos de chumbo",
+      "Zuzu Angel"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "utilização de um vestido de noiva, decorado com símbolos \n\nmilitares e desenhos infantis, amenizava a percepção inter­\nnacional dos anos de chumbo do Brasil pós-AI5.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "escolha por desenhos infantis, associados aos motivos mili­\n\ntares, expressa uma denúncia do desaparecimento de pre­\nsos políticos.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": null,
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": null,
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

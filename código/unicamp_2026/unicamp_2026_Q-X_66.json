@@ -1,0 +1,52 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q66",
+    "edital": "unicamp",
+    "numero": 66,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "O desafio de ensinar como as reações químicas acontecem está \nno fato de que elas geralmente ocorrem por meio de sinais de­\ntectáveis pelos nossos sentidos, enquanto que sua explicação \ngeralmente ocorre em um nível invisível ou abstrato. Johnstone, \npesquisador escocês em educação científica, propôs que, para \nse entender um fenômeno do ponto de vista químico, qualquer \npessoa precisa ser capaz de pensá-lo em três domínios distin­\ntos: o macroscópico, o submicroscópico e o simbólico. A seguir, \na figura mostra o triângulo de Johnstone que correlaciona os \ntrês domínios, identificados como (1), (2) e (3). Já as ilustrações \napresentam os domínios de forma aleatória.\n\n22\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p23_img0.jpeg)\n\n(Adaptado de https://edu.rsc.org/feature/develop-deeper-understanding-with-models/30 \n105 19.article. Acesso em 09/10/2025.)\n\nIlustrações dos domínios\nA\nE\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p23_drawing1.png)\n\nCH4 + 2O2 = CO2 + 2H2O\n\nB\nF\n\nH\nH\n\nH C\nC\nO\nO2\n+\n\nH\nH\nH\n\nO\n\nH\nH\nH\nH\n\nH C\nC\nO\n\nO\n2\n+\n\nC\nG\n\n+\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p23_drawing0.png)\n\nEnergia\n\n+\n\nProgresso da Reação\n\nD\nH\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p23_img1.jpeg)\n\nC2H5OH(l) + 3O2(g) = \n\n2CO2(g) + 3H2O(l)\n\nCom base nas informações do enunciado, da figura e das ilus­\ntrações, é correto afirmar que os domínios (1), (2) e (3) do tri­\nângulo de Johnstone são representados respectivamente pelas \nilustrações",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p23_img0.jpeg",
+      "./imgs/unicamp_2026_Q-X_p23_drawing1.png",
+      "./imgs/unicamp_2026_Q-X_p23_drawing0.png",
+      "./imgs/unicamp_2026_Q-X_p23_img1.jpeg"
+    ],
+    "resolucao": "1. Compreensão do Triângulo de Johnstone: O enunciado explica que, para entender um fenômeno químico, é preciso pensá-lo em três domínios: Macroscópico (1): O que pode ser observado pelos sentidos, o fenômeno visível. Submicroscópico (2): O nível de átomos e moléculas, as interações invisíveis. Simbólico (3): Representações como fórmulas, equações, gráficos, diagramas.2. Classificação das Ilustrações: A, D, E: Representam fenômenos observáveis (reação em um béquer, fogo, experimento em laboratório). São, portanto, do domínio Macroscópico. B, G: Representam a estrutura e interação de moléculas (átomos se reorganizando). São do domínio Submicroscópico. C, F, H: Representam equações químicas ou diagramas de energia. São do domínio Simbólico.3. Correspondência dos Domínios do Triângulo com as Ilustrações: Domínio (1) Macroscópico: Pode ser representado por A, D ou E. Domínio (2) Submicroscópico: Pode ser representado por B ou G. Domínio (3) Simbólico: Pode ser representado por C, F ou H.4. Análise das Alternativas: A) (F), (H) e (G): Simbólico, Simbólico, Submicroscópico. Incorreto. B) (G), (D) e (A): Submicroscópico, Macroscópico, Macroscópico. Incorreto. C) (B), (A) e (H): Submicroscópico, Macroscópico, Simbólico. Incorreto na ordem. D) (D), (G) e (H): (1) Macroscópico: Ilustração D (fogo/combustão visível). Correto. (2) Submicroscópico: Ilustração G (moléculas interagindo). Correto. (3) Simbólico: Ilustração H (equação química). Correto. Verificação da segunda parte da alternativa D: 'enquanto a ilustração (C) apresenta uma combinação dos domínios simbólico e submicroscópico.' A ilustração C é um diagrama de energia de reação. É uma representação simbólica de um processo que ocorre em nível submicroscópico (quebra e formação de ligações, transição de estados moleculares). Portanto, a afirmação de que C combina os domínios simbólico e submicroscópico é razoável e aceitável dentro do modelo de Johnstone, pois o diagrama é uma abstração simbólica do que ocorre com as moléculas.",
+    "dica": "Para entender reações químicas complexas, pratique a identificação e a transição entre os três domínios de Johnstone (macroscópico, submicroscópico e simbólico). Desenvolva a capacidade de visualizar o que acontece em nível atômico/molecular a partir de equações e observações práticas, e de representar essas observações e modelos microscopicamente em linguagens simbólicas."
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "Triângulo de Johnstone",
+      "Representação de fenômenos químicos",
+      "Níveis de representação",
+      "Metodologia de ensino de química"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "(F), (H) e (G), enquanto a ilustração (C) apresenta uma com­\n\nbinação dos domínios simbólico e submicroscópico.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "(G), (D) e (A), enquanto a ilustração (E) apresenta uma com­\n\nbinação dos domínios simbólico e submicroscópico.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "(B), (A) e (H), enquanto a ilustração (E) apresenta uma com­\n\nbinação dos domínios simbólico e submicroscópico.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "(D), (G) e (H), enquanto a ilustração (C) apresenta uma com­\n\nbinação dos domínios simbólico e submicroscópico.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

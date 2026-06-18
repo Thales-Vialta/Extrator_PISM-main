@@ -1,0 +1,48 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q63",
+    "edital": "unicamp",
+    "numero": 63,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Leia a citação a seguir, extraída do conto “Pera, uva ou maçã?”, \npublicado no livro Morangos mofados, de Caio Fernando \nAbreu, e assinale a alternativa correta sobre o excerto.\n\nFoi então que vi aquelas ameixas e achei tão bonitas e tão \nvermelhas que pedi um quilo e era minha última grana certo \nporque meus pais não me dão nada e daí eu pensei assim se \ncomprar essas ameixas agora vou ter que voltar a pé para casa \nmas que importa volto a pé mesmo pode ser até que acorde um \npouco e aquela coisa lá longe volte pra perto de mim e então eu \nvinha caminhando devagarinho as ameixas eu não conseguia \nparar de comer sabe já tinha comido acho que umas seis estava \ntoda melada quando dobrei a esquina aqui da rua e ia saindo \num caixão de defunto do sobrado amarelo na esquina certo \nacho que era um caixão cheio quer dizer com defunto dentro \nporque ia saindo e não entrando certo e foi bem na hora que \neu dobrei não deu tempo de parar nem de desviar daí então \neu tropecei no caixão e as ameixas todas caíram assim paf! na \ncalçada e foi aí que eu reparei naquelas pessoas todas de preto \ne óculos escuros e lenços no nariz e uma porrada de coroas de \nflores devia ser um defunto muito rico certo e aquele carro fú­\nnebre ali parado e só aí eu entendi que era um velório. \n(ABREU, C. F. Morangos Mofados. 9ª. ed. São Paulo: Companhia das Letras, p. 105-106, \n2015.)",
+    "url_img": [],
+    "resolucao": "1. Análise do Estilo do Excerto: O trecho de Caio Fernando Abreu é notável pela quase total ausência de pontuação tradicional (vírgulas, pontos finais). As frases se encadeiam em um fluxo contínuo, sem pausas claras. A linguagem é coloquial e direta, como se fosse um monólogo interior ou um relato oral apressado e ininterrupto.2. Efeitos da Ausência de Pontuação: Aceleração da Leitura: A falta de pausas gramaticais força o leitor a uma leitura mais rápida, quase sem fôlego, mimetizando a velocidade do pensamento ou a intensidade da emoção do narrador. Fluxo de Consciência: Essa técnica é típica do fluxo de consciência, buscando reproduzir o processo mental do personagem, com seus pensamentos, percepções e sensações misturados e sem ordenação lógica rígida. Reflexo do Estado Psicológico: A quebra da sintaxe convencional, a aglomeração de ideias e a aceleração narrativa frequentemente servem para expressar estados psicológicos como ansiedade, angústia, confusão, vertigem ou desorientação. No excerto, a personagem relata eventos de forma um tanto caótica e com revelações tardias ('só aí eu entendi que era um velório'), o que sugere um estado mental não totalmente calmo ou organizado.3. Avaliação das Alternativas: A) Incorreta. A presença de frases como 'foi então que vi' e 'só aí eu entendi' são marcadores temporais que sinalizam a progressão das percepções do narrador, mas a ausência geral de pontuação não cria um 'retardamento' da narrativa; pelo contrário, acelera. Além disso, 'apatia' pode não ser o melhor termo para o estado do personagem, que experimenta uma epifania súbita sobre o velório. B) Correta. A ausência de pontuação realmente cria um efeito de aceleração, que é característico de narrativas que tentam mimetizar o fluxo incessante do pensamento. Isso reflete um estado psicológico de agitação, ansiedade ou confusão da personagem, que está vivenciando uma série de eventos e percepções de forma intensa e desordenada. C) Incorreta. As orações mencionadas servem para marcar pontos no desenvolvimento temporal da percepção da personagem, não para romper ou prejudicar a sequência lógica de forma disfuncional, mas para expressar uma lógica interna subjetiva. D) Incorreta. Embora possa haver alguma desorganização aparente e ambiguidade, a principal função estilística da ausência de pontuação é a aceleração e a expressão de um estado mental, não meramente a 'desorganização da sequência das ações' ou uma ambiguidade de sentido como o foco principal.",
+    "dica": "Familiarize-se com as características estilísticas de autores modernistas e pós-modernistas brasileiros, como Caio Fernando Abreu. Estude técnicas narrativas como fluxo de consciência, discurso indireto livre e a experimentação com a pontuação. Entenda como a forma de um texto pode espelhar o conteúdo e o estado psicológico das personagens."
+  },
+  "especificacao": {
+    "materia": "Literatura",
+    "tags": [
+      "Prosa contemporânea",
+      "Estilo literário",
+      "Fluxo de consciência",
+      "Narrativa subjetiva",
+      "Sintaxe"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A presença de orações como “foi então que vi”, “foi aí que \n\neu reparei” e “só aí eu entendi” cria um efeito de retarda­\nmento da narrativa, o que reflete o estado psicológico de \napatia da personagem que fala.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "A ausência de pontuação cria um efeito de aceleração da \n\nnarrativa, o que reflete o estado psicológico de ansiedade \nda personagem que fala.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "A presença de orações como “foi então que vi”, “foi aí que \n\neu reparei” e “só aí eu entendi” rompe a sequência tempo­\nral da narrativa, prejudicando o seu desenvolvimento lógico.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "A ausência de pontuação desorganiza a sequência das \n\nações da personagem, o que reflete sua confusão e causa \numa ambiguidade de sentido em sua narrativa.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

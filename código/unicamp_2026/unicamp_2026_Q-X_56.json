@@ -1,0 +1,48 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q56",
+    "edital": "unicamp",
+    "numero": 56,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A partir das análises de Lélia Gonzalez – intelectual, professora \nuniversitária, mulher, negra e feminista – conseguimos compre­\nender quão extensa é a introdução de palavras e termos de ori­\ngens africanas na nossa língua. O Pretuguês é, então, parte da \nafricanização da língua portuguesa brasileira. As pessoas negras \nescravizadas resistiam de inúmeras formas, lutando, fugindo, \nse organizando, mas também através da fala, no jeito de agir e \nna forma de viver que se enraizou na maneira de ser de todo o \nBrasil. E isso vem da ancestralidade, é o passar do conhecimen­\nto através do tempo e das relações de respeito pelo que veio \nantes, através do cântico antigo, da reza falada, da contação \nde história que os entrelaços linguísticos vão formando. Muitos \nvocábulos estão tão acomodados no nosso idioma que sequer \nparamos para pensar sua origem e seu significado. Mas são de \norigem africana, como dengo, quitanda, cafuné, muvuca, ca­\nçula e axé.\n(Adaptado de texto publicado no perfil de Instagram de Mari Canuto em 28/09/2022. \nDisponível em https://www.instagram.com/mari_canuto/reel/CjD8ALkPw9o/. Acesso em \n30/07/2025.) \n\nConsiderando esse texto, a menção ao “Pretuguês de Lélia \nGonzalez” no artigo de Marcelo José Derzi Moraes, apresenta­\ndo na questão anterior, ocorre pelo fato de nóix ser",
+    "url_img": [],
+    "resolucao": "O texto da questão anterior descreve 'nóix' como uma marca linguística que 'demarca um sotaque, um registro local, um lugar, o Pretuguês de Lélia Gonzalez' e que desobedece a norma culta. O texto desta questão (2) explica o 'Pretuguês' como a 'africanização da língua portuguesa brasileira', resultado da resistência e da 'ancestralidade' das 'pessoas negras escravizadas', que transmitiram 'conhecimento através do tempo e das relações de respeito pelo que veio antes', incluindo palavras de origem africana como 'dengo', 'quitanda', 'cafuné'.\n\nVamos analisar as alternativas:\n\n*   **A) um vocábulo introduzido no Brasil pelos africanos escravizados, da mesma forma que outras palavras de origem africana acomodadas na língua.** O texto não afirma que 'nóix' (uma variação do pronome 'nós') seja um vocábulo de origem africana. Ele é uma marca do 'Pretuguês', que *inclui* vocábulos africanos, mas não é um em si. Portanto, A está incorreta.\n*   **B) uma expressão identitária que serve para demarcar os negros brasileiros e segregá-los dos demais grupos étnico-raciais que compõem o país.** Embora 'nóix' seja uma 'expressão identitária' para um grupo, o texto não sugere que seu propósito seja 'segregar' ou separar os negros dos demais grupos de forma negativa. Ele fala de 'fechamento' e 'lado A ou lado B', mas no contexto de identidade e pertencimento, não de segregação excludente.\n*   **C) uma marca linguística associada a um grupo cujos ancestrais reúnem aqueles que contribuíram para a africanização do português brasileiro.** Esta alternativa está em total consonância com ambos os textos. O texto 1 associa 'nóix' ao 'Pretuguês de Lélia Gonzalez', e o texto 2 define o 'Pretuguês' como a 'africanização da língua portuguesa brasileira' que vem da 'ancestralidade' e da resistência das 'pessoas negras escravizadas'. Assim, 'nóix' é uma marca dessa herança e contribuição cultural e linguística.\n*   **D) um traço dialetal característico dos sotaques urbanos brasileiros que são fortemente marcados pela presença de palavras africanas.** Embora 'nóix' seja um traço dialetal de sotaques urbanos e parte do 'Pretuguês', o texto não afirma que 'nóix' *em si* seja marcado pela presença de palavras africanas, mas sim que o 'Pretuguês' (o contexto linguístico e cultural mais amplo) contém palavras de origem africana. A conexão é mais profunda do que apenas a etimologia da palavra 'nóix'.\n\nA alternativa correta é a C.",
+    "dica": "Ao comparar textos, identifique as informações explícitas e as relações implícitas entre elas. Cuidado com generalizações ou extrapolações que o texto não sustenta. Compreender a etimologia e a sociolinguística dos termos é fundamental para este tipo de questão."
+  },
+  "especificacao": {
+    "materia": "Português",
+    "tags": [
+      "Sociolinguística",
+      "Afro-brasilidade",
+      "Variação Linguística",
+      "História da Língua Portuguesa",
+      "Identidade Étnico-Cultural"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "um vocábulo introduzido no Brasil pelos africanos escraviza­\n\ndos, da mesma forma que outras palavras de origem africa­\nna acomodadas na língua.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "uma expressão identitária que serve para demarcar os ne­\n\ngros brasileiros e segregá-los dos demais grupos étnico-ra­\nciais que compõem o país.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "uma marca linguística associada a um grupo cujos ancestrais \n\nreúnem aqueles que contribuíram para a africanização do \nportuguês brasileiro.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "um traço dialetal característico dos sotaques urbanos brasi­\n\nleiros que são fortemente marcados pela presença de pala­\nvras africanas.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

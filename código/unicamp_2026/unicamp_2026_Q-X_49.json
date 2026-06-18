@@ -1,0 +1,46 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q49",
+    "edital": "unicamp",
+    "numero": 49,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Em uma creche se realiza o “dia da troca do brinquedo”. Cada \ncriança leva um brinquedo para a escola e o guarda na Caixa \nDivertida. Ao final do dia, cada criança retira um brinquedo da \nCaixa Divertida sem olhar, e o leva para brincar em casa.\n\nEm uma sala com cinco crianças, qual é a probabilidade de exa­\ntamente duas crianças retirarem da Caixa Divertida seus pró­\nprios brinquedos?",
+    "url_img": [],
+    "resolucao": "Este é um problema de probabilidade que envolve combinações e desarranjos.\n\n**Passo 1: Calcular o número total de maneiras de distribuir os brinquedos.**\n*   Se há 5 crianças e 5 brinquedos distintos, o número total de maneiras de cada criança retirar um brinquedo é o número de permutações de 5 elementos: N_total = 5! = 5 × 4 × 3 × 2 × 1 = 120.\n\n**Passo 2: Escolher exatamente 2 crianças que retirarão seus próprios brinquedos.**\n*   O número de maneiras de escolher 2 crianças de um grupo de 5 é dado pela combinação C(5, 2):\n    *   C(5, 2) = 5! / (2! * (5-2)!) = 5! / (2! * 3!) = (5 × 4 × 3!) / (2 × 1 × 3!) = (5 × 4) / 2 = 10.\n\n**Passo 3: Calcular o número de maneiras para as 3 crianças restantes retirarem brinquedos *errados* (desarranjos).**\n*   Para as 3 crianças restantes, elas devem pegar brinquedos que não são os seus. Isso é chamado de desarranjo (Dn).\n*   A fórmula para o número de desarranjos Dn é D_n = n! * Σ ((-1)^k / k!) para k de 0 a n.\n*   Para n = 3:\n    *   D₃ = 3! * (1/0! - 1/1! + 1/2! - 1/3!)\n    *   D₃ = 6 * (1 - 1 + 1/2 - 1/6)\n    *   D₃ = 6 * (1/2 - 1/6)\n    *   D₃ = 6 * (3/6 - 1/6)\n    *   D₃ = 6 * (2/6) = 2.\n\n**Passo 4: Calcular o número de casos favoráveis.**\n*   O número de casos em que exatamente duas crianças retiram seus próprios brinquedos é o produto dos resultados dos Passos 2 e 3:\n    *   N_favoráveis = C(5, 2) * D₃ = 10 * 2 = 20.\n\n**Passo 5: Calcular a probabilidade.**\n*   Probabilidade (P) = N_favoráveis / N_total = 20 / 120 = 1/6.\n\nA alternativa correta é a B.",
+    "dica": "Entenda a diferença entre permutações, arranjos e combinações. Para problemas de \"ninguém pega o seu\", estude o conceito de desarranjos (ou permutações caóticas) e sua fórmula. Pratique com exemplos de diferentes tamanhos para n. Lembre-se que desarranjos D_n são D₀=1, D₁=0, D₂=1, D₃=2, D₄=9, D₅=44."
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "Probabilidade",
+      "Análise Combinatória",
+      "Desarranjos"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "1/5.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "1/6.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "1/25.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "1/30.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

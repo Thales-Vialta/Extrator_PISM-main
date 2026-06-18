@@ -1,0 +1,52 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q38",
+    "edital": "unicamp",
+    "numero": 38,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Fungos e metazoários evoluíram de um ancestral comum similar \naos protistas, entretanto, os dois reinos divergiram ao longo do \ntempo. Os fungos crescem em cima ou dentro do seu alimento \ne a digestão ocorre no meio externo. Além disso, a maioria dos \nrepresentantes dos fungos é composta por organismos com ci­\nclo de vida haplobionte. A figura a seguir representa um ciclo \nde vida típico de um fungo haplobionte haplonte.\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p15_drawing3.png)\n\nII\n\nIII\n\nn\nn\n\n2n\n\nn\nn\n\nI\n\nIV\n\n(Adaptado de AMSES, K. R. e colaboradores. PNAS, Washington, v.119, p. e2116841119, \nago. 2022.)\n\nAssinale a alternativa que identifica corretamente os eventos I, \nII, III e IV.\n\nI\nII\nIII\nIV",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p15_drawing3.png"
+    ],
+    "resolucao": "1. Compreenda o ciclo de vida 'haplobionte haplonte': Neste tipo de ciclo, o organismo adulto é haploide (n), e a única fase diploide (2n) é o zigoto, que passa por meiose para produzir esporos haploides. A mitose ocorre na fase haploide para o crescimento do organismo.\n2. Analise cada evento na figura:\n   - I: Mostra uma estrutura haploide (n) liberando outras estruturas haploides (n). Este processo de produção de células haploides a partir de outras células haploides é a MITOSE.\n   - II: Mostra uma célula haploide (n) se desenvolvendo em um micélio haploide (n). Este crescimento a partir de células haploides é feito por MITOSE.\n   - III: Duas hifas haploides (n) se encontram e ocorre a fusão de seus citoplasmas. Essa fusão de citoplasmas (mas não dos núcleos imediatamente) é a PLASMOGAMIA, formando uma célula dicariótica (n+n) ou levando à formação de um zigoto.\n   - IV: O zigoto diploide (2n) passa por um processo que resulta na formação de esporos haploides (n). A redução do número de cromossomos de 2n para n é realizada pela MEIOSE.\n3. Combine os eventos com as opções:\n   - I = Mitose\n   - II = Mitose\n   - III = Plasmogamia\n   - IV = Meiose\n4. Avalie as alternativas:\n   - Alternativa A: I mitose, II meiose, III plasmogamia, IV meiose. Incorreto no II.\n   - Alternativa B: I meiose, II meiose, III cariogamia, IV mitose. Incorreto em várias etapas.\n   - Alternativa C: I mitose, II mitose, III plasmogamia, IV meiose. Esta alternativa corresponde à nossa análise.\n   - Alternativa D: I meiose, II mitose, III cariogamia, IV mitose. Incorreto em várias etapas.",
+    "dica": "Dominar os diferentes tipos de ciclos de vida (haplobionte haplonte, haplobionte diplonte, diplobionte), as etapas da reprodução em fungos (plasmogamia, cariogamia, meiose) e a relação entre ploidia (n, 2n) e os processos de meiose e mitose. Trace o caminho da ploidia em cada etapa."
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "Ciclos de vida",
+      "Fungos",
+      "Meiose",
+      "Mitose",
+      "Plasmogamia",
+      "Cariogamia",
+      "Ploida"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "mitose\nmeiose\nplasmogamia\nmeiose",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "meiose\nmeiose\ncariogamia\nmitose",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "mitose\nmitose\nplasmogamia\nmeiose",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "meiose\nmitose\ncariogamia\nmitose",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

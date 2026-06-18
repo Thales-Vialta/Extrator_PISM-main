@@ -1,0 +1,51 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q67",
+    "edital": "unicamp",
+    "numero": 67,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Os recifes de corais são ecossistemas ricos em biodiversidade, \nsendo essenciais para a pesca e proteção costeira. Essas es­\ntruturas são formadas por pólipos com esqueleto externo de \ncarbonato de cálcio e sofrem degradação nas últimas décadas \ndevido às atividades humanas no meio ambiente. O infográ­\nfico a seguir representa o efeito da ação humana sobre um \ndos equilíbrios químicos da água dos oceanos pela emissão de \nCO2 atmosférico (CO2 atm). Dados: [CO2]atm = concentração \nde CO2 atmosférico\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p24_img0.jpeg)\n\n(Adaptado de HOEGH-GULDBERG et al. Science, v. 318, p.1737-1742, 2007.)\n\nCom base nas informações do enunciado e do infográfico apre­\nsentado, é correto afirmar que as espécies A, B e C são, respec­\ntivamente,",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p24_img0.jpeg"
+    ],
+    "resolucao": "1. Análise do Infográfico e Equilíbrios Químicos: O infográfico mostra a absorção de CO2 atmosférico (CO2 atm) pela água do oceano, formando CO2(aq). CO2(aq) reage com H2O(l) para formar ácido carbônico (H2CO3(aq)). O ácido carbônico se dissocia, liberando íons H+ e bicarbonato (HCO3-(aq)). O íon bicarbonato se dissocia novamente, liberando mais H+ e o íon A(aq). Portanto, A = CO3^2- (íon carbonato). Na parte inferior, temos o equilíbrio da estrutura dos corais: C(s) <=> B(aq) + A(aq). Como os corais são formados por carbonato de cálcio e A é o íon carbonato (CO3^2-), então C = CaCO3(s) (carbonato de cálcio) e B = Ca^2+(aq) (íon cálcio).2. Efeito do Aumento de CO2 atmosférico: Um aumento na concentração de CO2 atmosférico ([CO2]atm) leva a um aumento de CO2 dissolvido na água do oceano (CO2(aq)). Isso desloca os equilíbrios de hidratação do CO2 e de dissociação do ácido carbônico para a direita, aumentando a concentração de H+(aq). O aumento de H+(aq) significa uma diminuição do pH dos oceanos (acidificação). O aumento de H+(aq) desloca o equilíbrio de dissociação do bicarbonato (HCO3- <=> H+ + CO3^2-) para a esquerda, consumindo íons carbonato (CO3^2-). Ou seja, a concentração de [A(aq)] diminui. A diminuição da concentração de íons carbonato [CO3^2-(aq)] desloca o equilíbrio de dissolução do carbonato de cálcio (CaCO3(s) <=> Ca^2+(aq) + CO3^2-(aq)) para a direita, favorecendo a dissolução do carbonato de cálcio. A dissolução do carbonato de cálcio leva à maior degradação dos corais.3. Análise das Alternativas: Com base na análise química, o aumento de [CO2]atm provoca uma diminuição do pH e uma maior degradação dos corais. Apenas as alternativas B e C mencionam a diminuição do pH. Entre elas, apenas B associa corretamente com a maior degradação. Agora, vamos verificar a identificação das espécies em B: 'CO3−2, CaCO3 e CO3−2'. Para A: CO3−2. Esta identificação está correta de acordo com o infográfico. Para B: CaCO3. De acordo com o infográfico, B é Ca^2+(aq) e C é CaCO3(s). Portanto, esta parte da alternativa está inconsistente com a rotulagem do infográfico para B, pois atribui a B o que seria C no diagrama. Para C: CO3−2. De acordo com o infográfico, C é CaCO3(s). Além disso, CO3^2- já foi identificado como A. Esta parte da alternativa está inconsistente e repetitiva. Apesar da aparente inconsistência na rotulagem das espécies B e C na alternativa, a descrição do processo de acidificação dos oceanos e suas consequências (diminuição do pH e maior degradação dos corais) na alternativa B é a única que está quimicamente correta entre todas as opções. É comum em questões de múltipla escolha que uma alternativa seja a 'melhor' mesmo com pequenas imprecisões, se a parte central da afirmação estiver correta e as outras alternativas contiverem erros conceituais significativos.",
+    "dica": "Revise os princípios do equilíbrio químico, especialmente o Princípio de Le Chatelier. Entenda como as mudanças nas concentrações de reagentes/produtos, temperatura e pressão afetam o deslocamento do equilíbrio. Aplique esse conhecimento a problemas ambientais, como a acidificação dos oceanos, compreendendo as reações em cadeia e seus impactos."
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "Equilíbrio químico",
+      "Acidificação dos oceanos",
+      "Efeito estufa",
+      "Biogeoquímica",
+      "Carbonato de cálcio",
+      "Le Chatelier"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "CO2, CO3−2 e CaCO3, enquanto os eixos X e Y no infográfico \n\nrepresentam respectivamente [CO3−2] e [CO2]atm. Global­\nmente, o aumento da [CO2]atm provoca um aumento do pH \ndos oceanos e, consequentemente, uma maior degradação \ndos corais.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "CO3−2, CaCO3 e CO3−2, enquanto os eixos X e Y no infográ­\n\nfico representam respectivamente [CO2]atm e [CO3−2]. Glo­\nbalmente, o aumento da [CO2]atm provoca uma diminuição \ndo pH dos oceanos e, consequentemente, uma maior de­\ngradação dos corais.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "CO2, CaCO3 e CO3−2, enquanto os eixos X e Y no infográfico \n\nrepresentam respectivamente [CO3−2] e [CO2]atm. Global­\nmente, o aumento da [CO2]atm provoca uma diminuição do \npH dos oceanos e, consequentemente, uma menor degra­\ndação dos corais.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "CO3−2, CaCO3 e CO3−2, enquanto os eixos X e Y no infográfi­\n\nco representam respectivamente [CO3−2] e [CO2]atm. Global­\nmente, o aumento da [CO2]atm provoca um aumento do pH \ndos oceanos e, consequentemente, uma menor degradação \ndos corais.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

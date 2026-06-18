@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q35",
+    "edital": "unicamp",
+    "numero": 35,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A bactéria Citrobacter rodentium é um patógeno que causa \naumento da profundidade das glândulas intestinais em camun­\ndongos devido à inflamação do cólon. Em um experimento, ca­\nmundongos livres de germes tiveram seus intestinos colonizados \npela microbiota de três populações humanas geograficamente \ndistintas: Estados Unidos (EUA), Ilhas Fiji (FIJI) ou Guatemala \n(GUAT). Com a colonização bem-sucedida, dois grupos foram \nestudados: controle (apenas microbiota) e infectado (microbiota \ne C. rodentium). Após 14 dias, a profundidade das glândulas \nintestinais desses animais foi avaliada, conforme figura a seguir:\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p14_drawing0.png)\n\n350\n\nControle\n\nInfectado\n\n \n\n300\n\nProfundidade da glândula\nintestinal (µm)\n\n250\n\n200\n\n150\n\n100\n\n0\nEUA\nFIJI\nGUAT\n\n(Adaptado de PORRAS, A. e colaboradores. Cell Reports, Cambridge, v. 36, p. 109457, \njul. 2021.) \n\nConsiderando as informações apresentadas, é correto afirmar \nque as diferenças geográficas na composição da microbiota in­\ntestinal podem",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p14_drawing0.png"
+    ],
+    "resolucao": "1. Analise o enunciado: A bactéria *Citrobacter rodentium* causa aumento da profundidade das glândulas intestinais (inflamação) em camundongos. O experimento coloniza camundongos com microbiota humana de EUA, Fiji ou Guatemala. Os grupos são controle (apenas microbiota) e infectado (microbiota + bactéria). O gráfico mede a profundidade da glândula intestinal, um indicador de inflamação e, consequentemente, suscetibilidade à infecção.\n2. Interprete o gráfico:\n   - Nos grupos 'Controle' (linhas mais claras), a profundidade da glândula intestinal é baixa e similar para todas as microbiotas (EUA, FIJI, GUAT), indicando um estado saudável.\n   - Nos grupos 'Infectado' (linhas mais escuras): A profundidade da glândula aumenta significativamente em todos os casos, confirmando a inflamação.\n     - EUA (infectado): Profundidade muito alta, próxima a 320 µm.\n     - FIJI (infectado): Profundidade muito alta, próxima a 320 µm.\n     - GUAT (infectado): Profundidade consideravelmente menor (cerca de 220 µm) em comparação com EUA e FIJI, embora ainda acima do controle. Isso indica menor inflamação e, portanto, menor suscetibilidade à infecção.\n3. Avalie as alternativas:\n   - Alternativa A: Afirma que as diferenças podem 'impactar a sensibilidade às infecções entéricas, sendo as populações dos EUA e de FIJI as mais suscetíveis'. Isso está correto. Os camundongos com microbiota dos EUA e FIJI mostram a maior profundidade de glândula intestinal quando infectados, indicando maior inflamação e, portanto, maior suscetibilidade à infecção.\n   - Alternativa B: Menciona 'auxiliar a digestão' e que GUAT é a 'mais beneficiada'. O gráfico não fornece dados sobre digestão. A GUAT é a *menos suscetível* à infecção, o que é diferente de ser a 'mais beneficiada' na digestão.\n   - Alternativa C: Afirma que a GUAT é a 'mais suscetível'. Isso é o oposto do que o gráfico mostra, pois a GUAT tem a menor profundidade de glândula no grupo infectado.\n   - Alternativa D: Menciona 'auxiliar a digestão' e que EUA e FIJI são as 'mais beneficiadas'. Falso, o gráfico não trata de digestão, e EUA e FIJI são as mais suscetíveis à inflamação.",
+    "dica": "Estudar a importância da microbiota intestinal para a saúde humana, suas funções (digestão, imunidade), e como variações geográficas ou dietéticas na sua composição podem influenciar a resposta a patógenos e a suscetibilidade a doenças. A interpretação de gráficos é crucial: identifique e compare os valores relevantes."
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "Microbiota intestinal",
+      "Infecção bacteriana",
+      "Saúde gastrointestinal",
+      "Resposta imune",
+      "Ecologia microbiana"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "impactar a sensibilidade às infecções entéricas, sendo as po­\n\npulações dos EUA e de FIJI as mais suscetíveis.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "auxiliar a digestão no trato gastrointestinal, sendo a popula­\n\nção da GUAT a mais beneficiada.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "impactar a sensibilidade às infecções entéricas, sendo a po­\n\npulação da GUAT a mais suscetível.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "auxiliar a digestão no trato gastrointestinal, sendo as popu­\n\nlações dos EUA e de FIJI as mais beneficiadas.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

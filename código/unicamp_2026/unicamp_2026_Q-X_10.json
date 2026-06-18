@@ -1,0 +1,52 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q10",
+    "edital": "unicamp",
+    "numero": 10,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "De forma simplificada, o comportamento de uma bateria pode \nser modelado com uma fonte ideal de diferença de potencial \nelétrico Ub em série com um resistor de resistência Rb . Dessa \nmaneira, o dispositivo que é alimentado pela bateria pode, mui­\ntas vezes, ser representado por um resistor de resistência R.\n\nvoltímetro\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p4_drawing0.png)\n\nbateria\n\nUb = 3,6 V\n\nR = 6,0 Ω\nRb = 1,2 Ω\n\nNa situação exemplificada na figura, a diferença de potencial \nregistrada pelo voltímetro é",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p4_drawing0.png"
+    ],
+    "resolucao": "Passo 1: Identificar os componentes do circuito e seus valores.\n- Tensão da fonte ideal (Ub) = 3,6 V\n- Resistência interna da bateria (Rb) = 1,2 Ω\n- Resistência do dispositivo (R) = 6,0 Ω\n- O voltímetro mede a diferença de potencial através do resistor R.\nPasso 2: Calcular a resistência total equivalente do circuito.\n- Como a bateria e o resistor R estão em série com a resistência interna Rb, a resistência total do circuito (Req) é a soma das resistências:\n  Req = Rb + R\n  Req = 1,2 Ω + 6,0 Ω\n  Req = 7,2 Ω\nPasso 3: Calcular a corrente total (i) que circula no circuito.\n- Pela Primeira Lei de Ohm (U = R × i), a corrente total é a tensão total (Ub) dividida pela resistência total (Req):\n  i = Ub / Req\n  i = 3,6 V / 7,2 Ω\n  i = 0,5 A\nPasso 4: Calcular a diferença de potencial (V_R) registrada pelo voltímetro.\n- O voltímetro está conectado em paralelo com o resistor R, medindo a d.d.p. sobre ele. Usando a Primeira Lei de Ohm para o resistor R:\n  V_R = R × i\n  V_R = 6,0 Ω × 0,5 A\n  V_R = 3,0 V\nPasso 5: Comparar o resultado com as alternativas.\n- O valor calculado é 3,0 V, que corresponde à alternativa B.\n\nResposta: A alternativa B é a correta.",
+    "dica": "Ao analisar circuitos com baterias reais, lembre-se de que elas possuem uma resistência interna. O circuito deve ser tratado como uma fonte de tensão em série com essa resistência interna e a resistência externa (carga). Aplique as Leis de Ohm para encontrar a corrente total e, em seguida, a d.d.p. nos terminais da carga."
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "Eletrodinâmica",
+      "Circuitos elétricos",
+      "Resistor",
+      "Bateria",
+      "Resistência interna",
+      "Lei de Ohm",
+      "DDP"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "0,6 V.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "3,0 V.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "3,6 V.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "4,3 V.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

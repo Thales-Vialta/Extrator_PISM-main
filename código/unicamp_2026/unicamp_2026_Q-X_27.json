@@ -1,0 +1,48 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q27",
+    "edital": "unicamp",
+    "numero": 27,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Os textos 1 e 2 apresentam a compreensão de Marco Túlio Cí­\ncero (106 − 43 a.C), magistrado e Cônsul da República Romana, \nsobre o tema da justiça.\n\nTexto 1\n“Convém recorrer aos fundamentos da justiça que propus no \ncomeço: primeiro, a ninguém prejudicar, depois, servir à utili­\ndade comum”. \n(CÍCERO, Marco Túlio. Dos deveres. UFJF, p. 1-31, 2021.)\n\nTexto 2\n“Único, com efeito, é o direito a partir do qual a sociedade dos \nhomens foi congregada, e una a lei que o constituiu, lei que é a \nreta razão ao obrigar e proibir. Quem a ignora é injusto, esteja \nela escrita em algum lugar ou em nenhum. Se a justiça é obedi­\nência às leis escritas e às instituições dos povos, e se (como di­\nzem aqueles mesmos aos quais me referi) todas as coisas devem \nser medidas pela utilidade, negligenciará as leis e as destruirá, \nse o puder, aquele que assim julgá-lo vantajoso para si; do que \nse segue que absolutamente não há justiça, se esta não é fun­\ndada na natureza, e a que se constitui por causa da utilidade é \ndeteriorada por essa utilidade”. \n(CÍCERO, Marco Túlio. Sobre as leis. UFJF, p. 1-46, 2021.)\n\nConsiderando os textos, escolha a alternativa correta.",
+    "url_img": [],
+    "resolucao": "1. Analise o Texto 1: Cícero estabelece dois fundamentos para a justiça: 'a ninguém prejudicar' e 'servir à utilidade comum'.\n2. Analise o Texto 2: Apresenta a 'reta razão' como o 'único direito' e a 'una lei' que congrega a sociedade, sendo ela intrínseca à natureza ('fundada na natureza'). Cícero critica a ideia de que a justiça seja baseada unicamente nas leis escritas ou na 'utilidade' (especialmente a vantagem pessoal), pois isso levaria à negligência das leis e à destruição da justiça ('deteriorada por essa utilidade').\n3. Avalie as alternativas:\n   - Alternativa A: 'A justiça consiste na obediência às leis escritas e às instituições dos povos'. O Texto 2 relativiza isso ao dizer 'Quem a ignora é injusto, esteja ela escrita em algum lugar ou em nenhum', indicando que a justiça vai além das leis escritas.\n   - Alternativa B: 'A utilidade comum é o fundamento da justiça de uma República e, para serem justos, os cidadãos devem agir conforme a reta razão, com a qual a natureza lhes dotou'. O Texto 1 menciona a utilidade comum como um dos fundamentos. O Texto 2 eleva a 'reta razão' a um patamar de 'único direito' e 'una lei', baseando a justiça na natureza. Agir conforme a reta razão é, portanto, central para a justiça. Esta alternativa está consistente com a articulação dos dois textos.\n   - Alternativa C: A segunda parte, 'A injustiça ocorre quando a utilidade deixa de ser a medida de todas as coisas', está errada. Cícero defende o oposto: ele critica que a utilidade seja a medida única, pois isso corrompe a justiça.\n   - Alternativa D: 'agir com vistas aquilo que é vantajoso para si é justo'. O Texto 2 explicitamente condena quem age por vantagem pessoal: 'negligenciará as leis e as destruirá, se o puder, aquele que assim julgá-lo vantajoso para si'.",
+    "dica": "Estudar a filosofia política romana, com foco nas ideias de Cícero sobre lei natural, justiça, e o papel da reta razão na fundamentação do direito e da moral. Compreender a distinção entre lei positiva (escrita) e lei natural (fundada na razão e na natureza) é fundamental."
+  },
+  "especificacao": {
+    "materia": "Filosofia",
+    "tags": [
+      "Justiça",
+      "Lei natural",
+      "Reta razão",
+      "Utilitarismo (crítica)",
+      "Filosofia romana"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A justiça consiste na obediência às leis escritas e às insti­\n\ntuições dos povos: deve servir à utilidade comum e não à \nutilidade daquilo que é vantajoso para si.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "A utilidade comum é o fundamento da justiça de uma Repú­\n\nblica e, para serem justos, os cidadãos devem agir conforme \na reta razão, com a qual a natureza lhes dotou.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "A reta razão, enquanto lei natural, é a base da justiça. A \n\ninjustiça ocorre quando a utilidade deixa de ser a medida de \ntodas as coisas.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "Se a justiça é agir conforme a reta razão e a utilidade é um \n\ndos fundamentos da justiça, agir com vistas aquilo que é \nvantajoso para si é justo.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "metadados": {
+    "codigo": "pism_2025_q11",
+    "edital": "pism",
+    "numero": 11,
+    "tipo_ou_cor": "modulo_1_dia_1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Fixe os seguintes n´umeros reais : a = π , b = 3\ne c = 3,2.\nAssinale a alternativa que representa a ordena¸c˜ao\ndos n´umeros a, b e c na reta real IR:",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "a\nb\nc",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "b\na\nc",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "b\nc\na",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "a = b\nc",
+      "url_img": [],
+      "correta": false
+    },
+    "e": {
+      "texto": "b\na = c",
+      "url_img": [],
+      "correta": false
+    }
+  }
+}

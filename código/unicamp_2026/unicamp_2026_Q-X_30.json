@@ -1,0 +1,49 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q30",
+    "edital": "unicamp",
+    "numero": 30,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Entre várias obras que devem formar este precioso presente \nque ofereço aos meus concidadãos, dei o primeiro lugar ao \nContrato Social, escrito pelo cidadão de Genebra, Jean-Jacques \nRousseau. Este homem imortal, que obteve a admiração de seu \nséculo e será o assombro de todas as idades, [... ensinou que] \nos povos aprenderam a procurar no pacto social a raiz e a única \norigem da obediência, não reconhecendo os seus chefes como \nemissários da divindade, enquanto não mostrassem as patentes \ndo céu na qual eram destinados a imperar sobre seus semelhan­\ntes. [...] Como o autor teve a desgraça de delirar em matérias \nreligiosas, suprimo o capítulo e as passagens principais onde \ndelas tratou.\n(MORENO, M. Prólogo de O Contrato Social ou Princípios do direito político, de Jean­\n-Jacques Rousseau, Buenos Aires, 1810 apud MYERS, J. A revolução de independência \nno Rio da Prata e as origens da nacionalidade argentina (1806-1825) In: PAMPLONA, M; \nMÄDER, M. (org.). Revoluções de independências e nacionalismos nas Américas: região \ndo Prata e Chile. São Paulo: Paz e Terra, p. 107 e 109, 2007.)\n\nMariano Moreno, tradutor de Rousseau para o espanhol, foi se­\ncretário do primeiro governo  da Argentina entre os anos 1810 \ne 1811. No texto acima, ele",
+    "url_img": [],
+    "resolucao": "1. Analise o texto: O prefácio de Mariano Moreno à tradução de O Contrato Social de Rousseau elogia o autor por ensinar que a obediência se origina no pacto social, e não na divindade. No entanto, Moreno também afirma que Rousseau 'teve a desgraça de delirar em matérias religiosas' e, por isso, 'suprimo o capítulo e as passagens principais onde delas tratou'.\n2. Avalie as alternativas:\n   - Alternativa A: Afirma que Moreno critica a defesa de Rousseau da Igreja e de governos absolutistas. Rousseau é conhecido por defender a soberania popular e criticar o absolutismo. Moreno critica as 'matérias religiosas' de Rousseau, não sua defesa de absolutismo.\n   - Alternativa B: Afirma que Moreno 'interfere na tradução e edição da obra de Rousseau conforme seus ideários políticos e ideológicos'. A supressão de capítulos e passagens religiosas pelo tradutor, justificada por sua discordância com o conteúdo de Rousseau e seu alinhamento com a ideia de soberania popular, é um exemplo claro de intervenção ideológica na edição de uma obra. Esta alternativa está correta.\n   - Alternativa C: Sugere que a tradução foi para difundir a obediência cívica ligada à religião católica e ao rei. Moreno elogia Rousseau por afastar a obediência da divindade e suprime passagens religiosas, o que vai na contramão de ligar a obediência à religião católica e ao rei.\n   - Alternativa D: Descreve Moreno como conservador e resistente ao pensamento liberal e iluminista. Moreno, ao valorizar a ideia do pacto social como origem da obediência, demonstra alinhamento com o pensamento iluminista e liberal, não resistência a ele. A censura que ele pratica é um ato político, mas não o torna conservador em relação aos ideais de Rousseau que ele decidiu manter e difundir.",
+    "dica": "Estudar o pensamento de Jean-Jacques Rousseau e sua influência nas revoluções liberais e de independência nas Américas. Analisar como as obras filosóficas foram reinterpretadas e adaptadas em diferentes contextos políticos e ideológicos, e o papel da censura ou edição na disseminação de ideias."
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "Iluminismo",
+      "Contratualismo",
+      "Rousseau",
+      "Revolução Argentina",
+      "Censura",
+      "Ideologia política"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "critica a defesa que Rousseau faz da Igreja e dos governos \n\nabsolutistas na obra O Contrato Social.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "interfere na tradução e edição da obra de Rousseau confor­\n\nme seus ideários políticos e ideológicos.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "justifica a tradução da obra para difundir a ideia de obediên­\n\ncia cívica ligada à religião católica e ao rei.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "demonstra seu caráter conservador e a resistência ao pensa­\n\nmento liberal e iluminista na Argentina.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

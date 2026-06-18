@@ -1,0 +1,46 @@
+{
+  "metadados": {
+    "codigo": "pism_2025_q15",
+    "edital": "pism",
+    "numero": 15,
+    "tipo_ou_cor": "modulo_1_dia_1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Deseja-se construir uma piscina retangular com lados\nmedindo x e y em um terreno. A parte do terreno dis-\npon´ıvel para a constru¸c˜ao da piscina tem o formato\nde um triˆangulo retˆangulo de lados 6, 8 e 10 me-\ntros. A piscina deve ser constru´ıda de forma que um\nde seus lados esteja sobre a hipotenusa do triˆangulo\nretˆangulo.\nQual ´e a ´area m´axima poss´ıvel do retˆangulo for-\nmado pela piscina?",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "24 m2",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "20 m2",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "16 m2",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "12 m2",
+      "url_img": [],
+      "correta": false
+    },
+    "e": {
+      "texto": "8 m2\n\n’\n\nPr´o Reitoria de Gradua¸c˜ao\nCoordena¸c˜ao Geral de Processos Seletivos\nPism 2025 - M´odulo 1 - 1º Dia\n\nQU´IMICA - OBJETIVAS\nA tabela peri´odica se encontra dispon´ıvel para\nconsulta no final da prova.",
+      "url_img": [],
+      "correta": false
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "metadados": {
+    "codigo": "pism_2025_q14",
+    "edital": "pism",
+    "numero": 14,
+    "tipo_ou_cor": "modulo_1_dia_1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Considere a fun¸c˜ao exponencial f(x) = 2x . Seja a\num n´umero real.\n\nEnt˜ao, f(a)(f(a + 2) + 4)\n\n4f(a + 2)(f(a) + 1) ´e igual a",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "1/4",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "1/2",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "1",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "2",
+      "url_img": [],
+      "correta": false
+    },
+    "e": {
+      "texto": "4",
+      "url_img": [],
+      "correta": false
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q6",
+    "edital": "unicamp",
+    "numero": 6,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Leia o resumo de um artigo científico. \n\nIncels: Masculinity in the Transition to Adulthood\n\nIncels are men who are members of an online community that \nexperiences an unmet desire for sex and blame women for \ntheir struggle. Since 2019 there have been several mass murder \nattacks committed by Incels motivated by Incel ideology \ncreating a threat of future violence. While the vast majority of \nIncels do not commit such attacks, researchers have begun to \nstudy Incels to prevent violence and uncover the true nature \nof this community. The study of Incels is incipient; therefore, \nmore knowledge about interventions to address the struggles of \ninvoluntary celibacy is needed. This paper emphasizes the \nmasculinity strain experienced by Incels who attempt to perform \nhegemonic masculinity as part of the transition to adulthood \nbut fall short because of their lack of sexual activity. This work \nproposes the creation and implementation of Incel-specific, \nonline therapeutic interventions and continued research directly \nwith the Incel community to uncover the complexities of Incel \nexperiences.\n(Adaptado de https://link.springer.com/article/10.1007/s12119-024-10201-7. Acesso \nem 16/05/2025.)\n\nDe acordo com o resumo, é correto afirmar que",
+    "url_img": [],
+    "resolucao": "Passo 1: Ler atentamente o resumo do artigo. O texto descreve os Incels como homens que se sentem frustrados sexualmente e culpam mulheres. Menciona a ameaça de violência, a natureza incipiente das pesquisas e a necessidade de intervenções. O ponto central do artigo é a \"masculinity strain\" (tensão na masculinidade) sentida por Incels.\nPasso 2: Focar na parte do texto que explica a \"masculinity strain\". O resumo afirma: \"This paper emphasizes the masculinity strain experienced by Incels who attempt to perform hegemonic masculinity as part of the transition to adulthood but fall short because of their lack of sexual activity.\" (Este artigo enfatiza a tensão na masculinidade experimentada por Incels que tentam exercer uma masculinidade hegemônica como parte da transição para a vida adulta, mas ficam aquém por causa da sua falta de atividade sexual).\nPasso 3: Avaliar as alternativas com base no texto.\nA) O texto diz que culpam mulheres por \"their struggle\" (sua dificuldade), não especificamente por \"questionarem sua masculinidade\". A \"masculinity strain\" é o que eles *sentem*, não a causa da culpa.\nB) O texto diz que as pesquisas são escassas e há necessidade de mais conhecimento sobre *intervenções* para lidar com o celibato involuntário, não para \"definir teoricamente a abstinência sexual\".\nC) Esta alternativa está em total consonância com a frase do resumo analisada no Passo 2: \"homens Incel, muitas vezes, tentam exercer uma masculinidade dominante (hegemonic masculinity) que resulta em expectativas frustradas (fall short / masculinity strain) devido à inatividade sexual (lack of sexual activity)\".\nD) A pesquisa propõe \"Incel-specific, online therapeutic interventions and continued research directly with the Incel community\" (intervenções terapêuticas online específicas para Incels e pesquisa contínua diretamente com a comunidade Incel), não práticas que os integrem a \"outros grupos sociais\".\n\nResposta: A alternativa C é a correta, pois reflete diretamente o ponto principal que o artigo enfatiza sobre a tensão na masculinidade dos Incels devido à frustração em atingir uma masculinidade hegemônica sem atividade sexual.",
+    "dica": "Ao analisar resumos de artigos científicos, identifique a tese principal, os objetivos da pesquisa, os resultados chave e as conclusões ou propostas. Preste atenção aos detalhes das afirmações para evitar generalizações ou interpretações equivocadas. Vocabulário específico da área (ex: “hegemonic masculinity”, “incipient”) é crucial para a compreensão."
+  },
+  "especificacao": {
+    "materia": "Língua Inglesa",
+    "tags": [
+      "Leitura de artigo científico",
+      "Grupos sociais",
+      "Masculinidade",
+      "Saúde mental"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "“Incel” é uma comunidade majoritariamente constituída \n\npor homens que culpam mulheres por questionarem sua \nmasculinidade.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "as pesquisas sobre a comunidade “Incel” ainda são escas­\n\nsas, por isso há a necessidade de mais estudos que definam \nteoricamente a abstinência sexual.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "homens “Incel”, muitas vezes, tentam exercer uma mascu­\n\nlinidade dominante que resulta em expectativas frustradas \ndevido à inatividade sexual.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "a pesquisa propõe práticas terapêuticas que integrem ho­\n\nmens “Incel” a outros grupos sociais para melhor compre­\nender as complexidades da masculinidade.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

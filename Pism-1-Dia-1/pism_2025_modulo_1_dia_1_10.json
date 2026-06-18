@@ -1,0 +1,48 @@
+{
+  "metadados": {
+    "codigo": "pism_2025_q10",
+    "edital": "pism",
+    "numero": 10,
+    "tipo_ou_cor": "modulo_1_dia_1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "![figura](./imgs/Pism-1-Dia-1_modulo_1_dia_1_p7_img4.png)\n\nFonte: https://encurtador.com.br/D88lc Acesso em 15 de junho de\n\n2024.\n\nO mapa acima representa uma proposta de trajeto\npara a Ferrovia Transoceˆanica, projeto que prevˆe\numa maior integra¸c˜ao entre Am´erica do Sul e ´Asia,\nsobretudo para o transporte de produtos agr´ıcolas\ne minerais, tornando as exporta¸c˜oes poss´ıveis tanto\npelo Oceano Atlˆantico quanto pelo Oceano Pac´ıfico.\nConsiderando os trajetos representados no mapa\nem territ´orio nacional, e levando em conta uma so-\nbreposi¸c˜ao aos principais Dom´ınios Morfoclim´aticos\ndo Brasil e as faixas de transi¸c˜ao entre eles, defini-\ndos pelo ge´ografo Aziz Ab’Saber, identifica-se a se-\nguinte sequˆencia, do Oceano Atlˆantico em dire¸c˜ao ao\nPac´ıfico, de Dom´ınios cortados pela ferrovia:",
+    "url_img": [
+      "./imgs/Pism-1-Dia-1_modulo_1_dia_1_p7_img4.png"
+    ],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Cerrado, Pantanal e Amazˆonico.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "Cerrado, Chaco Central e Pantanal.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "Mar de Morros, Arauc´arias e Cerrado.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "Mar de Morros, Cerrado e Amazˆonico.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": {
+      "texto": "Chapad˜oes Florestados, Caatinga e Cerrado.\n\nPr´o Reitoria de Gradua¸c˜ao\nCoordena¸c˜ao Geral de Processos Seletivos\nPism 2025 - M´odulo 1 - 1º Dia\n\nMATEM´ATICA - OBJETIVAS",
+      "url_img": [],
+      "correta": false
+    }
+  }
+}

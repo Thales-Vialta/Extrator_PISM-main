@@ -1,0 +1,13 @@
+{
+  "metadadosComp": {
+    "codigos_questoes": [
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  "conteudoComp": {
+    "enunciado": "As baterias são fundamentais no mundo moderno, sendo a \nfonte de energia portátil que alimenta dispositivos como celu­\nlares e laptops, veículos elétricos e sistemas de armazenamento \nde energia renovável. Duas grandezas que caracterizam uma \nbateria é a sua capacidade de carga elétrica, expressa em mi­\nliampère-hora (mAh) e a energia que ela armazena, usualmente \ndada em watts-hora (Wh).",
+    "img_url": null
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q5",
+    "edital": "unicamp",
+    "numero": 5,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Apresenta-se, a seguir, uma citação (texto 1) que originou uma \nobra de arte (texto 2). Há também um parágrafo (texto 3) que \ndescreve e explica essa obra.\n\nTexto 1\n“I do not always feel colored (…). I feel most colored when I am \nthrown against a sharp white background.”\n(Adaptado de HURSTON, Z. N. How it feels to be colored me. 1928.)\n\nTexto 2\n\n(Disponível em https://whitney.org/artists/3425. Acesso \nem 29/04/2025.)\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p3_img0.jpeg)\n\nTexto 3\nThe artist Glenn Ligon has stenciled the sentences over and \nover until the words dissolve into abstract patterns. He built \non a text by Zora Neale Hurston, who describes leaving the \nprotective black community of her childhood and suddenly con­\nfronting the issue of race. The smearing in the painting’s illegible \nwords embody her confusion about this, something Ligon \nbuilds on: “Oil paint wants to spread out and smudge. After \ntrying to make perfect letters, I realized that the smudging and \ndisappearance of the letters was more interesting than trying to \nmake perfect letters.”\n(Adaptado de https://whitney.org/media/720.  Acesso em 29/04/2025.)\n\nDe acordo com o texto 3, é correto afirmar que\n\n2",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p3_img0.jpeg"
+    ],
+    "resolucao": "Passo 1: Analisar a citação de Zora Neale Hurston (Texto 1). Ela expressa que se sente mais \"colored\" (negra/de cor) quando em contraste com um \"sharp white background\" (fundo branco nítido), sugerindo que a identidade racial se torna mais evidente ou questionada em contextos brancos.\nPasso 2: Analisar a descrição da obra de Glenn Ligon (Texto 3). O texto explica que Ligon \"has stenciled the sentences over and over until the words dissolve into abstract patterns.\" (estencila as frases repetidamente até as palavras se dissolverem em padrões abstratos). Ele baseou-se no texto de Hurston, que \"describes leaving the protective black community of her childhood and suddenly confronting the issue of race.\" (descreve deixar sua comunidade negra protetora e confrontar subitamente a questão racial). O texto 3 continua: \"The smearing in the painting’s illegible words embody her confusion about this\" (Os borrões nas palavras ilegíveis da pintura incorporam a *confusão dela* sobre isso). Ligon comenta: \"After trying to make perfect letters, I realized that the smudging and disappearance of the letters was more interesting than trying to make perfect letters.\" (Depois de tentar fazer letras perfeitas, percebi que o borrão e o desaparecimento das letras era mais interessante).\nPasso 3: Comparar as alternativas com as informações do Texto 3.\nA) A ilegibilidade é intencional, mas o texto 3 foca na \"confusão dela\" (de Hurston) sobre a questão racial, e não explicitamente na \"invisibilização da identidade negra\" como o propósito principal, embora possa ser uma inferência. O texto 3 enfatiza a confusão.\nB) O texto 3 afirma que os efeitos da tinta \"embody *her* confusion\" (a confusão *dela*, referindo-se a Hurston), e não a confusão do *artista* sobre sua própria identidade racial. Portanto, está incorreta.\nC) O texto 3 menciona a repetição e a dissolução das palavras para expressar a *confusão* de Hurston sobre a questão racial, não a \"recusa de algumas pessoas em se verem como negras\". Portanto, está incorreta.\nD) O texto 3 explicitamente diz que \"Oil paint wants to spread out and smudge\" (indica um efeito da técnica da tinta a óleo) e que \"the smearing in the painting’s illegible words embody *her confusion* about this\" (os borrões incorporam a confusão de Hurston sobre a questão racial), que faz parte de suas vivências. Esta alternativa é a mais precisa e diretamente apoiada pelo Texto 3.\n\nResposta: A alternativa D é a correta, pois o Texto 3 conecta os borrões (efeito da técnica de Ligon) diretamente à confusão de Zora Neale Hurston sobre suas vivências raciais.",
+    "dica": "Em questões que envolvem múltiplos textos (citação, imagem e descrição/análise), preste muita atenção ao que cada texto afirma explicitamente. Para questões que pedem para analisar um texto com base em outro texto específico (aqui, o Texto 3), certifique-se de que sua resposta seja diretamente verificável naquele texto, evitando inferências que não estejam explicitamente apoiadas. Observe como a técnica artística é descrita e qual o propósito atribuído a ela."
+  },
+  "especificacao": {
+    "materia": "Língua Inglesa",
+    "tags": [
+      "Análise de texto",
+      "Arte contemporânea",
+      "Identidade racial",
+      "Intertextualidade"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "a ilegibilidade em parte das imagens é intencional, pois \n\nreforça a invisibilização da identidade negra em contextos \nbrancos, como sugere a autora do texto 1.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "os efeitos da tinta usada por Glenn Ligon aludem à con­\n\nfusão desse artista quanto à sua própria identidade racial, \nsemelhante ao que relata a autora do texto 1.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "a repetição de frases nas imagens é proposital, pois repre­\n\nsenta a recusa de algumas pessoas em se verem como ne­\ngras, como sugere a autora do texto 1.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "os borrões em parte das imagens são um efeito da técnica \n\nusada por Glenn Ligon e aludem às vivências raciais da au­\ntora do texto 1.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "metadados": {
+    "codigo": "pism_2025_q12",
+    "edital": "pism",
+    "numero": 12,
+    "tipo_ou_cor": "modulo_1_dia_1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Considere a fun¸c˜ao quadr´atica f(x) = x2 + 2x −24.\nDefina r1 pela maior raiz de f(x) e r2 pela menor raiz\nde f(x).\nQuanto vale a raz˜ao r1/r2 ?",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "3/2",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "2/3",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "-2/3",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "-1",
+      "url_img": [],
+      "correta": false
+    },
+    "e": {
+      "texto": "-3/2",
+      "url_img": [],
+      "correta": false
+    }
+  }
+}

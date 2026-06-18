@@ -1,0 +1,12 @@
+{
+  "metadadosComp": {
+    "codigos_questoes": [
+      "13",
+      "14"
+    ]
+  },
+  "conteudoComp": {
+    "enunciado": "Recentemente, grandes cidades iniciaram a implantação de \nfaixas exclusivas para motocicletas como, por exemplo, a fai­\nxa azul na cidade de São Paulo. Um motociclista adentra, em \nt = 0, um percurso retilíneo de uma faixa azul com velocidade \nconstante v0 = 36 km/h e mantém essa velocidade até o tempo \nt = 30 s (trecho I). Em seguida, continua o percurso com desa­\nceleração constante (a < 0) até parar completamente diante de \num semáforo em  t = 50 s (trecho II). Após mais 30 s, ele retoma \no movimento e mantém uma aceleração constante e positiva \na = 0,8 m/s2 desde t = 80 s até t = 95 s (trecho III). Poste­\nriormente, o motociclista segue com velocidade constante até \nt = 120 s (trecho IV).",
+    "img_url": null
+  }
+}

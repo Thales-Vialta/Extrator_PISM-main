@@ -1,0 +1,48 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q51",
+    "edital": "unicamp",
+    "numero": 51,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Considere\n\nA = { x∈    : |x−5| ≥ 2 e |x−11| ≤ 9 }.\n\nℕ\n\nQuantos números primos pertencem ao conjunto A?\n\n17",
+    "url_img": [],
+    "resolucao": "Para encontrar os números primos no conjunto A, primeiro precisamos definir o conjunto A resolvendo as inequações:\n\n**1. Resolver a primeira inequação: |x - 5| ≥ 2**\n*   Isso implica duas possibilidades:\n    *   x - 5 ≥ 2  =>  x ≥ 7\n    *   OU\n    *   x - 5 ≤ -2 =>  x ≤ 3\n*   Portanto, a solução para a primeira inequação é x ≤ 3 ou x ≥ 7.\n\n**2. Resolver a segunda inequação: |x - 11| ≤ 9**\n*   Isso implica:\n    *   -9 ≤ x - 11 ≤ 9\n*   Somando 11 a todas as partes:\n    *   -9 + 11 ≤ x ≤ 9 + 11\n    *   2 ≤ x ≤ 20\n*   Portanto, a solução para a segunda inequação é 2 ≤ x ≤ 20.\n\n**3. Encontrar a intersecção das soluções e considerar x ∈ ℕ (números naturais).**\n*   A intersecção de (x ≤ 3 ou x ≥ 7) com (2 ≤ x ≤ 20) nos dá:\n    *   (2 ≤ x ≤ 3)  OU (7 ≤ x ≤ 20)\n*   Os números naturais que satisfazem essas condições são:\n    *   {2, 3} (da primeira parte)\n    *   {7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20} (da segunda parte)\n*   Assim, o conjunto A = {2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}.\n\n**4. Identificar os números primos no conjunto A.**\n*   Os números primos são aqueles maiores que 1 que só são divisíveis por 1 e por eles mesmos. Vamos listar os primos até 20 para verificar:\n    *   2 (está em A)\n    *   3 (está em A)\n    *   5 (não está em A)\n    *   7 (está em A)\n    *   11 (está em A)\n    *   13 (está em A)\n    *   17 (está em A)\n    *   19 (está em A)\n*   Os números primos que pertencem ao conjunto A são: {2, 3, 7, 11, 13, 17, 19}.\n*   O total de números primos em A é 7.\n\nA alternativa correta é a C.",
+    "dica": "Revise as propriedades de inequações com módulo (|x| > a e |x| < a). Lembre-se do conceito de números naturais (ℕ = {0, 1, 2, ...} ou {1, 2, 3, ...}, geralmente em vestibulares é {1, 2, 3,...}, mas se 0 for primo ou um número relevante seria importante confirmar. Aqui, 0 não é relevante e 2 é o primeiro primo). Memorize os números primos até um certo limite (ex: até 30 ou 50) para agilizar a identificação."
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "Conjuntos Numéricos",
+      "Números Naturais",
+      "Módulo",
+      "Inequações",
+      "Números Primos"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "5.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "6.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "7.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "8.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

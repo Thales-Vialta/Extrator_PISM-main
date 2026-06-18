@@ -1,0 +1,52 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q37",
+    "edital": "unicamp",
+    "numero": 37,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "No heredograma a seguir, são representadas raças de animais \nheterozigotos (em preto) e homozigotos (em branco). Os hete­\nrozigotos apresentam o alelo deletério recessivo e animais con­\ntendo dois alelos iguais recessivos têm menor ganho de peso. \nOs valores na figura indicam a massa corporal dos animais (em \nquilos, kg) em um grupo de animais isolados.\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p14_drawing1.png)\n\n350 kg\n250 kg\n\n150 kg\n350 kg\n\n500 kg\n\nConsiderando as informações apresentadas, assinale a alterna­\ntiva correta.",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p14_drawing1.png"
+    ],
+    "resolucao": "1. Interprete o heredograma e a legenda:\n   - 'Heterozigotos (em preto)' (genótipo Aa).\n   - 'Homozigotos (em branco)' (genótipo AA ou aa).\n   - 'Alelo deletério recessivo' (a) – o texto diz que heterozigotos (Aa) *apresentam* o alelo, mas o efeito (menor peso) só ocorre com 'dois alelos iguais recessivos' (aa).\n   - 'Animais contendo dois alelos iguais recessivos (aa) têm menor ganho de peso'.\n   - Parentais: Ambos são pretos, logo são heterozigotos (Aa x Aa).\n   - Cruzamento Aa x Aa resulta em proporções genotípicas: 1 AA : 2 Aa : 1 aa (ou 25% AA, 50% Aa, 25% aa).\n   - Na geração F1, temos:\n     - Um indivíduo branco de 150 kg: Este seria o homozigoto recessivo (aa), com 'menor ganho de peso'. Sua probabilidade é de 25%.\n     - Dois indivíduos brancos de 350 kg e 500 kg: Estes seriam os homozigotos dominantes (AA), com peso normal ou alto. Sua probabilidade é de 25%.\n     - Um indivíduo preto de 250 kg: Este seria o heterozigoto (Aa). Sua probabilidade é de 50%.\n2. Avalie as alternativas:\n   - Alternativa A: Afirma que a heterose ocorre em 66% dos F1. A probabilidade de heterozigose (Aa) é de 50%, não 66%. A heterose está associada à heterozigose, mas a descrição de probabilidade e o 'maior massa corporal' não se encaixam perfeitamente com os AA de 500kg.\n   - Alternativa B: Afirma que a heterozigose tem probabilidade de 33% nos F1. Incorreto, a probabilidade é de 50%.\n   - Alternativa C: Afirma que 'A depressão endogâmica tem probabilidade de ocorrer em 25% dos animais da geração F1, proporcionando animais com menor massa corporal e também menor variabilidade genética'. Depressão endogâmica é o resultado de cruzamentos entre parentes, aumentando a homozigose e expondo alelos deletérios recessivos. Os animais com genótipo 'aa' (25% da F1) têm 'menor ganho de peso' (menor massa corporal) e são homozigotos (menor variabilidade genética). Esta alternativa está totalmente consistente com as informações e a genética.\n   - Alternativa D: Afirma que a homozigose (AA ou aa) determina a depressão endogâmica e ocorre em 50% dos F1. Embora a homozigose total seja 50% (25% AA + 25% aa), a depressão endogâmica está especificamente ligada à homozigose recessiva (aa), que é 25%. A afirmação generaliza demais e erra na probabilidade associada à 'menor massa corporal'.",
+    "dica": "Revisar os conceitos básicos de genética mendeliana (heredogramas, genótipos, fenótipos, probabilidades), assim como os fenômenos de heterose (vigor híbrido) e depressão endogâmica e suas implicações na criação de animais. Preste muita atenção à legenda e ao que cada símbolo ou característica representa."
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "Genética",
+      "Heredograma",
+      "Heterozigose",
+      "Homozigose",
+      "Alelos",
+      "Ganho de peso",
+      "Depressão endogâmica"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A heterose ocorre no cruzamento entre indivíduos heterozi­\n\ngotos, levando à maior massa corporal, com probabilidade \nde ocorrer em 66% dos animais da geração F1.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "A heterozigose tem probabilidade de ocorrer em 33% dos \n\nanimais da geração F1, proporcionando animais com maior \nmassa corporal e maior variabilidade genética.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "A depressão endogâmica tem probabilidade de ocorrer em \n\n25% dos animais da geração F1, proporcionando animais \ncom menor massa corporal e também menor variabilidade \ngenética.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "A homozigose determina a depressão endogâmica, levando \n\nà menor massa corporal, com probabilidade de ocorrer em \n50% dos animais da geração F1.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

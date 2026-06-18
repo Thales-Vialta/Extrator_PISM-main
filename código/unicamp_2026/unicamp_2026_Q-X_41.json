@@ -1,0 +1,49 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q41",
+    "edital": "unicamp",
+    "numero": 41,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A figura a seguir apresenta o crânio de alguns hominídeos que \nfazem parte da história evolutiva humana.\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p15_img1.png)\n\n \n\n(Adaptado de https://pt.dreamstime.com. Acesso em 31/03/2025.)\n\nConsiderando essas informações e os seus conhecimentos em \nbiologia, assinale a alternativa correta.",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p15_img1.png"
+    ],
+    "resolucao": "Para resolver a questão, é necessário analisar cada alternativa com base nos conhecimentos sobre a evolução dos hominídeos:\n\n*   **Alternativa A:** O Australopithecus de fato possuía cérebro pequeno, maxila projetada e bipedismo. Contudo, o domínio do fogo é uma característica atribuída posteriormente ao gênero Homo (especialmente Homo erectus). Portanto, a alternativa A está incorreta.\n*   **Alternativa B:** O Homo erectus foi o primeiro a usar ferramentas e dominar o fogo, e possuía cérebro de tamanho médio. No entanto, o bipedismo surgiu com os Australopithecus, e a descrição de 'fala rudimentar' e 'testa plana e proeminente' como características atuais é imprecisa ou incorreta para o Erectus. Portanto, a alternativa B está incorreta.\n*   **Alternativa C:** O Homo neanderthalensis (Neandertal) é conhecido por seu nariz e narinas voltadas para baixo (adaptação ao frio), cérebro bem desenvolvido e indícios de capacidade de comunicação e rituais. Eles utilizavam o fogo e ferramentas de forma avançada e coexistiram com o Homo sapiens. Esta alternativa descreve corretamente as características atribuídas ao Homo neanderthalensis. Portanto, a alternativa C está correta.\n*   **Alternativa D:** O Homo sapiens possui cérebro bem desenvolvido e capacidade de fala avançada. No entanto, não foi o primeiro a usar o fogo e ferramentas; essas habilidades foram desenvolvidas por espécies anteriores, como o Homo erectus e o Homo neanderthalensis. Portanto, a alternativa D está incorreta.\n\nA alternativa correta é a C.",
+    "dica": "Estude a linha do tempo da evolução humana, focando nas principais espécies de hominídeos (Australopithecus, Homo habilis, Homo erectus, Homo neanderthalensis, Homo sapiens) e associando suas características morfológicas (tamanho do crânio, prognatismo, bipedismo) e culturais (uso de ferramentas, domínio do fogo, linguagem, rituais). Utilize tabelas comparativas e diagramas filogenéticos."
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "Evolução Humana",
+      "Hominídeos",
+      "Características Morfológicas",
+      "Cultura Primitiva"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "O Australopithecus possuía cérebro pequeno e crânio com \n\na maxila projetada para frente da face. Apresentava bipe­\ndismo e utilizava o fogo, o que favoreceu a evolução da \nespécie.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "O Homo erectus possuía cérebro de tamanho médio, fala \n\nrudimentar e várias características atuais, como testa plana \ne proeminente. Foi o primeiro a apresentar bipedismo e usar \nferramentas, o que permitiu sua coexistência com outros \nhominídeos.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "O Homo neanderthalensis possuía nariz e narinas voltadas \n\npara baixo, além de cérebro bem desenvolvido e capacidade \nde comunicação. Utilizava o fogo e ferramentas, o que per­\nmitiu sua coexistência com outros hominídeos.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "O Homo sapiens possui, como característica mais marcante, \n\no cérebro bem desenvolvido e a capacidade da fala. Foi o \nprimeiro a usar o fogo e ferramentas, favorecendo a evolu­\nção da espécie.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

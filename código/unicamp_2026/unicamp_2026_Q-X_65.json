@@ -1,0 +1,49 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q65",
+    "edital": "unicamp",
+    "numero": 65,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Leia os versos da canção abaixo e assinale a alternativa correta.\n\nALVORADA\n\nAlvorada lá no morro, que beleza,\nNinguém chora, não há tristeza,\nNinguém sente dissabor.\nO sol colorindo é tão lindo, é tão lindo.\nE a natureza sorrindo, tingindo, tingindo.\nVocê também me lembra a alvorada\nQuando chega iluminando\nMeus caminhos tão sem vida.\nE o que me resta \né bem pouco, quase nada, \ndo que ir assim vagando \nnuma estrada perdida.\n(CARTOLA. Alvorada. In: Cartola. Rio de Janeiro: Marcus Pereira Discos, 1974.)",
+    "url_img": [],
+    "resolucao": "1. Análise da Primeira Estrofe (A Alvorada no Morro): Os primeiros versos descrevem a 'Alvorada lá no morro' com imagens positivas e idílicas: 'que beleza, Ninguém chora, não há tristeza, Ninguém sente dissabor. O sol colorindo é tão lindo... E a natureza sorrindo'. Esta parte estabelece um cenário de paz, beleza e ausência de sofrimento.2. Análise da Segunda Estrofe (A Pessoa Amada e o Eu-lírico): A segunda parte da canção faz uma comparação: 'Você também me lembra a alvorada / Quando chega iluminando / Meus caminhos tão sem vida'. A pessoa amada é equiparada à alvorada, trazendo luz e alegria para a vida do eu-lírico. Contudo, essa luz é projetada sobre 'caminhos tão sem vida', e o eu-lírico conclui com um tom melancólico: 'E o que me resta é bem pouco, quase nada, / do que ir assim vagando / numa estrada perdida'.3. Identificação do Contraste: Há um claro contraste entre a beleza e a alegria que a alvorada (e a pessoa amada) representam e o estado de espírito do eu-lírico, marcado pela 'vida sem vida', pela 'desilusão' e pela 'estrada perdida'. A presença da pessoa amada traz um momento de alegria e iluminação, mas não anula a tristeza subjacente ou a condição de desilusão do eu-lírico.4. Avaliação das Alternativas: A) Incorreta. A alternativa fala de 'harmonia', mas o poema estabelece um contraste entre a alegria da alvorada/pessoa amada e a tristeza do eu-lírico. B) Incorreta. Não há menção à pobreza das pessoas do morro no texto, o contraste se dá no plano emocional do eu-lírico. C) Correta. A alvorada é uma metáfora para a pessoa amada, que 'ilumina' e traz alegria ao eu-lírico. No entanto, essa alegria é contextualizada pela sua 'desilusão e desesperança' ('caminhos tão sem vida', 'estrada perdida', 'bem pouco, quase nada' resta). A alegria que vem da amada é um alívio ou um ponto de luz, mas não resolve a condição de desilusão. D) Incorreta. A canção não foca em um futuro de transformação pelo amor, mas sim na vivência de um presente em que a alegria da alvorada e da pessoa amada coexiste com uma tristeza e desilusão persistentes. A frase 'e o que me resta é bem pouco, quase nada' reforça a falta de perspectiva de um futuro transformador.",
+    "dica": "Ao analisar letras de música ou poemas, preste atenção às metáforas, comparações e aos contrastes que o autor utiliza. Identifique o eu-lírico e o que ele expressa em diferentes partes do texto. A dualidade de sentimentos (alegria e tristeza, esperança e desesperança) é um recurso comum na poesia e na música."
+  },
+  "especificacao": {
+    "materia": "Literatura",
+    "tags": [
+      "Poesia popular",
+      "Letra de música",
+      "Lirismo",
+      "Contraste",
+      "Eu-lírico",
+      "Análise poética"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "O eu-lírico enfatiza a harmonia entre a cena idílica do morro \n\nno momento da alvorada e a alegria de sua vida junto à \npessoa amada.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "O eu-lírico enfatiza um contraste entre a alegria da alvora­\n\nda no morro e a pobreza das pessoas que habitam aquele \nespaço.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "A alvorada no morro é, para o eu-lírico, como a imagem da \n\npessoa amada, que lhe traz alegria, apesar de sua desilusão \ne desesperança.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "A alvorada no morro funciona, no poema, como imagem \n\ndo futuro que pode ser transformado pelo amor, apesar das \ncondições de vida difíceis.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

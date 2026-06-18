@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q12",
+    "edital": "unicamp",
+    "numero": 12,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "O Centro de Tecnologia da Informação (CTI) Renato Archer, em \nCampinas (SP), possui equipamentos avançados de manufatura \n3D, incluindo uma impressora capaz de produzir uma miniatura \n\ndo Cristo Redentor, com pouco mais de 100 μm. Menor que um \ngrão de areia, a peça só é visível com microscópio óptico, basea­\ndo em arranjo de um conjunto de lentes. Se uma lente delgada, \nde distância focal f, é usada para investigar um objeto de altura \no, de forma que a imagem seja direita com altura i maior que \na do objeto ( i > o), é correto afirmar que",
+    "url_img": [],
+    "resolucao": "Passo 1: Analisar as características da imagem desejada.\nO enunciado descreve uma imagem que é:\n- Direita (não invertida).\n- Ampliada (altura 'i' maior que a do objeto 'o', ou seja, i > o).\nPasso 2: Revisar a formação de imagens por lentes delgadas.\n- **Lentes divergentes:** Sempre formam imagens virtuais, direitas e *reduzidas*. Não podem formar imagens ampliadas.\n- **Lentes convergentes:** Podem formar diferentes tipos de imagens dependendo da posição do objeto (p) em relação à distância focal (f) e ao centro de curvatura (2f):\n    - Objeto além de 2f: Imagem real, invertida e reduzida.\n    - Objeto em 2f: Imagem real, invertida e do mesmo tamanho.\n    - Objeto entre f e 2f: Imagem real, invertida e ampliada.\n    - Objeto no foco (f): Imagem imprópria (no infinito).\n    - Objeto entre o foco (f) e a lente (0 < p < f): Imagem virtual, *direita* e *ampliada*. Esta é a configuração de uma lupa.\nPasso 3: Correlacionar as características da imagem desejada com o tipo de lente e a posição do objeto.\n- Para obter uma imagem direita e ampliada, a lente deve ser **convergente**, e o objeto deve ser colocado a uma distância da lente (p) menor que a distância focal (f) da lente.\nPasso 4: Avaliar as alternativas.\nA) \"a lente é convergente e a distância entre objeto e lente é menor que a distância focal.\" Esta afirmação está **correta**, pois corresponde à condição para a lente convergente formar uma imagem virtual, direita e ampliada.\nB) \"a lente é divergente...\" Incorreto, lentes divergentes não formam imagens ampliadas.\nC) \"a lente é convergente e a distância entre objeto e lente é maior que a distância focal.\" Incorreto, nesta condição (p > f), a imagem seria real e invertida (ou imprópria).\nD) \"a lente é divergente...\" Incorreto, lentes divergentes não formam imagens ampliadas.\n\nResposta: A alternativa A é a correta.",
+    "dica": "Domine a formação de imagens por lentes delgadas, tanto convergentes quanto divergentes. Faça diagramas de raios para cada caso (objeto antes de 2f, entre 2f e f, em f, e entre f e a lente para lentes convergentes; para lentes divergentes, qualquer posição). Entenda as características de cada imagem (real/virtual, direita/invertida, ampliada/reduzida/igual) e associe-as às aplicações práticas como lupa ou microscópio."
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "Óptica geométrica",
+      "Lentes delgadas",
+      "Lente convergente",
+      "Formação de imagens"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "a lente é convergente e a distância entre objeto e lente é \n\nmenor que a distância focal.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "a lente é divergente e a distância entre objeto e lente é \n\nmenor que a distância focal.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "a lente é convergente e a distância entre objeto e lente é \n\nmaior que a distância focal.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "a lente é divergente e a distância entre objeto e lente é \n\nmaior que a distância focal.\n\nTexto para as questões 13 e 14.\n\nRecentemente, grandes cidades iniciaram a implantação de \nfaixas exclusivas para motocicletas como, por exemplo, a fai­\nxa azul na cidade de São Paulo. Um motociclista adentra, em \nt = 0, um percurso retilíneo de uma faixa azul com velocidade \nconstante v0 = 36 km/h e mantém essa velocidade até o tempo \nt = 30 s (trecho I). Em seguida, continua o percurso com desa­\nceleração constante (a < 0) até parar completamente diante de \num semáforo em  t = 50 s (trecho II). Após mais 30 s, ele retoma \no movimento e mantém uma aceleração constante e positiva \na = 0,8 m/s2 desde t = 80 s até t = 95 s (trecho III). Poste­\nriormente, o motociclista segue com velocidade constante até \nt = 120 s (trecho IV).",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

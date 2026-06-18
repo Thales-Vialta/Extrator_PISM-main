@@ -1,0 +1,46 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q45",
+    "edital": "unicamp",
+    "numero": 45,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Sobre dois polinômios p(x) e q(x) de coeficientes reais sabe-se \nque:\n\n• p(x) + q(x) tem grau igual a 3.\n• p(x) · q(x)  tem grau igual a 8.\n\nÉ correto afirmar que o grau de p(x) − q(x) é igual a",
+    "url_img": [],
+    "resolucao": "Seja o grau de p(x) igual a 'm' e o grau de q(x) igual a 'n'.\n\n1.  **Do produto:**\n    *   O grau do produto de dois polinômios é a soma dos seus graus.\n    *   Dado que p(x) · q(x) tem grau 8, temos: m + n = 8.\n\n2.  **Da soma:**\n    *   O grau da soma de dois polinômios é o maior de seus graus, *a menos que* os termos de maior grau se cancelem.\n    *   Dado que p(x) + q(x) tem grau 3, e sabemos que m + n = 8, isso implica que 'm' e 'n' não podem ser 3 e 5 (ou 5 e 3), pois, nesse caso, o grau da soma seria 5. Também não podem ser m=3 e n<3, pois m+n não daria 8.\n    *   A única possibilidade para que o grau da soma seja menor que o maior dos graus é se os graus dos polinômios p(x) e q(x) são iguais e seus termos de maior grau se cancelam.\n    *   Se m = n, então m + n = 8 implica 2m = 8, ou seja, m = 4.\n    *   Assim, grau(p(x)) = 4 e grau(q(x)) = 4.\n    *   Para que o grau de p(x) + q(x) seja 3, os termos de grau 4 (e quaisquer termos de grau maior que 3) devem se cancelar na soma. Isso significa que os coeficientes dos termos de grau 4 de p(x) e q(x) devem ser opostos.\n    *   Exemplo: p(x) = ax⁴ + cx³ + ... e q(x) = -ax⁴ + dx³ + ... (onde a ≠ 0, e c e d não são necessariamente opostos).\n    *   p(x) + q(x) = (a - a)x⁴ + (c + d)x³ + ... = (c + d)x³ + ...\n    *   Para que o grau seja 3, (c + d) deve ser diferente de zero (ou seja, os termos de grau 3 não se cancelam).\n\n3.  **Do grau de p(x) − q(x):**\n    *   Agora, vamos analisar a subtração p(x) − q(x).\n    *   p(x) − q(x) = (ax⁴ + cx³ + ...) - (-ax⁴ + dx³ + ...)\n    *   p(x) − q(x) = (a - (-a))x⁴ + (c - d)x³ + ...\n    *   p(x) − q(x) = 2ax⁴ + (c - d)x³ + ...\n    *   Como 'a' é o coeficiente do termo de maior grau de p(x), a ≠ 0. Portanto, 2a ≠ 0.\n    *   Isso significa que o termo 2ax⁴ não se cancela.\n    *   Assim, o grau de p(x) − q(x) é 4.\n\nA alternativa correta é a B.",
+    "dica": "Entenda as regras do grau de polinômios para soma, subtração e multiplicação. Para a soma/subtração, se os graus são diferentes, o grau resultante é o maior. Se os graus são iguais, o grau resultante é no máximo o grau dos polinômios envolvidos (pode ser menor se os termos de maior grau se cancelarem). Para o produto, o grau resultante é sempre a soma dos graus."
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "Polinômios",
+      "Grau de Polinômios",
+      "Operações com Polinômios"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "5.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "4.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "3.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "2.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

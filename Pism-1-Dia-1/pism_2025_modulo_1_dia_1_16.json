@@ -1,0 +1,48 @@
+{
+  "metadados": {
+    "codigo": "pism_2025_q16",
+    "edital": "pism",
+    "numero": 16,
+    "tipo_ou_cor": "modulo_1_dia_1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Muitos\nlivros\ndid´aticos\nrepresentam\nas\nesp´ecies\nqu´ımicas (el´etrons, n´ucleos,´ıons, ´atomos e mol´eculas)\npor meio de c´ırculos. Para diferenciar cada uma de-\nlas, os c´ırculos apresentam algumas diferen¸cas, como\npor exemplo cor, textura e contorno.\nNa figura apresentada, os c´ırculos est˜ao represen-\ntando esp´ecies em uma rea¸c˜ao qu´ımica hipot´etica.\n\n\n\n![figura](./imgs/Pism-1-Dia-1_modulo_1_dia_1_p9_img1.png)\n\nA partir da figura, o modelo atˆomico que explica a\nrea¸c˜ao qu´ımica hipot´etica apresentada ´e aquele pro-\nposto por",
+    "url_img": [
+      "./imgs/Pism-1-Dia-1_modulo_1_dia_1_p9_img1.png"
+    ],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Dalton, j´a que os c´ırculos 1 e 2 representam o\nn´ucleo do ´atomo e o c´ırculo 3, os el´etrons.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "Dalton, j´a que todos os c´ırculos s˜ao representa-\ndos como esferas maci¸cas e indivis´ıveis.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "Rutherford, j´a que o c´ırculo 3 representa os\nel´etrons e, por isso, ´e menor que os c´ırculos 1\ne 2.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "Thomson, j´a que os c´ırculos 1 e 2 representam\nas cargas positivas e o c´ırculo 3, a carga negativa\ndo ´atomo.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": {
+      "texto": "Thomson, j´a que os c´ırculos que representam os\nreagentes permanecem os mesmos nos produtos.\n\nP´agina 8 de 13",
+      "url_img": [],
+      "correta": false
+    }
+  }
+}

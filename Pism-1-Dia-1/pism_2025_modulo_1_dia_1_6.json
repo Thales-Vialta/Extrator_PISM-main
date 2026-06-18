@@ -1,0 +1,51 @@
+{
+  "metadados": {
+    "codigo": "pism_2025_q6",
+    "edital": "pism",
+    "numero": 6,
+    "tipo_ou_cor": "modulo_1_dia_1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Analise as imagens a seguir:\n\nFigura 1\n\n\n\n![figura](./imgs/Pism-1-Dia-1_modulo_1_dia_1_p5_img3.png)\n\nFonte: https://encurtador.com.br/Z9uWG Acesso em 24 de jun. de\n\n2024.\n\nP´agina 4 de 13\n\nFigura 2\n\n\n\n![figura](./imgs/Pism-1-Dia-1_modulo_1_dia_1_p5_img4.png)\n\nFonte: INMET, 2024.\n\nA Figura 1 representa as massas de ar que atuam\nsobre a Am´erica do Sul. J´a a Figura 2 representa o\nacumulado de chuvas em mil´ımetros em 15 dias no\nBrasil entre 21/04/2024 e 06/05/2024.\nO elevado\nn´ıvel de chuvas sobre o estado do Rio Grande do\nSul pode ser considerado como um evento extremo\ncausado por uma conjun¸c˜ao de fenˆomenos meteo-\nrol´ogicos.\n´E CORRETO afirmar como uma das causas deste\nevento extremo que:",
+    "url_img": [
+      "./imgs/Pism-1-Dia-1_modulo_1_dia_1_p5_img3.png",
+      "./imgs/Pism-1-Dia-1_modulo_1_dia_1_p5_img4.png"
+    ],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "a Massa Polar Atlˆantica, fria e ´umida, se man-\nteve sobre o Rio Grande do Sul devido ao blo-\nqueio atmosf´erico no Centro-Sul do Brasil.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "a Massa Tropical Atlˆantica, quente e ´umida, n˜ao\natingiu o Rio Grande do Sul devido ao enfraque-\ncimento da Zona de Alta press˜ao Atlˆantica.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "o aquecimento global ainda n˜ao atingiu o estado\ndo Rio Grande do Sul, o que provocou tempera-\nturas abaixo da m´edia e chuvas intensas.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "a massa Equatorial Continental, quente e ´umida,\ndeslocou-se para o Nordeste brasileiro em de-\ncorrˆencia das baixas precipita¸c˜oes na Amazˆonia.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": {
+      "texto": "o Fenˆomeno El Ni˜no provocou a diminui¸c˜ao das\ntemperaturas no Centro-Sul do Brasil, atraindo\na Massa Tropical Continental, quente e seca,\npara esta ´area.\n\nPr´o Reitoria de Gradua¸c˜ao\nCoordena¸c˜ao Geral de Processos Seletivos\nPism 2025 - M´odulo 1 - 1º Dia\n\n\n\n![figura](./imgs/Pism-1-Dia-1_modulo_1_dia_1_p6_img3.png)\n\nFonte: IBGE, 2024.",
+      "url_img": [
+        "./imgs/Pism-1-Dia-1_modulo_1_dia_1_p6_img3.png"
+      ],
+      "correta": false
+    }
+  }
+}

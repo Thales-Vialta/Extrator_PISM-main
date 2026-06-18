@@ -1,0 +1,49 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q31",
+    "edital": "unicamp",
+    "numero": 31,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Em 1937, um golpe de Estado instaurou o Estado Novo no Bra­\nsil, um regime autoritário. Diferentes leituras do golpe de Var­\ngas foram publicadas no jornal The New York Times, ilustrando \no impacto difuso daquele evento na imprensa. De um lado, es­\ncrevendo da Argentina, o chefe dos correspondentes na Amé­\nrica Latina, John White, afirmou o caráter “pseudo-fascista” do \nmovimento, registrando a atuação dos censores sobre o traba­\nlho dos correspondentes internacionais que atuavam no Brasil. \nWhite destacava o apoio alemão ao novo regime brasileiro e \nos desafios de centralizar o poder nas mãos de Getúlio Vargas. \nDe outro lado, Frank Garcia, correspondente do The New York \nTimes, que atuava então no Brasil, comentou:\n\nEu posso dizer que, embora tenha havido censura, eu não tive \ndificuldades em enviar matérias ao The New York Times. Elas fo­\nram telegrafadas sem nenhum problema. Essa nova Constitui­\nção configura o Estado um tanto fascista, mas não inteiramen­\nte. É mais democrático que fascista. Na verdade, é nacionalista.\n(Adaptado de LINS, L.F.T. de S. Notícias de falsos vendavais: o golpe do Estado Novo de \n1937 e o discurso de junho de 1940 nos jornais estadunidenses. História: Debates e \nTendências, vol. 19, n. 2, p. 332-351, 2019.)\n\nSobre a repercussão internacional do Golpe do Estado Novo no \nexterior, podemos afirmar que havia",
+    "url_img": [],
+    "resolucao": "1. Analise os textos: Os dois relatos do jornal The New York Times sobre o golpe do Estado Novo em 1937 apresentam visões distintas:\n   - John White (correspondente na América Latina): Descreve o movimento como 'pseudo-fascista', menciona a censura sobre correspondentes e o apoio alemão ao regime.\n   - Frank Garcia (correspondente no Brasil): Considera o Estado Novo 'um tanto fascista, mas não inteiramente', 'mais democrático que fascista' e 'nacionalista'. Afirma não ter tido dificuldades em enviar suas matérias, contrariando a experiência de outros correspondentes.\n2. Avalie as alternativas:\n   - Alternativa A: Afirma uma 'percepção unânime do pleno alinhamento ideológico'. Isso é refutado pelas diferentes descrições ('pseudo-fascista' vs. 'mais democrático que fascista') e pela controvérsia sobre a censura.\n   - Alternativa B: Menciona 'condenação ao fascismo e sugestão de sanções econômicas'. O texto descreve as percepções, mas não há menção de condenações formais ou sanções econômicas.\n   - Alternativa C: Afirma 'controvérsias e ambiguidades na caracterização ideológica do novo governo Vargas'. As diferentes descrições de White e Garcia ('pseudo-fascista', 'nacionalista', 'mais democrático que fascista') e os relatos conflitantes sobre a censura ilustram claramente essa controvérsia e ambiguidade. Esta alternativa é a mais adequada.\n   - Alternativa D: Sugere 'estratégias de resistência à censura'. Embora White mencione a censura, o texto não descreve nenhuma estratégia de resistência por parte dos jornalistas, e Garcia até afirma não ter tido problemas.",
+    "dica": "Aprofundar-se no período do Estado Novo no Brasil (1937-1945), suas características autoritárias, as influências ideológicas (fascismo, nacionalismo), e como o regime foi percebido interna e externamente, considerando a complexidade das relações internacionais na época e a atuação da imprensa."
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "Estado Novo",
+      "Ditaduras latino-americanas",
+      "Fascismo",
+      "Relações internacionais",
+      "Mídia e política",
+      "Censura"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "percepção unânime do pleno alinhamento ideológico do \n\nBrasil com governos fascistas.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "condenação ao fascismo e sugestão de sanções econômicas \n\nem razão do apoio alemão a Vargas.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "controvérsias e ambiguidades na caracterização ideológica \n\ndo novo governo Vargas.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "estratégias de resistência à censura imposta aos jornalistas \n\nque atuavam no Brasil.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q34",
+    "edital": "unicamp",
+    "numero": 34,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "![figura](./imgs/unicamp_2026_Q-X_p13_img2.jpeg)\n\nLegenda:\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p13_drawing0.png)\n\nPredomínio do princípio do jus soli\n\nPredomínio do jus sanguinis  \n\nSem definição\n\n(Adaptado de The Law Library of Congress, 2020.) \n\nConsiderando o texto e o mapa, assinale a alternativa correta.",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p13_img2.jpeg",
+      "./imgs/unicamp_2026_Q-X_p13_drawing0.png"
+    ],
+    "resolucao": "1. Analise o mapa: O mapa ilustra o predomínio do princípio do *jus soli* (nacionalidade pelo local de nascimento) ou do *jus sanguinis* (nacionalidade pela ascendência) em diferentes países. Observa-se que a maioria dos países das Américas adota o *jus soli*, enquanto grande parte da Europa e alguns países da África e Ásia adotam o *jus sanguinis*.\n2. Avalie as alternativas:\n   - Alternativa A: Afirma que 'Filhos de estrangeiros nascidos em países europeus adquiriam a nacionalidade e a cidadania ao nascer'. O mapa mostra que a maioria dos países europeus predomina o *jus sanguinis*, o que significa que a nacionalidade não é automaticamente adquirida pelo nascimento no território.\n   - Alternativa B: Afirma que 'As ex-colônias europeias nas Américas eram importantes destinos de imigrantes, o que influenciou suas definições de cidadania e nacionalidade'. O mapa mostra o predomínio do *jus soli* nas Américas, que foram historicamente grandes destinos de imigrantes. A adoção do *jus soli* facilitava a integração dessas novas populações e a construção de suas nações. Esta afirmação está correta e coerente com a história migratória das Américas.\n   - Alternativa C: Faz afirmações sobre 'regimes populistas' e 'cidadania europeia' que não podem ser inferidas a partir do mapa ou do breve contexto histórico dado.\n   - Alternativa D: Afirma que 'O jus sanguinis era utilizado nas colônias como um instrumento de controle pela Europa para dificultar o acesso à cidadania dos povos nativos'. O mapa reflete as leis de nacionalidade dos países *atuais* e não especifica o uso do *jus sanguinis* na colonização para os povos nativos. Além disso, a maioria das Américas adota o *jus soli* após a independência.",
+    "dica": "Estudar os conceitos de nacionalidade e cidadania, as diferenças entre jus soli (direito de solo) e jus sanguinis (direito de sangue), e como esses princípios se desenvolveram em diferentes regiões do mundo. Relacione-os com os processos históricos de colonização, imigração e formação dos Estados-nação."
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "Nacionalidade",
+      "Cidadania",
+      "Jus soli",
+      "Jus sanguinis",
+      "Migrações",
+      "Colonização",
+      "Formação de Estados"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Filhos de estrangeiros nascidos em países europeus adqui­\n\nriam a nacionalidade e a cidadania ao nascer, após o fim das \nrevoluções burguesas.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "As ex-colônias europeias nas Américas eram importantes \n\ndestinos de imigrantes, o que influenciou suas definições de \ncidadania e nacionalidade.\n\n12\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p13_img0.jpeg)\n\nLegenda: Desenho de canhão nas cores vermelha amarela, e azul. Possui \nbandeira na cor verde e bola na cor preta. Apresenta inscrição a lápis com \no número \"23\" e assinatura \"Carlos L\" à caneta. Desenho utilizado em \nbordado de vestido. \n\n(Imagens disponíveis em https://www.zuzuangel.com.br. Acesso em 01/08/2025.)",
+      "url_img": [
+        "./imgs/unicamp_2026_Q-X_p13_img0.jpeg"
+      ],
+      "correta": true
+    },
+    "c": {
+      "texto": "Regimes populistas proibiram que os nascidos nos novos \n\npaíses reivindicassem cidadania europeia, após as indepen­\ndências americanas.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "O jus sanguinis era utilizado nas colônias como um instru­\n\nmento de controle pela Europa para dificultar o acesso à \ncidadania dos povos nativos.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

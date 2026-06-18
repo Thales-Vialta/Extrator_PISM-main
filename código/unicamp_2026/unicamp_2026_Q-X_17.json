@@ -1,0 +1,51 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q17",
+    "edital": "unicamp",
+    "numero": 17,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "O mapa da África apresentando seus respectivos climas e zo­\nnobiomas (classificação internacional feita em função do clima \ne da fitofisionomia) é um bom exemplo para mostrar a distri­\nbuição das zonas climáticas em faixas latitudinais. Em outros \ncontinentes, cordilheiras, correntes marinhas e diversos fatores \ndistorcem, interrompem e/ou expandem essas faixas, tornando­\n-as menos evidentes. \n\nÁfrica e as suas zonas climáticas e zonobiomas\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p6_img1.png)\n\nLegenda:\n\nZona\nClima\nZonobiomas\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p6_drawing0.png)\n\nI\nTropical Equatorial\nFlorestas e savanas equatoriais\n\nII\nTropical Estacional\nFlorestas e savanas estacionais\n\nIII\nSubtropical árido\nDesertos quentes\n\nIV\nMediterrâneo\nChaparral, maqui mediterrâneo\n\nV\nTemperado quente-úmido\t\nFlorestas quente-temperadas\n\nZonas de transição\n\n(COUTINHO, L. M. Biomas brasileiros. São Paulo: Oficina de Textos, p. 27-28, 2016.)\n\nA partir da leitura do mapa e de seus conhecimentos sobre os \ncomponentes naturais do continente africano, assinale a alter­\nnativa correta em relação às zonas de transição.",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p6_img1.png",
+      "./imgs/unicamp_2026_Q-X_p6_drawing0.png"
+    ],
+    "resolucao": "Passo 1: Analisar a legenda do mapa da África para entender as zonas climáticas e zonobiomas.\n- Zona I: Tropical Equatorial (Florestas e savanas equatoriais)\n- Zona II: Tropical Estacional (Florestas e savanas estacionais)\n- Zona III: Subtropical árido (Desertos quentes)\n- Zona IV: Mediterrâneo (Chaparral, maqui mediterrâneo)\n- Zona V: Temperado quente-úmido (Florestas quente-temperadas)\nPasso 2: Analisar a localização das zonas de transição no mapa.\n- As zonas de transição estão entre as principais faixas climáticas/biomas, indicando uma mudança gradual.\nPasso 3: Avaliar cada alternativa em relação às zonas de transição específicas e seus conhecimentos geográficos.\nA) \"A zona de transição I–II apresenta fitofisionomias típicas de savanas perenifólias nas proximidades da zona I e um processo gradativo do desenvolvimento de florestas ombrófilas no limite com a zona II.\"\n- Transição da Zona I (equatorial, mais úmida) para a Zona II (estacional, com período seco). A vegetação mais próxima da Zona I tende a ser mais densa (florestas ombrófilas). Um processo gradativo de desenvolvimento de florestas ombrófilas *em direção* à Zona II é o inverso do esperado, pois a Zona II é menos úmida que a I. A transição I-II mostra a diminuição da umidade e, consequentemente, da biomassa florestal. Incorreto.\nB) \"A zona de transição II–III apresenta formações vegetais contínuas e densas, com árvores latifoliadas e higrófilas, típicas da zona II e em detrimento das savanas típicas da zona III.\"\n- Transição da Zona II (Tropical Estacional) para a Zona III (Subtropical árido/desertos). A vegetação na transição para o deserto torna-se progressivamente mais esparsa e adaptada à seca (xerófita), não \"contínuas e densas, com árvores latifoliadas e higrófilas\". A Zona III não tem savanas densas. Incorreto.\nC) \"A zona de transição II–V apresenta uma vegetação densa e permanente, com gramíneas e arbustos, pois a influência da zona V predomina por influência dos processos costeiros.\"\n- Transição da Zona II (Tropical Estacional) para a Zona V (Temperado quente-úmido). A Zona V está mais ao interior no mapa, não predominantemente costeira como a Zona IV (Mediterrâneo). A descrição da vegetação também é genérica e a justificativa sobre a influência costeira não se aplica bem à Zona V. Incorreto.\nD) \"A zona de transição III–II apresenta vegetação de pequeno porte e espécies xerófitas no contato com a zona III, e um processo gradativo de savanização em direção à zona II.\"\n- Transição da Zona III (Deserto árido) para a Zona II (Tropical Estacional). No contato com a Zona III (deserto), é natural que haja vegetação de \"pequeno porte e espécies xerófitas\" (adaptadas à seca), como em regiões de estepe ou semideserto. À medida que se avança em direção à Zona II, com mais chuvas, ocorre um \"processo gradativo de savanização\", com aumento de gramíneas e arbustos dispersos, que são características das savanas da Zona II. Esta descrição está **correta** e reflete a gradação esperada entre um deserto e uma savana.\n\nResposta: A alternativa D é a correta.",
+    "dica": "Ao analisar mapas de biomas e climas, compreenda que as zonas de transição (ecótonos) representam mudanças graduais na vegetação e no clima. Relacione as características da vegetação (porte, tipo de folha, adaptações) com as condições climáticas (temperatura, regime de chuvas). Em geral, a transição de um deserto para uma floresta passa por estepes e savanas, com aumento progressivo da biomassa e da umidade."
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "Climatologia",
+      "Biogeografia",
+      "Zonobiomas",
+      "Ecologia",
+      "África"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A zona de transição I–II apresenta fitofisionomias típicas de \n\nsavanas perenifólias nas proximidades da zona I e um pro­\ncesso gradativo do desenvolvimento de florestas ombrófilas \nno limite com a zona II.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "A zona de transição II–III apresenta formações vegetais con­\n\ntínuas e densas, com árvores latifoliadas e higrófilas, típicas \nda zona II e em detrimento das savanas típicas da zona III.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "A zona de transição II–V apresenta uma vegetação densa e \n\npermanente, com gramíneas e arbustos, pois a influência da \nzona V predomina por influência dos processos costeiros.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "A zona de transição III–II apresenta vegetação de pequeno \n\nporte e espécies xerófitas no contato com a zona III, e um \nprocesso gradativo de savanização em direção à zona II.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

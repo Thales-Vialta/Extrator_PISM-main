@@ -1,0 +1,46 @@
+{
+  "metadados": {
+    "codigo": "pism_2025_q2",
+    "edital": "pism",
+    "numero": 2,
+    "tipo_ou_cor": "modulo_1_dia_1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "O uso dos dois pontos em “E diz: Leva o documento,\nson” indica a inser¸c˜ao de:",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "estrangeirismo, devido `a utiliza¸c˜ao do termo\n“son”, uma g´ıria de centros urbanos para “fi-\nlho”.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "discurso indireto, por fazer referˆencia a como as\nm˜aes falam com seus filhos em S˜ao Paulo.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "discurso indireto, pois h´a uma opini˜ao do autor\nsobre a calma das m˜aes na cria¸c˜ao de seus filhos.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "discurso direto, na medida em que h´a a in-\ntrodu¸c˜ao da fala literal da m˜ae em orienta¸c˜ao\nao filho.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": {
+      "texto": "discurso direto, ao fazer a introdu¸c˜ao de um pen-\nsamento de preocupa¸c˜ao da m˜ae com seu filho.\n\nPr´o Reitoria de Gradua¸c˜ao\nCoordena¸c˜ao Geral de Processos Seletivos\nPism 2025 - M´odulo 1 - 1º Dia\n\nLeia o post a seguir, Texto II, e relacione-o\n`a letra de can¸c˜ao de Emicida para responder\na",
+      "url_img": [],
+      "correta": false
+    }
+  }
+}

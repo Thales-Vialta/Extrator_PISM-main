@@ -1,0 +1,48 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q71",
+    "edital": "unicamp",
+    "numero": 71,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A Agência Nacional do Petróleo (ANP) é responsável por im­\nplementar a política nacional de combustíveis e proteger os in­\nteresses dos consumidores quanto a preço, qualidade e oferta \nde produtos, além de especificar a qualidade dos derivados de \npetróleo, do gás natural e de seus derivados e dos biocombus­\ntíveis. Nesse sentido, a resolução ANP 907, de 2022, especifica \nalgumas características do Etanol Anidro Combustível (EAC), \ndo Etanol Hidratado Combustível (EHC) e do Etanol Hidratado \nCombustível Premium (EHCP). Algumas dessas características \nestão na tabela a seguir e nas alternativas.\n\nCombustível\nMassa Específica\n\nTeor Alcoólico\n\n(kg/m3)\n\n(% massa)\n\nEAC\n791,5 (a)\n99,3 (b)\n\nEHC\n(c)\nentre 92,5 e 94,6\n\nEHCP\n(d)\nentre 95,5 e 96,5\n\n(Adaptado da Resolução ANP nº 907 de 18/11/2022.)\n\nConsiderando que água e etanol formam uma mistura ideal, \npara preencher corretamente essa tabela, as letras a, b, c e d \ndevem corresponder, respectivamente, a",
+    "url_img": [],
+    "resolucao": "1. Análise das Propriedades do Etanol Anidro (EAC): Teor Alcoólico (% massa) 99,3 (b): O etanol anidro é o etanol com a menor quantidade de água possível. Assim, o valor de 99,3% em massa representa o teor alcoólico mínimo aceitável para que seja considerado anidro. Se fosse menor, conteria mais água do que o permitido para a classificação. Portanto, (b) é 'mínimo'. Massa Específica (kg/m³) 791,5 (a): A densidade do etanol puro é de aproximadamente 789 kg/m³. A água tem densidade de 1000 kg/m³. Quanto mais água em uma mistura etanol-água, maior será a sua densidade. Para que o etanol seja considerado anidro (com o mínimo de água), sua massa específica não pode ultrapassar um certo valor. Portanto, 791,5 kg/m³ representa a massa específica máxima permitida para o EAC. Se fosse maior, indicaria um teor de água acima do permitido. Portanto, (a) é 'máximo'. Com isso, as opções B e D são eliminadas. Restam A e C.2. Análise das Propriedades do Etanol Hidratado (EHC e EHCP): Os etanóis hidratados contêm uma porcentagem maior de água que o anidro. EHCP (Premium) tem teor alcoólico entre 95,5% e 96,5% (massa). EHC tem teor alcoólico entre 92,5% e 94,6% (massa). Considerando que 'água e etanol formam uma mistura ideal' e que o etanol é menos denso que a água: quanto maior o teor alcoólico (e, consequentemente, menor o teor de água), menor será a massa específica da mistura. Portanto, o EHCP (com maior teor alcoólico e menos água) deve ter uma massa específica menor que o EHC (com menor teor alcoólico e mais água). Ou seja, (d) < (c).3. Comparação dos Valores de Massa Específica para (c) e (d): Opção A: (c) entre 805 e 811 kg/m³ e (d) entre 800 e 803 kg/m³. Aqui, os valores de (d) são menores que os de (c), o que é consistente com nossa dedução (EHCP tem menor densidade que EHC). Opção C: (c) entre 800 e 803 kg/m³ e (d) entre 805 e 811 kg/m³. Aqui, os valores de (d) são maiores que os de (c), o que é inconsistente.4. Conclusão: A única alternativa que se alinha com todas as deduções é a A.",
+    "dica": "Entenda a relação entre densidade, concentração e pureza para misturas líquidas. Lembre-se que, para misturas de etanol e água, quanto maior a porcentagem de água, maior a densidade da mistura (já que a água é mais densa que o etanol). Ao analisar tabelas de especificações, preste atenção se os valores são máximos ou mínimos, pois isso define o limite aceitável."
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "Propriedades de misturas",
+      "Densidade",
+      "Teor alcoólico",
+      "Etanol combustível",
+      "Legislação de combustíveis"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "máximo; mínimo; entre 805 e 811 e entre 800 e 803.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "mínimo; máximo; entre 805 e 811 e entre 800 e 803.\n\n24",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "máximo; mínimo; entre 800 e 803 e entre 805 e 811.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "mínimo; máximo; entre 800 e 803 e entre 805 e 811.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

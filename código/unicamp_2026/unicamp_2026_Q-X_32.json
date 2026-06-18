@@ -1,0 +1,49 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q32",
+    "edital": "unicamp",
+    "numero": 32,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "\"A OMC não será uma organização mundial de comércio até \nque a China seja um país-membro\", afirmou Mike Moore, di­\nretor-geral da OMC. A assinatura de um acordo bilateral de co­\nmércio entre os Estados Unidos e a China teve uma repercussão \npositiva no mercado internacional, apesar da desconfiança de \nque a China poderá ter dificuldades para cumprir o prometido. \n\"A China deu um passo grande em direção à OMC\", disse o \npresidente dos Estados Unidos, Bill Clinton. A União Europeia \naprovou a assinatura do acordo. A adesão da China à OMC \npermitirá incluir no sistema comercial internacional a décima \npotência do planeta, que cresceu em média 9,6% ao ano desde \n\n11\n\n1980. O acordo será um teste importante para verificar se a \neconomia chinesa aguentaria o impacto de sua incorporação à \nOMC e se continuaria com seu crescimento. Desde 1986, o país \nasiático busca ser aceito em um organismo de comércio inter­\nnacional. Segundo nota chinesa, \"ambas as partes estreitarão \nsua cooperação no seio da OMC para garantir no futuro o au­\nmento de suas relações bilaterais e a prosperidade da economia \nmundial\".\n(De agências internacionais, Sem a China, OMC não é mundial. Folha de S. Paulo, ano 79, \nn. 25.794, 16 de novembro de 1999. Disponível em https://www1.folha.uol.com.br/fsp/\ndinheiro/fi1611199903.htm. Acesso em 05/08/2025.)\n\nComparando as expectativas sobre o ingresso da China na Or­\nganização Mundial de Comério (OMC) expressas no texto com \no contexto atual, é correto afirmar que",
+    "url_img": [],
+    "resolucao": "1. Analise o texto: O artigo de 1999 reflete as expectativas em torno da entrada da China na OMC. Há um claro otimismo sobre a 'expansão da globalização da economia mundial' e a 'prosperidade da economia mundial', com a inclusão da China como 'décima potência do planeta'. Apesar de alguma 'desconfiança', a tônica geral é de que a adesão da China seria um passo importante para o comércio internacional.\n2. Compare as expectativas com o contexto atual (ou histórico subsequente):\n   - Alternativa A: Afirma que 'havia um otimismo em relação à expansão da globalização da economia mundial entre as décadas de 1990 e 2000'. O texto, publicado em 1999, exemplifica perfeitamente esse otimismo da época em relação à globalização e à integração econômica da China no sistema mundial. Esta afirmação está correta.\n   - Alternativa B: Sugere que a entrada da China na OMC 'interrompeu o deslocamento das indústrias norte-americana e europeia para a Ásia'. Na verdade, a entrada da China na OMC facilitou e intensificou esse deslocamento, tornando a China um polo produtivo global.\n   - Alternativa C: Afirma que a 'guerra tarifária contemporânea revela o fracasso do modelo de desenvolvimento chinês dos anos 2000'. A guerra tarifária é um conflito comercial recente, mas não indica o 'fracasso' do modelo chinês, que levou o país a um crescimento econômico espetacular por décadas, mas sim uma disputa por hegemonia econômica.\n   - Alternativa D: Diz que os compromissos da China na OMC 'permitiram a consolidação dos direitos humanos no país'. A questão dos direitos humanos na China continua sendo um ponto de crítica internacional, e sua entrada na OMC não se traduziu na consolidação esperada desses direitos.",
+    "dica": "Compreender o processo de globalização econômica no final do século XX e início do XXI, o papel da OMC, e a ascensão da China como potência econômica e seus impactos nas relações internacionais e no comércio global. Analisar como as expectativas de um período podem ser confrontadas com a realidade histórica posterior."
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "Globalização",
+      "OMC",
+      "Economia chinesa",
+      "Comércio internacional",
+      "Relações sino-americanas",
+      "Liberalização comercial"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "havia um otimismo em relação à expansão da globalização \n\nda economia mundial entre as décadas de 1990 e 2000.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "a entrada da China na OMC interrompeu o deslocamento \n\ndas indústrias norte-americana e europeia para a Ásia.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "a guerra tarifária contemporânea revela o fracasso do mo­\n\ndelo de desenvolvimento chinês dos anos 2000.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "os compromissos assumidos pela China na entrada na OMC \n\npermitiram a consolidação dos direitos humanos no país.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

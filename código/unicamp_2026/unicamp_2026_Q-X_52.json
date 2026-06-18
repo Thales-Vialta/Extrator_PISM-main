@@ -1,0 +1,46 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q52",
+    "edital": "unicamp",
+    "numero": 52,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Em um jogo de videogame sobre guerra, cada jogador deve \nmontar sua tropa escolhendo 100 combatentes. Ele tem à sua \ndisposição dois tipos de combatentes, soldados e estrategistas, \nque possuem duas habilidades, astúcia e força, com as seguin­\ntes pontuações:\n\n• o soldado tem 30 pontos de astúcia e 70 pontos de força.\n\n• o estrategista tem 80 pontos de astúcia e 20 pontos de força.\n\nA força total da tropa é a soma das pontuações de força de \ncada um dos combatentes, e a astúcia total da tropa é a soma \ndas pontuações de astúcia de cada um dos combatentes.\n\nPara montar uma tropa de modo a obter as mesmas pontua­\nções de força total e de astúcia total, quantos soldados e quan­\ntos estrategistas devem ser escolhidos?",
+    "url_img": [],
+    "resolucao": "Vamos definir as variáveis:\n*   Seja S o número de soldados.\n*   Seja E o número de estrategistas.\n\nCom base no enunciado, podemos montar um sistema de equações:\n\n**1. Equação do número total de combatentes:**\n*   S + E = 100 (Há 100 combatentes no total)\n\n**2. Equação para a igualdade de astúcia total e força total:**\n*   Pontuação de astúcia do soldado: 30\n*   Pontuação de astúcia do estrategista: 80\n*   Astúcia total da tropa = 30S + 80E\n\n*   Pontuação de força do soldado: 70\n*   Pontuação de força do estrategista: 20\n*   Força total da tropa = 70S + 20E\n\n*   A condição é que a astúcia total seja igual à força total:\n    *   30S + 80E = 70S + 20E\n\n**3. Resolver o sistema de equações:**\n*   Primeiro, simplificamos a segunda equação:\n    *   80E - 20E = 70S - 30S\n    *   60E = 40S\n    *   Dividindo ambos os lados por 20:\n    *   3E = 2S  =>  S = (3/2)E\n\n*   Agora, substituímos S na primeira equação:\n    *   (3/2)E + E = 100\n    *   (3/2)E + (2/2)E = 100\n    *   (5/2)E = 100\n    *   5E = 200\n    *   E = 200 / 5\n    *   E = 40\n\n*   Com E = 40, voltamos à primeira equação para encontrar S:\n    *   S + 40 = 100\n    *   S = 100 - 40\n    *   S = 60\n\n**4. Verificação:**\n*   Número de combatentes: 60 soldados + 40 estrategistas = 100.\n*   Astúcia total: 30(60) + 80(40) = 1800 + 3200 = 5000.\n*   Força total: 70(60) + 20(40) = 4200 + 800 = 5000.\n*   As pontuações de astúcia e força são iguais (5000 = 5000).\n\nDevem ser escolhidos 60 soldados e 40 estrategistas.\n\nA alternativa correta é a B.",
+    "dica": "Treine a tradução de problemas de texto para sistemas de equações. Defina claramente as variáveis e organize as informações em equações. Pratique métodos de resolução de sistemas (substituição, adição/eliminação) para ganhar agilidade."
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "Sistemas de Equações Lineares",
+      "Álgebra",
+      "Otimização"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "70 soldados e 30 estrategistas.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "60 soldados e 40 estrategistas.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "50 soldados e 50 estrategistas.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "40 soldados e 60 estrategistas.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

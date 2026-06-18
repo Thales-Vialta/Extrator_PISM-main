@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q18",
+    "edital": "unicamp",
+    "numero": 18,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Os conflitos entre Índia e Paquistão se acirraram em 2025, en­\ntre outros fatores, pela disputa de recursos hídricos na bacia \nhidrográfica do rio Indo. Em setembro de 1960, os dois paí­\nses firmaram o Tratado das Águas do Indo, que regula o uso \ncompartilhado das águas desse sistema fluvial. Ao longo dos \nanos, a Índia manifestou, em diferentes ocasiões, a intenção de \nse desvincular do acordo. Em resposta, o governo paquistanês \ndeclarou que qualquer tentativa de bloqueio hídrico seria consi­\nderada um 'ato de guerra'.\n(Adaptado de https://www.nytimes.com/2025/04/24/world/asia/india-pakistan-indus­\n-waters-treaty.html. Acesso em 12/05/2025.)\n\nPara entender o conflito, é fundamental analisar o sentido do \nfluxo de drenagem na bacia hidrográfica do rio Indo, conforme \nmostrado pelo mapa a seguir. \n\nPaíses drenados pela rede hidrográfica do rio Indo\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p7_img0.png)\n\n(Elaboração: COMVEST, 2025. Baseado em https://www.aljazeera.com/news/2011 \n/8/1/kashmir-and-the-politics-of-water. e https://www.hydrosheds.org/. Acesso em \n29/06/2025.)\n\nA partir da leitura do mapa e do texto, é correto afirmar que \nos afluentes",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p7_img0.png"
+    ],
+    "resolucao": "Passo 1: Analisar o mapa da bacia do rio Indo. O mapa mostra claramente que os rios principais e seus afluentes (Jhelum, Chenab, Ravi, Sutlej, Beas) nascem ou passam por território indiano (incluindo a Caxemira) e, em seguida, fluem para o Paquistão. O sentido da drenagem é dos territórios controlados pela Índia (montante) para o Paquistão (jusante). Os rios desembocam no Mar Arábico, ou seja, são exorreicos.\nPasso 2: Relacionar o mapa com o texto. O texto fala sobre a disputa por recursos hídricos, a ameaça da Índia de se desvincular do tratado e a declaração do Paquistão de que um bloqueio hídrico seria um “ato de guerra”. Isso sugere que o Paquistão, estando na jusante, é vulnerável ao controle da Índia na montante.\nPasso 3: Avaliar as alternativas.\nA) \"são rios drenados para o interior do continente (endorreicos)...\" Incorreto. Os rios do Indo são exorreicos, drenando para o Mar Arábico.\nB) \"são rios drenados para o oceano (exorreicos) situados na montante do território indiano. Isso permitiria ao Paquistão represar sua vazão e reduzir o abastecimento indiano...\" Incorreto. Embora sejam exorreicos, os afluentes estão na montante *do Paquistão* (ou seja, a Índia está na montante), o que dá à Índia o poder de represar, não ao Paquistão contra a Índia.\nC) \"são rios drenados para o interior do continente (endorreicos)...\" Incorreto. Os rios do Indo são exorreicos.\nD) \"são rios drenados para o oceano (exorreicos) situados na montante do Paquistão. Isso permitiria à Índia controlar seu fluxo, afetando as atividades agrícolas paquistanesas e comprometendo a economia do Paquistão.\" Esta alternativa está **correta**. Os rios são exorreicos. A Índia, por estar na montante do Paquistão em relação a esses rios, tem a capacidade de controlar o fluxo hídrico. Como a economia do Paquistão, especialmente a agricultura, é altamente dependente das águas do Indo, o controle indiano teria um impacto severo, justificando a preocupação paquistanesa.\n\nResposta: A alternativa D é a correta.",
+    "dica": "Em questões de geografia física e geopolítica, compreenda os conceitos de bacia hidrográfica, montante (nascente/parte alta do rio) e jusante (desembocadura/parte baixa do rio). Analise o mapa para identificar a direção do fluxo dos rios e a posição relativa dos países em relação a eles. Lembre-se que quem controla a montante tem grande poder sobre quem está na jusante em termos de recursos hídricos."
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "Geopolítica da água",
+      "Bacias hidrográficas",
+      "Fluxo fluvial",
+      "Montante e jusante",
+      "Conflitos territoriais"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "são rios drenados para o interior do continente (endorrei­\n\ncos) e escoam em direção à jusante, onde se localizam áreas \nagrícolas do Paquistão. Por isso, eventuais represamentos \npela Índia comprometeriam a economia paquistanesa.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "são rios drenados para o oceano (exorreicos) situados na \n\nmontante do território indiano. Isso permitiria ao Paquistão \nrepresar sua vazão e reduzir o abastecimento indiano desti­\nnado às atividades agropecuárias e industriais.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "são rios drenados para o interior do continente (endorreicos) \n\ne correm em direção à jusante, comprometendo as ativida­\ndes econômicas das áreas urbanizadas do Paquistão que de­\npendem da vazão originada nos afluentes situados na Índia.\n\n6",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "são rios drenados para o oceano (exorreicos) situados na \n\nmontante do Paquistão. Isso permitiria à Índia controlar seu \nfluxo, afetando as atividades agrícolas paquistanesas e com­\nprometendo a economia do Paquistão.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

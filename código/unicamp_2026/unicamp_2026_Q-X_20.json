@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q20",
+    "edital": "unicamp",
+    "numero": 20,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "O mapa a seguir apresenta frações do território brasileiro trans­\nformadas a partir da década de 1970 pela implementação de \npolíticas de desenvolvimento. Três áreas limítrofes do Estado da \nBahia, que até então não eram modernizadas, foram incorpo­\nradas a diferentes circuitos espaciais produtivos globalizados.\n\nCircuitos produtivos do agronegócio no estado da Bahia\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p8_img0.png)\n\n \n\n(Elaboração: COMVEST 2025.)\n\nConsiderando o texto e o mapa dos circuitos produtivos do \nagronegócio no Estado da Bahia, assinale a alternativa correta.",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p8_img0.png"
+    ],
+    "resolucao": "Passo 1: Analisar o texto. O texto informa que a partir da década de 1970, frações do território baiano foram transformadas por políticas de desenvolvimento, incorporando \"três áreas limítrofes do Estado da Bahia, que até então não eram modernizadas, ... a diferentes circuitos espaciais produtivos globalizados\". Isso indica uma modernização seletiva e focada no agronegócio de exportação.\nPasso 2: Analisar o mapa. O mapa corrobora o texto, mostrando três áreas distintas (Oeste, Norte e Sul da Bahia) como \"Circuitos produtivos do agronegócio\". Essas áreas aparecem como \"ilhas\" de modernização em um estado maior, sugerindo enclaves produtivos.\nPasso 3: Correlacionar as informações com os conceitos de agronegócio e modernização agrícola no Brasil.\n- O agronegócio moderno é caracterizado pela especialização produtiva (foco em poucas culturas de exportação), intenso uso de tecnologia e conexão com mercados globais.\n- A modernização não ocorre de forma homogênea, criando \"enclaves\" de alta produtividade e tecnologia que coexistem com e impactam (muitas vezes negativamente) os sistemas produtivos tradicionais e a agricultura familiar.\nPasso 4: Avaliar as alternativas.\nA) \"A especialização produtiva regional favoreceu o uso intensivo de inovações técnico-científicas, promovendo seletividade espacial da modernização, o que gerou impactos nos mosaicos produtivos tradicionais.\" Esta alternativa está **correta**. O agronegócio é especializado e intensivo em tecnologia. A modernização dessas \"frações\" do território de forma isolada é um exemplo de \"seletividade espacial\". Esses enclaves de modernização historicamente geram impactos (sociais, econômicos, ambientais) nos \"mosaicos produtivos tradicionais\" que os cercam.\nB) \"Os enclaves de modernização regional promoveram a difusão de uma produção diversificada setorialmente, o que garantiu o espraiamento das inovações técnico-científicas para as demais localidades da região.\" Incorreto. O agronegócio tende à *especialização*, não à diversificação setorial ampla, e a modernização é *seletiva*, não se espalhando uniformemente.\nC) \"A especialização produtiva regional permitiu a cooperação das inovações técnico-científicas com os mosaicos produtivos tradicionais, o que restringiu maior conectividade espacial entre os estados limítrofes.\" Incorreto. Geralmente há concorrência ou marginalização dos sistemas tradicionais, não cooperação. Além disso, os \"circuitos produtivos globalizados\" implicam *maior* conectividade, não restrição.\nD) \"Os enclaves de modernização regional viabilizaram a dilatação das inovações técnico-científicas para setores produtivos não especializados, o que acarretou a eliminação da seletividade espacial produzida pela especialização.\" Incorreto. A ideia de \"enclaves\" e \"frações\" transformadas sugere que a modernização é seletiva, e não que houve eliminação da seletividade ou dilatação para setores não especializados de forma generalizada.\n\nResposta: A alternativa A é a correta.",
+    "dica": "Ao estudar geografia agrária, entenda as características e as consequências do agronegócio moderno, especialmente no Brasil. Foco em conceitos como especialização produtiva, enclaves de modernização, e os impactos socioespaciais da difusão desigual de tecnologias. A relação entre globalização e sistemas produtivos regionais é fundamental."
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "Geografia agrária",
+      "Agronegócio",
+      "Modernização agrícola",
+      "Circuitos espaciais produtivos",
+      "Desigualdade regional"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A especialização produtiva regional favoreceu o uso inten­\n\nsivo de inovações técnico-científicas, promovendo seletivi­\ndade espacial da modernização, o que gerou impactos nos \nmosaicos produtivos tradicionais.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "Os enclaves de modernização regional promoveram a difu­\n\nsão de uma produção diversificada setorialmente, o que ga­\nrantiu o espraiamento das inovações técnico-científicas para \nas demais localidades da região.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "A especialização produtiva regional permitiu a cooperação \n\ndas inovações técnico-científicas com os mosaicos produti­\nvos tradicionais, o que restringiu maior conectividade espa­\ncial entre os estados limítrofes.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "Os enclaves de modernização regional viabilizaram a dilata­\n\nção das inovações técnico-científicas para setores produtivos \nnão especializados, o que acarretou a eliminação da seletivi­\ndade espacial produzida pela especialização.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

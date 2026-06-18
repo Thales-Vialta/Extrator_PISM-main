@@ -1,0 +1,46 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q43",
+    "edital": "unicamp",
+    "numero": 43,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Rogério é funcionário de uma fábrica de automóveis. Em de­\nzembro de 2024, seu gestor fez duas propostas de aumento \nsalarial:\n\n• a proposta 1 consistia em um aumento de 50% do seu sa­\nlário, a partir do salário a ser recebido em janeiro de 2025, \nmas sem nenhum tipo de reajuste nos próximos três anos, \nou seja, até dezembro de 2027;\n\n• a proposta 2 consistia em um aumento de 20% a cada ano; \no reajuste ocorreria no salário de janeiro de cada um dos \npróximos três anos, a partir de 2025.\n\nPara decidir a qual proposta aderir, Rogério calculou o montan­\nte total que receberia ao longo dos três anos em cada proposta, \nisto é, de janeiro de 2025 a dezembro de 2027. Ele concluiu \nque o total a ser recebido na proposta 1 é, aproximadamente,",
+    "url_img": [],
+    "resolucao": "Seja S o salário inicial de Rogério (em dezembro de 2024). O cálculo do montante total será feito para 36 meses (de janeiro de 2025 a dezembro de 2027).\n\n**Proposta 1:**\n*   Aumento de 50% a partir de janeiro de 2025. Novo salário = S * (1 + 0,50) = 1,5S.\n*   Este salário é mantido por 36 meses.\n*   Montante total (M1) = 36 * (1,5S) = 54S.\n\n**Proposta 2:**\n*   Aumento de 20% a cada ano, reajustando o salário de janeiro de cada um dos próximos três anos.\n*   **Ano 1 (Jan/2025 a Dez/2025):** Salário = S * (1 + 0,20) = 1,2S. Total no 1º ano = 12 * (1,2S) = 14,4S.\n*   **Ano 2 (Jan/2026 a Dez/2026):** Salário = (1,2S) * (1 + 0,20) = 1,44S. Total no 2º ano = 12 * (1,44S) = 17,28S.\n*   **Ano 3 (Jan/2027 a Dez/2027):** Salário = (1,44S) * (1 + 0,20) = 1,728S. Total no 3º ano = 12 * (1,728S) = 20,736S.\n*   Montante total (M2) = 14,4S + 17,28S + 20,736S = 52,416S.\n\n**Comparação:**\n*   M1 = 54S\n*   M2 = 52,416S\n*   A diferença é M1 - M2 = 54S - 52,416S = 1,584S.\n*   Para calcular o percentual que M1 é maior que M2, usamos a fórmula (Diferença / M2) * 100%:\n    *   (1,584S / 52,416S) * 100% ≈ 0,030219 * 100% ≈ 3,02%.\n\nO total a ser recebido na proposta 1 é, aproximadamente, 3% maior que o total a ser recebido na proposta 2.\n\nA alternativa correta é a A.",
+    "dica": "Ao lidar com porcentagens de aumento ou desconto, especialmente em séries temporais, lembre-se de aplicar o percentual sobre o valor atualizado (no caso de juros compostos ou aumentos anuais). Organize seus cálculos passo a passo para cada período e cada proposta para evitar confusões. Pratique a interpretação de texto para identificar se os aumentos são simples ou compostos."
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "Porcentagem",
+      "Crescimento Percentual Anual",
+      "Comparação de Valores"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "3% maior que o total a ser recebido na proposta 2.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "1% maior que o total a ser recebido na proposta 2.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "3% menor que o total a ser recebido na proposta 2.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "1% menor que o total a ser recebido na proposta 2.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

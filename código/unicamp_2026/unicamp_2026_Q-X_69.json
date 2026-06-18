@@ -1,0 +1,51 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q69",
+    "edital": "unicamp",
+    "numero": 69,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Diante das mudanças climáticas, muitos químicos desempe­\nnham um papel estratégico no enfrentamento desse problema. \nUma dessas ações é o esforço no desenvolvimento de recursos \nque removem CO2 por meio da captura direta do ar. Nesse sen­\ntido, os químicos se dedicam a produzir materiais que, ao mes­\nmo tempo, possam capturar o CO2 em situações diversas em \nquantidades e velocidades altas. Um exemplo disso é a captura \ncumulativa de CO2 (em mmol) por grama de tetraperoxotitana­\nto de potássio K4Ti(O2)4 em função do tempo. Esses resultados \nsão parcialmente mostrados no gráfico a seguir.\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p24_drawing0.png)\n\n3,0\n\nCaptura cumulativa de CO2 (mmol/g)\n\n2,4\n\n1,8\n\n1,2\n\n0,6\n\n0,0\n\n10\n20\n30\n40\n50\n60\n\nTempo (min)\n\n(Adaptado de BACH, K. et al. ChemRxiv, DOI: 10.26434/chemrxiv-2024-xb06z-v2. Acesso \nem 09/10/2025.)\n\nDado parcial: Massa molar: K4Ti(O2)4 = 332,3 g·mol−1\n\nConsiderando as informações do gráfico, é correto afirmar que \napós 65 minutos de adsorção: (i) a razão molar [mol CO2 por \nmol de K4Ti(O2)4] e (ii) o aumento percentual de massa do sólido \nserão aproximadamente de",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p24_drawing0.png"
+    ],
+    "resolucao": "1. Interpretação do Gráfico: O gráfico mostra a 'Captura cumulativa de CO2 (mmol/g)' em função do tempo. Observando o gráfico, por volta dos 65 minutos, a curva de captura de CO2 parece estar se estabilizando, atingindo um valor próximo de 3,0 mmol de CO2 por grama de K4Ti(O2)4. A 60 minutos, o valor é 2,6 mmol/g e a inclinação é pequena, indicando que o limite superior estará próximo de 3,0 mmol/g. Assumiremos para o cálculo o valor de 3,0 mmol/g como o valor aproximado para 65 minutos, pois as opções de resposta são valores inteiros para o item (i) e porcentagens arredondadas para o item (ii).2. Cálculo da Razão Molar (i): Queremos a razão molar [mol CO2 por mol de K4Ti(O2)4]. Sabemos a captura em mmol CO2 por grama de K4Ti(O2)4: ~3,0 mmol CO2 / g K4Ti(O2)4. Precisamos converter essa relação para mol de CO2 por mol de K4Ti(O2)4. Massa molar de K4Ti(O2)4 = 332,3 g/mol. Então, em 1 mol de K4Ti(O2)4, há 332,3 g de K4Ti(O2)4. Número de mmols de CO2 por mol de K4Ti(O2)4 = (3,0 mmol CO2 / 1 g K4Ti(O2)4) × (332,3 g K4Ti(O2)4 / 1 mol K4Ti(O2)4) = 3,0 × 332,3 mmol CO2 / mol K4Ti(O2)4 = 996,9 mmol CO2 / mol K4Ti(O2)4. Convertendo para mol: 996,9 mmol é aproximadamente 1,0 mol (0,9969 mol CO2 por mol K4Ti(O2)4). Portanto, a razão molar é aproximadamente 1 mol CO2 por 1 mol de K4Ti(O2)4.3. Cálculo do Aumento Percentual de Massa do Sólido (ii): Aumento de massa se refere à massa de CO2 capturada por 1 grama do sólido K4Ti(O2)4. Captura = 3,0 mmol CO2 / g K4Ti(O2)4. Massa molar do CO2 (C=12, O=16) = 12 + 2*16 = 44 g/mol. Massa de CO2 capturada por 1 g de K4Ti(O2)4 = (3,0 mmol) × (44 g/mol) = (3,0 × 10^-3 mol) × (44 g/mol) = 0,132 g. O aumento percentual de massa do sólido (em relação à sua massa inicial de 1 g) é: (Massa de CO2 capturada / Massa inicial do sólido) × 100% = (0,132 g / 1 g) × 100% = 13,2%. Isso é aproximadamente 13%.4. Verificação das Alternativas: (i) razão molar ≈ 1 (ii) aumento percentual de massa ≈ 13% A alternativa que corresponde a esses valores é a B: (i) 1 e (ii) 13% em relação ao inicial.",
+    "dica": "Ao resolver problemas com gráficos, certifique-se de ler corretamente os eixos e as unidades. Em estequiometria, é crucial entender a diferença entre massa, mol e concentração, e como converter entre essas grandezas usando massas molares. Sempre preste atenção ao que está sendo perguntado (e.g., por grama vs. por mol, aumento absoluto vs. percentual)."
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "Estequiometria",
+      "Cinética química",
+      "Adsorção",
+      "Massa molar",
+      "Porcentagem em massa",
+      "Leitura de gráficos"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "(i) 3 e (ii) 13% em relação ao inicial.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "(i) 1 e (ii) 13% em relação ao inicial.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "(i) 3 e (ii) 30% em relação ao inicial.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "(i) 1 e (ii) 30% em relação ao inicial.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

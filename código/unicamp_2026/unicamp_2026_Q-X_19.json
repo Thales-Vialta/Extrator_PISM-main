@@ -1,0 +1,51 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q19",
+    "edital": "unicamp",
+    "numero": 19,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Historicamente, a região do Oriente Médio vive uma série de \nconflitos envolvendo alianças e disputas por interesses econô­\nmicos, geopolíticos e religiosos. Por exemplo, o chamado eixo \nda resistência é formado por um conjunto de países e grupos \nrebeldes sob influência do Irã. Esse eixo se define por confrontar \nforças militares ocidentais, como no caso dos Estados Unidos \ne de Israel. O mapa a seguir mostra a localização dos países e \ngrupos sob influência do Irã.\n(Adaptado de https://www.bbc.com/portuguese/articles/cw4dgr9yrpvo. Acesso em \n23/05/2025.)\n\nLocalização dos países e grupos sob influência do Irã\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p7_img1.png)\n\n(Elaboração: COMVEST 2025.)\n\nA partir dessas informações, assinale a alternativa que apresen­\nta corretamente as disputas e as alianças do Irã com grupos \nétnicos, militares e religiosos dentro dos países indicados no \nmapa.\n\nDisputas\nAlianças\n\ncom a minoria sunita do \nislamismo (Iraque); com o \nEstado Islâmico (Síria).\n\ncom os Houthis (Iêmen); \ncom o Hezbollah (Líbano).",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p7_img1.png"
+    ],
+    "resolucao": "Passo 1: Analisar o texto e o mapa para entender o \"eixo da resistência\" e as áreas de influência do Irã. O texto informa que o Irã lidera um \"eixo da resistência\" que confronta forças ocidentais (EUA, Israel). O mapa ilustra os grupos sob influência do Irã. O Irã é um país de maioria xiita e geralmente apoia grupos xiitas ou antiocidentais na região.\nPasso 2: Identificar as relações de aliança e disputa do Irã com os grupos mencionados.\n- **Hezbollah (Líbano):** É um grupo político e paramilitar xiita, forte aliado do Irã. (Aliança)\n- **Houthis (Iêmen):** São um movimento rebelde xiita zaidita, recebem apoio do Irã em sua luta contra o governo reconhecido e a coalizão liderada pela Arábia Saudita. (Aliança)\n- **Estado Islâmico (Síria/Iraque):** É um grupo jihadista sunita extremista, considerado inimigo mortal do Irã e de seus aliados, tendo sido combatido por forças iranianas e pró-iranianas. (Disputa)\n- **Minoria sunita do islamismo (Iraque):** Após a queda de Saddam Hussein, o governo iraquiano passou a ter uma maioria xiita, com forte influência iraniana. Grupos sunitas no Iraque frequentemente resistem a essa influência e são vistos como adversários ou fontes de disputa pelo Irã. (Disputa)\nPasso 3: Avaliar as alternativas com base nas relações identificadas.\nA) Disputas: \"com a minoria sunita do islamismo (Iraque); com o Estado Islâmico (Síria).\" (Correto, o Irã tem conflitos com ambos). Alianças: \"com os Houthis (Iêmen); com o Hezbollah (Líbano).\" (Correto, o Irã se alia a ambos).\nB) Apresenta alianças incorretas (Houthis como disputa, minoria sunita como aliança).\nC) Apresenta disputas incorretas (Hezbollah como disputa, Estado Islâmico como aliança).\nD) Apresenta disputas incorretas (Houthis e Hezbollah como disputa).\n\nResposta: A alternativa A é a correta, pois descreve de forma precisa as relações de disputas e alianças do Irã com os grupos mencionados.",
+    "dica": "Para compreender a geopolítica do Oriente Médio, é essencial conhecer as principais divisões religiosas (xiitas e sunitas) e como elas influenciam as alianças e rivalidades regionais. Mapeie os principais atores estatais e não estatais, seus interesses e suas relações de apoio ou conflito. Fique atento a termos como “eixo da resistência” e a quem ele se opõe."
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "Geopolítica",
+      "Oriente Médio",
+      "Conflitos regionais",
+      "Irã",
+      "Eixo da Resistência",
+      "Xiismo e Sunismo"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "com os Houthis (Iêmen); \ncom o Estado Islâmico (Sí­\nria).\n\ncom a minoria sunita do \nislamismo (Iraque); com o \nHezbollah (Líbano).",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "com a minoria sunita do \nislamismo (Iraque); com o \nHezbollah (Líbano).\n\ncom os Houthis (Iêmen); \ncom o Estado Islâmico (Sí­\nria).",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "com a minoria sunita do \nislamismo (Iraque); com o \nEstado Islâmico (Síria).",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "com os Houthis (Iêmen); \ncom o Hezbollah (Líbano).",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

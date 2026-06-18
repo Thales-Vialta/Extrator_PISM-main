@@ -1,0 +1,52 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q29",
+    "edital": "unicamp",
+    "numero": 29,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A imagem e o texto a seguir têm como tema comum as práticas \nesportivas e a construção da masculinidade entre os atenienses \nno Período Clássico (séculos V e IV a.C.).\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p11_img0.jpeg)\n\nEsporte apreciado entre os helenos, o lançamento de disco exi­\ngia do atleta uma disciplina técnica, evidenciada pela harmonia \ndos movimentos corporais. No centro da imagem, há um jovem \nse preparando para o lançar o disco. A ausência da barba do \npersonagem permite afirmar que ele está sendo preparado para \no exercício da cidadania plena. A presença dos dois halteres e \ndo enxadão indica que a cena ocorre  em uma palestra: campo \nde exercício cercado de edifícios com funções diversas. Na ima­\ngem original, contamos com uma inscrição que diz \"Kléomelos \né belo\". \n(Texto e imagem adaptados de LESSA, F. de S. Corpo, Esporte e Masculinidade em Atenas. \nPHOÎNIX, Rio de Janeiro. v. 10: p. 111-132, 2004.)\n\nA partir da imagem e do texto, assinale a alternativa correta \nsobre a interpretação da imagem.",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p11_img0.jpeg"
+    ],
+    "resolucao": "1. Analise a imagem: Mostra um jovem nu, sem barba, em uma pose atlética com um disco, halteres e um enxadão. A representação idealizada do corpo é típica da arte clássica grega.\n2. Analise o texto: Descreve o lançamento de disco como um esporte valorizado em Atenas. Menciona que a 'ausência da barba do personagem permite afirmar que ele está sendo preparado para o exercício da cidadania plena'. A cena ocorre em uma 'palestra'. A inscrição 'Kléomelos é belo' realça um ideal estético.\n3. Avalie as alternativas:\n   - Alternativa A: Associa o atleta ao 'trabalho manual das camadas subalternas'. O texto enfatiza a preparação para a 'cidadania plena' e um ideal de beleza, que na Atenas Clássica estava mais ligado a uma elite que podia dedicar-se ao ócio e ao treinamento físico, não a camadas subalternas.\n   - Alternativa B: Afirma 'Distinção de classe social, já que se representa um ideário de beleza própria ao atleta bem-nascido'. A valorização da beleza física (expressa em 'Kléomelos é belo') e a preparação para a 'cidadania plena' (que na Atenas clássica era restrita a uma elite) indicam um ideal de distinção social e um modelo de beleza associado aos cidadãos de alto status. Esta alternativa é consistente.\n   - Alternativa C: Descreve o personagem como um 'cidadão ateniense maduro'. A ausência de barba, conforme o próprio texto, indica que ele é um jovem em *preparação*, não um cidadão maduro e já vitorioso.\n   - Alternativa D: Refere-se à imagem como 'o ápice da masculinidade'. Embora represente um ideal de masculinidade, a descrição de 'sendo preparado para o exercício da cidadania plena' e a ausência de barba sugerem que se trata da fase de formação, não do ápice da masculinidade adulta e consolidada.",
+    "dica": "Estudar a sociedade ateniense no Período Clássico, incluindo os ideais de cidadania, educação (paideia), a importância do corpo e do esporte (ginástica) na formação do cidadão, e como esses valores se manifestavam na arte e na cultura. É importante diferenciar a masculinidade juvenil em formação da masculinidade adulta consolidada."
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "Grécia Antiga",
+      "Atenas",
+      "Masculinidade",
+      "Esporte",
+      "Cidadania",
+      "Arte Clássica",
+      "Corpo ideal"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Um atleta do lançamento de discos, esporte olímpico, ligado \n\nao trabalho manual das camadas subalternas.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "Distinção de classe social, já que se representa um ideário de \n\nbeleza própria ao atleta bem-nascido.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "Um cidadão ateniense maduro e despido, em pose comum \n\naos lançadores de disco já vitoriosos.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "Elementos gráficos que representam a percepção social e \n\nesportiva do ápice da masculinidade.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

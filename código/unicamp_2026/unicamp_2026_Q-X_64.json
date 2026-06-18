@@ -1,0 +1,49 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q64",
+    "edital": "unicamp",
+    "numero": 64,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "O sineiro era um preto velho e doido. Não fazia mais que tocar \no sino da capela, para a missa, aos domingos. O resto do tem­\npo vivia calado ou resmungando. Ninguém lhe falava, embora \nfosse manso. [...] Com a razão, perdera a convivência dos mais. \nVivia entregue aos pensamentos solitários, mergulhado na in­\nconsciência e na solidão. A moça representava aos olhos dele \nalguma coisa mais do que uma simples criatura, era a sociedade \nhumana, e uma sombra de sombra da consciência antiga.\n(ASSIS, M. de. Casa Velha. Apresentação e notas de Paulo Franchetti. Campinas, SP: Edi­\ntora da UNICAMP, p. 85-86, 2023.)\n\nNo enredo de Casa Velha, é possível afirmar que a cena em que \naparece a figura do sineiro cumpre o papel de",
+    "url_img": [],
+    "resolucao": "1. Análise do Excerto e Personagens: O trecho apresenta o sineiro, um personagem marginalizado, descrito como 'preto velho e doido', isolado da convivência social. Sua percepção da 'moça' (Lalau, na trama de 'Casa Velha') é que ela representa 'a sociedade humana' e uma 'consciência antiga'. A figura do sineiro, por sua condição de exclusão, serve como um espelho para a sociedade da época. A questão pede o papel dessa cena no enredo de 'Casa Velha'.2. Contexto de 'Casa Velha': 'Casa Velha' é um romance que explora as tensões sociais, a hierarquia e os amores proibidos em uma sociedade em transição. O núcleo da trama envolve o amor do filho da casa (Félix) pela agregada (Lalau), e os esforços da mãe (Dona Antônia) para impedir esse relacionamento, que ela considera socialmente inadequado.3. Conexão do Sineiro ao Enredo Principal: O sineiro, em sua condição de marginal, observa Lalau. A presença dele e a interação (ou a possibilidade de interação) com Lalau permitem que Félix, o filho de Dona Antônia, observe a compaixão da moça pelo velho. Esse ato de compaixão revela qualidades de Lalau que reforçam o sentimento de Félix por ela. A cena, portanto, é um momento de revelação de caráter e de aprofundamento do vínculo entre os protagonistas, o que intensifica o conflito principal da trama, que é a tentativa de Dona Antônia de separar o casal.4. Avaliação das Alternativas: A) Incorreta. Não há elementos no texto que mostrem a solidariedade de classe de Lalau de forma explícita com o sineiro. O foco é a compaixão, não a solidariedade de classe. B) Incorreta. O excerto não foca na caridade de Dona Antônia. Na verdade, ela é a figura que busca manter as convenções sociais e impedir o relacionamento, sendo mais uma antagonista do que uma figura caridosa no contexto da trama. C) Correta. A cena em que o sineiro aparece permite que Félix observe a compaixão de Lalau por uma figura marginalizada. Essa observação é crucial para o desenvolvimento do sentimento entre Lalau e Félix, e para a percepção do leitor sobre a natureza do vínculo entre eles. Consequentemente, a cena ajuda a 'expor' ou a solidificar esse sentimento, que é o cerne do conflito que Dona Antônia tentará combater. D) Incorreta. Embora o sineiro, por sua condição, possa 'sugerir a complexidade da organização social', essa é uma leitura mais temática ou simbólica. A questão pede o 'papel no enredo', ou seja, como a cena avança a trama. A opção C descreve um papel mais direto na dinâmica dos personagens principais.",
+    "dica": "Ao analisar obras de Machado de Assis, procure identificar a função de cada personagem e cena no desenvolvimento do enredo e na construção dos temas. Machado frequentemente usa personagens secundários e situações aparentemente simples para revelar aspectos complexos das relações humanas e da sociedade. Atente para a ironia, o simbolismo e a psicologia dos personagens."
+  },
+  "especificacao": {
+    "materia": "Literatura",
+    "tags": [
+      "Romance realista",
+      "Personagens simbólicos",
+      "Conflito social",
+      "Interações sociais",
+      "Análise de enredo",
+      "Machado de Assis"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "mostrar a solidariedade de classe desenvolvida por Lalau \n\nque, sendo uma agregada, identifica seus interesses com os \ndo velho sineiro.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "exibir o caráter caridoso de Dona Antônia, que mantém o \n\nescravizado sob seus cuidados mesmo após deixar de ser útil \ncomo trabalhador.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "expor a Dona Antônia o sentimento existente entre Lalau e \n\nseu filho, enquanto ele observa a compaixão da moça pelo \nsineiro.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "sugerir a complexidade da organização social característica \n\nda Casa Velha, na qual se via representada toda a sociedade \nhumana.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

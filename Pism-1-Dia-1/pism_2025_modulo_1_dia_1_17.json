@@ -1,0 +1,46 @@
+{
+  "metadados": {
+    "codigo": "pism_2025_q17",
+    "edital": "pism",
+    "numero": 17,
+    "tipo_ou_cor": "modulo_1_dia_1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "O solo tem, em sua composi¸c˜ao, substˆancias s´olidas,\nl´ıquidas e gasosas. Entre as substˆancias gasosas est˜ao\no g´as carbˆonico, o ´oxido n´ıtrico e o metano.\nSobre esses gases presentes no solo, assinale a al-\nternativa CORRETA.",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A pecu´aria ´e uma atividade que contribui para a\npolui¸c˜ao do solo e do ar, devido, exclusivamente,\n`a libera¸c˜ao de g´as carbˆonico pelos animais.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "O g´as carbˆonico, ao reagir com ´agua e formar\num ´acido, tem sua concentra¸c˜ao diminu´ıda, o\nque torna o solo mais f´ertil.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "O metano ´e um g´as que, ao chegar `a atmosfera,\npode contribuir para o efeito estufa, aumentando\na temperatura do planeta.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "O nitrogˆenio que forma o ´oxido n´ıtrico tem pro-\npriedades diferentes daquele presente nos fertili-\nzantes.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": {
+      "texto": "O ´oxido n´ıtrico ´e um poluente espec´ıfico do solo,\npois ele ´e produzido pelos microrganismos pre-\nsentes nele.",
+      "url_img": [],
+      "correta": false
+    }
+  }
+}

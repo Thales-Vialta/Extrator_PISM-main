@@ -1,0 +1,46 @@
+{
+  "metadados": {
+    "codigo": "pism_2025_q8",
+    "edital": "pism",
+    "numero": 8,
+    "tipo_ou_cor": "modulo_1_dia_1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Leia o excerto a seguir:\n\nRiscos ambientais da PEC das Praias\nEssa faixa costeira ´e fundamental na conten¸c˜ao da\neros˜ao\n\nA Proposta de Emenda Constitucional 3/2022, a\nPEC das Praias, tem sido debatida nos ´ultimos dias,\nespecialmente sob a ´otica econˆomica e social. Gos-\ntar´ıamos de incluir aqui alguns argumentos ambien-\ntais a partir de nossa pesquisa em biologia marinha.\nO objetivo principal dessa PEC ´e a concess˜ao pri-\nvada de terrenos de marinha. H´a um entendimento\nde que essa faixa se localize acima de 33 metros da\nlinha d’´agua, o que exclui as praias. H´a outro enten-\ndimento que cita que essas ´areas v˜ao at´e onde se fa¸ca\nsentir a influˆencia da mar´e. S´o nessa duplicidade de\ninterpreta¸c˜oes j´a h´a margem para conflitos.\nEssa faixa costeira ´e fundamental na conten¸c˜ao da\neros˜ao litorˆanea e das mudan¸cas clim´aticas. Elas s˜ao\npartes do patrimˆonio nacional, devendo ser geridas\npelo interesse p´ublico.\nPor mais que n˜ao privatize\npraias, a PEC 3/2022 resultar´a em degrada¸c˜ao ambi-\nental, expuls˜ao de pescadores artesanais, dificuldade\nde acesso `a praia e especula¸c˜ao imobili´aria.\n\nhttps://www.correiobraziliense.com.br/opiniao/2024/06/6878577-\n\nriscos-ambientais-da-pec-das-praias.html Acesso em: 16 de jun. de\n\n2024.\n\nPr´o Reitoria de Gradua¸c˜ao\nCoordena¸c˜ao Geral de Processos Seletivos\nPism 2025 - M´odulo 1 - 1º Dia\n\nSobre a vegeta¸c˜ao litorˆanea amea¸cada pela priva-\ntiza¸c˜ao de ´areas `a beira-mar, assinale a alternativa\nCORRETA.",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Em sua localiza¸c˜ao original, a Mata Atlˆantica\nestendia-se desde o litoral nordestino ao litoral\nda regi˜ao Sul.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "As restingas s˜ao esp´ecies constitu´ıdas por ve-\ngeta¸c˜oes densas, de porte exuberante, com pre-\ndominˆancia de arbustos.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "Os mangues se formam nas ´areas de estu´arios,\nba´ıas ou reentrˆancias onde h´a uma transi¸c˜ao en-\ntre a terra firme e o mar.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "No\nNordeste,\na\ncaatinga\nse\ndestaca\npela\nocorrˆencia de ´arvores baixas, com troncos tor-\ntuosos, presen¸ca de espinhos e ra´ızes longas.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": {
+      "texto": "Os\ncampos\nlimpos\ns˜ao\ncaracterizados\npor\nextens˜oes\nde\nterras\nrecobertas\npor\nplantas\nherb´aceas, principalmente gram´ıneas, e sem ma-\ntas.",
+      "url_img": [],
+      "correta": false
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q47",
+    "edital": "unicamp",
+    "numero": 47,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Em 2025, a Comissão de Limites da Plataforma Continental \n(CLPC), da Organização das Nações Unidas (ONU), aprovou uma \nproposta do Brasil que pedia a ampliação da plataforma conti­\nnental na costa do litoral norte, como indicado na figura. A de­\ncisão reconhece o direito do Brasil de explorar a Margem Equa­\ntorial, em uma área equivalente à área territorial da Alemanha.\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p17_drawing2.png)\n\nNova fronteira\nbrasileira\nNova área marítima\nconquistada pelo Brasil\n\n200 milhas\n(limite marítimo\nem vigor até então)\n\nArquipélago\nde São Pedro\ne São Paulo\nAP\n\nOceano Atlântico\n\nAtol das \nRocas\n\nMA\n\nCE\n\nFernando\nde Noronha\n\nRN\n\nPB\n\nPI\n\nPE\n\n(Texto e mapas adaptados de https://g1.globo.com/economia/noticia/2025/03/27/brasil­\n-area-maritima-decisao-onu.ghtml. Acesso em 16/06/2025.)\n\nO cálculo de área de figuras planas irregulares envolve em geral \nnoções complexas de matemática. No caso de áreas de figuras \n\n16\n\nque estão impressas e/ou desenhadas em um papel, pode-se \nempregar um método prático, que considera a relação entre o \npeso do papel por unidade de área.\n\nPara calcular a área da região recentemente incorporada ao \nterritório brasileiro, um mapa contendo esta região, na escala \n1:5.000.000 — isto é, 1 cm no papel equivale a 5.000.000 cm \nno local — foi impresso em um papel cuja relação peso/área é \nde 75g/m2. A seguir, a parte do mapa referente a esta região foi \nrecortada e pesada, obtendo-se 1,0815g. \n\nA partir desses dados, é correto afirmar que a área obtida foi:",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p17_drawing2.png"
+    ],
+    "resolucao": "**Passo 1: Calcular a área da região no mapa (papel).**\n*   A relação peso/área do papel é de 75 g/m².\n*   O peso da parte recortada foi de 1,0815 g.\n*   Área no papel (A_papel) = Peso / (Peso/Área) = 1,0815 g / 75 g/m² = 0,01442 m².\n*   Para converter para cm²: 1 m² = (100 cm)² = 10.000 cm².\n*   A_papel = 0,01442 m² * 10.000 cm²/m² = 144,2 cm².\n\n**Passo 2: Aplicar a escala para encontrar a área real.**\n*   A escala linear é 1:5.000.000. Isso significa que 1 cm no papel equivale a 5.000.000 cm na realidade.\n*   A escala de área é o quadrado da escala linear. Portanto, 1 cm² no papel equivale a (5.000.000 cm)² na realidade.\n*   (5.000.000 cm)² = (5 × 10⁶ cm)² = 25 × 10¹² cm².\n*   Agora, precisamos converter essa área real para km²: 1 km = 100.000 cm (10⁵ cm). Logo, 1 km² = (10⁵ cm)² = 10¹⁰ cm².\n*   Área equivalente na realidade para 1 cm² no papel = (25 × 10¹² cm²) / (10¹⁰ cm²/km²) = 25 × 10² km² = 2.500 km².\n*   Então, 1 cm² (no papel) corresponde a 2.500 km² (na realidade).\n*   Área real (A_real) = A_papel * (fator de escala de área) = 144,2 cm² * 2.500 km²/cm².\n*   A_real = 360.500 km².\n\nA alternativa correta é a D.",
+    "dica": "Domine o conceito de escalas, tanto lineares quanto de área ou volume. Lembre-se que para uma escala linear de 1:N, a escala de área é 1:N² e a de volume é 1:N³. Pratique a conversão de unidades (cm para m para km e cm² para m² para km²), pois erros nesse passo são comuns. Organize seus cálculos para evitar confusões."
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "Escala Cartográfica",
+      "Conversão de Unidades",
+      "Proporcionalidade",
+      "Medida Indireta"
+    ]
+  },
+  "alternativas": {
+    "a": {
+      "texto": "359.900 km2.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "360.100 km2.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "360.300 km2.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "360.500 km2.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}
